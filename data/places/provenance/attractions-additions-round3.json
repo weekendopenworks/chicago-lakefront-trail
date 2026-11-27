@@ -1,0 +1,486 @@
+[
+  {
+    "id": "ten-thousand-ripples",
+    "name": "Ten Thousand Ripples",
+    "lat": 41.92849,
+    "lon": -87.6314244,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "On the trail",
+    "description": "White Buddha heads emerge from the grass beside the lakefront path south of Diversey Harbor.",
+    "fact": "Indira Johnson’s installation forms part of a citywide public-art project about peace and nonviolence.",
+    "practical": "The Park District lists this as a temporary installation; view it from the surrounding paths.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-ten-thousand-ripples-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-ten-thousand-ripples-artwork",
+      "https://www.openstreetmap.org/node/13112839402"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/13112839402",
+    "coordinateSource": "https://www.openstreetmap.org/node/13112839402; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "diversey-harbor",
+      "theater-on-the-lake"
+    ],
+    "aliases": [
+      "Indira Johnson",
+      "Buddha sculptures"
+    ]
+  },
+  {
+    "id": "charitas",
+    "name": "Charitas",
+    "lat": 41.9265903,
+    "lon": -87.6301685,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "On the trail",
+    "description": "A bronze woman carrying two children stands just south of Theater on the Lake.",
+    "fact": "Ida McClelland Stout designed it for the former children’s sanitarium in 1922. It returned to Lincoln Park in 2016.",
+    "practical": "View the restored sculpture from the lakefront paths beside the theater.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/charitas-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/charitas-artwork",
+      "https://www.openstreetmap.org/way/1446941780"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1446941780",
+    "coordinateSource": "https://www.openstreetmap.org/way/1446941780; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "theater-on-the-lake"
+    ],
+    "aliases": [
+      "Ida McClelland Stout"
+    ]
+  },
+  {
+    "id": "american-bison",
+    "name": "American Bison",
+    "lat": 41.9265609,
+    "lon": -87.6343786,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "Nearby detour",
+    "description": "A life-size steel bison stands near the entrance to the Peggy Notebaert Nature Museum.",
+    "fact": "Chris Williams created the sculpture in 1999; it was installed here in 2012.",
+    "practical": "Look for the outdoor sculpture near Cannon Drive; museum admission is separate.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/american-bison-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/american-bison-artwork",
+      "https://www.openstreetmap.org/node/11563278491"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/11563278491",
+    "coordinateSource": "https://www.openstreetmap.org/node/11563278491; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "peggy-notebaert-nature-museum",
+      "north-pond"
+    ],
+    "aliases": [
+      "Chris Williams",
+      "Bison"
+    ]
+  },
+  {
+    "id": "north-avenue-beach-dunes",
+    "name": "North Avenue Beach Dunes",
+    "lat": 41.9165452,
+    "lon": -87.6277471,
+    "category": "nature",
+    "subtype": "dunes",
+    "access": "On the trail",
+    "description": "Native beach grasses form a narrow dune habitat beside the northern part of North Avenue Beach.",
+    "fact": "About 13,000 marram-grass plants were added in 2018 to encourage dunes and reduce drifting sand.",
+    "practical": "Enjoy the habitat from the adjacent paved trail and keep off the planted dunes.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+      "https://www.openstreetmap.org/way/1258855013"
+    ],
+    "coordinateUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+    "coordinateSource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area; official Park District geolocation point, checked inside the mapped habitat polygon; reviewed 2026-11-18",
+    "pointKind": "official habitat reference point",
+    "featured": false,
+    "related": [
+      "north-avenue-beach"
+    ],
+    "aliases": [],
+    "coordinateMapUrl": "https://www.openstreetmap.org/way/1258855013"
+  },
+  {
+    "id": "butterfly-house",
+    "name": "The Butterfly House at Navy Pier",
+    "lat": 41.8923934,
+    "lon": -87.6106318,
+    "category": "landmark",
+    "subtype": "seasonal attraction",
+    "access": "Nearby detour",
+    "description": "A seasonal walk-through butterfly habitat occupies Navy Pier’s north lawn.",
+    "fact": "Visitors can observe free-flying butterflies in an enclosed garden.",
+    "practical": "Closed for the season as of November 2026; the operator announces a return in 2027. Check reopening dates and admission before visiting.",
+    "officialUrl": "https://butterflyhousechicago.com/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://butterflyhousechicago.com/",
+      "https://navypier.org/eat-drink-and-play/rides-and-games/",
+      "https://www.openstreetmap.org/way/1308482808"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1308482808",
+    "coordinateSource": "https://www.openstreetmap.org/way/1308482808; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "navy-pier",
+      "polk-bros-park"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "uss-chicago-anchor",
+    "name": "USS Chicago Anchor",
+    "lat": 41.8918655,
+    "lon": -87.5986606,
+    "category": "landmark",
+    "subtype": "maritime landmark",
+    "access": "Nearby detour",
+    "description": "A massive ship’s anchor rests near the eastern end of Navy Pier.",
+    "fact": "The anchor came from the third USS Chicago and was installed here in 1995.",
+    "practical": "Continue along the pier’s public promenade toward the east end.",
+    "officialUrl": "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+      "https://www.openstreetmap.org/way/1467696907"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1467696907",
+    "coordinateSource": "https://www.openstreetmap.org/way/1467696907; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "navy-pier"
+    ],
+    "aliases": [
+      "U.S.S. Chicago Anchor"
+    ]
+  },
+  {
+    "id": "bob-newhart-statue",
+    "name": "Bob Newhart Statue & Couch",
+    "lat": 41.8915034,
+    "lon": -87.5987703,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "Nearby detour",
+    "description": "A bronze Bob Newhart and an empty therapy couch invite a playful pause near the far end of Navy Pier.",
+    "fact": "Studio EIS created the tribute to his television character, psychologist Bob Hartley.",
+    "practical": "Find the sculpture near the pier’s southeast corner.",
+    "officialUrl": "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+      "https://www.openstreetmap.org/way/1467696911"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1467696911",
+    "coordinateSource": "https://www.openstreetmap.org/way/1467696911; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "navy-pier"
+    ],
+    "aliases": [
+      "Bob Hartley",
+      "The Bob Newhart Show"
+    ]
+  },
+  {
+    "id": "crack-the-whip",
+    "name": "Crack the Whip",
+    "lat": 41.8913145,
+    "lon": -87.6102083,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "Nearby detour",
+    "description": "Bronze children play a hand-in-hand running game near Navy Pier’s entrance.",
+    "fact": "J. Seward Johnson Jr.’s sculpture was installed in 1996.",
+    "practical": "Find it outside near the west end of the pier.",
+    "officialUrl": "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+      "https://www.openstreetmap.org/node/3744841485"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/3744841485",
+    "coordinateSource": "https://www.openstreetmap.org/node/3744841485; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "navy-pier",
+      "polk-bros-park"
+    ],
+    "aliases": [
+      "Seward Johnson"
+    ]
+  },
+  {
+    "id": "chicago-harbor-lighthouse",
+    "name": "Chicago Harbor Lighthouse",
+    "lat": 41.8893615,
+    "lon": -87.5905558,
+    "category": "landmark",
+    "subtype": "lighthouse",
+    "access": "Offshore sight",
+    "description": "A white lighthouse with red-roofed adjoining buildings stands on the offshore breakwater east of Navy Pier.",
+    "fact": "Its conical tower dates to 1893; the lighthouse became a Chicago Landmark in 2003.",
+    "practical": "An offshore sight, with no public land access. Look across the harbor from Navy Pier; this dot marks the lighthouse itself.",
+    "officialUrl": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273",
+      "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1912627/chicago-harbor-light/",
+      "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V7_2025.pdf",
+      "https://www.openstreetmap.org/way/1188397898"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1188397898",
+    "coordinateSource": "https://www.openstreetmap.org/way/1188397898; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "navy-pier"
+    ],
+    "aliases": [
+      "Chicago Harbor Light"
+    ]
+  },
+  {
+    "id": "us-navy-submarine-memorial",
+    "name": "U.S. Navy Submarine Memorial",
+    "lat": 41.887985,
+    "lon": -87.6179933,
+    "category": "landmark",
+    "subtype": "memorial",
+    "access": "Nearby detour",
+    "description": "A steel submarine-bulkhead memorial stands beside the Chicago River on the lower Riverwalk.",
+    "fact": "It recalls 28 Wisconsin-built submarines that passed through Chicago on their way to World War II service.",
+    "practical": "Follow the south-bank Riverwalk west from the lakefront, between Lake Shore Drive and Columbus Drive.",
+    "officialUrl": "https://crashdivebase.org/chicago-memorial/",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://crashdivebase.org/chicago-memorial/",
+      "https://chicago.gov/city/en/sites/chicagoriverwalk/home/site-history.html",
+      "https://www.openstreetmap.org/node/7025666063"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/7025666063",
+    "coordinateSource": "https://www.openstreetmap.org/node/7025666063; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "riverwalk-gateway",
+      "dusable-harbor"
+    ],
+    "aliases": [
+      "WWII Submarine Veterans Memorial",
+      "Chicago Submarine Memorial"
+    ]
+  },
+  {
+    "id": "riverwalk-gateway",
+    "name": "Riverwalk Gateway Murals",
+    "lat": 41.8877854,
+    "lon": -87.6140661,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "On the trail",
+    "description": "Painted ceramic panels fill the passage where the Chicago Riverwalk meets the Lakefront Trail beneath DuSable Lake Shore Drive.",
+    "fact": "Ellen Lanyon’s 28 panels follow the river’s history through scenes of people, engineering and wildlife.",
+    "practical": "The murals are at river level on the south bank, underneath the road bridge.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/riverwalk-gateway-murals-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/riverwalk-gateway-murals-artwork",
+      "https://www.openstreetmap.org/way/751520450"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/751520450",
+    "coordinateSource": "https://www.openstreetmap.org/way/751520450; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "dusable-harbor",
+      "us-navy-submarine-memorial"
+    ],
+    "aliases": [
+      "Ellen Lanyon",
+      "Chicago Riverwalk"
+    ]
+  },
+  {
+    "id": "fountain-figures",
+    "name": "Grant Park Fountain Figures",
+    "lat": 41.877127,
+    "lon": -87.6193126,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "Four small bronze children inhabit their own circular fountains in the gardens north and south of Buckingham Fountain.",
+    "fact": "Leonard Crunelle’s Crane Girl, Fisher Boy, Turtle Boy and Dove Girl moved to Grant Park in 1964.",
+    "practical": "The map dot marks Fisher Boy in the northern pair. The other two fountains are south of Buckingham Fountain; water operates seasonally.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-figures-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/fountain-figures-artwork",
+      "https://www.openstreetmap.org/way/230511525"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/230511525",
+    "coordinateSource": "https://www.openstreetmap.org/way/230511525; area-weighted centroid, checked inside the mapped feature; point marks Fisher Boy in the northern pair, not the center of all four fountains; reviewed 2026-11-18",
+    "pointKind": "ensemble reference at Fisher Boy",
+    "featured": false,
+    "related": [
+      "buckingham-fountain"
+    ],
+    "aliases": [
+      "Crane Girl",
+      "Fisher Boy",
+      "Turtle Boy",
+      "Dove Girl",
+      "Leonard Crunelle"
+    ]
+  },
+  {
+    "id": "montgomery-ward-bust",
+    "name": "Aaron Montgomery Ward Bust",
+    "lat": 41.8693261,
+    "lon": -87.6235963,
+    "category": "landmark",
+    "subtype": "memorial",
+    "access": "Nearby detour",
+    "description": "A bronze portrait honors the businessman whose lawsuits helped preserve Grant Park as open public space.",
+    "fact": "Milton Horn’s bust was rededicated at this site in 2005.",
+    "practical": "Look east of Michigan Avenue on the axis of 11th Street, at the southwest edge of Grant Park.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/aaron-montgomery-ward-bust",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/aaron-montgomery-ward-bust",
+      "https://www.openstreetmap.org/node/3554687647"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/3554687647",
+    "coordinateSource": "https://www.openstreetmap.org/node/3554687647; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "agora",
+      "logan-monument"
+    ],
+    "aliases": [
+      "A. Montgomery Ward"
+    ]
+  },
+  {
+    "id": "burnham-centennial-prairie",
+    "name": "Burnham Centennial Prairie",
+    "lat": 41.8470278,
+    "lon": -87.6099796,
+    "category": "nature",
+    "subtype": "prairie",
+    "access": "On the trail",
+    "description": "Prairie grasses and wildflowers occupy a long stretch of the Burnham Wildlife Corridor south of McCormick Place.",
+    "fact": "The Park District describes more than 50 acres of restored prairie habitat along this part of the lakefront.",
+    "practical": "Explore from the paved Lakefront Trail or designated mulch paths. Natural areas are open dawn to dusk.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+      "https://www.openstreetmap.org/way/769816397"
+    ],
+    "coordinateUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+    "coordinateSource": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie; official Park District geolocation point, checked inside the mapped habitat polygon; reviewed 2026-11-18",
+    "pointKind": "official habitat reference point",
+    "featured": false,
+    "related": [
+      "mccormick-bird-sanctuary",
+      "la-ronda-parakata"
+    ],
+    "aliases": [],
+    "coordinateMapUrl": "https://www.openstreetmap.org/way/769816397"
+  },
+  {
+    "id": "letter-to-bessie-coleman",
+    "name": "Letter to Bessie Coleman",
+    "lat": 41.8243877,
+    "lon": -87.5981055,
+    "category": "landmark",
+    "subtype": "public art",
+    "access": "On the trail",
+    "description": "Tall steel poles carry cut-out symbols into the sky near Oakwood Beach.",
+    "fact": "Bernard Williams created the work in 2018 in honor of aviation pioneer Bessie Coleman and her international spirit.",
+    "practical": "Find the sculpture near the 39th Street lakefront, beside the trail north of Oakwood Beach.",
+    "officialUrl": "https://bernardwilliamsart.com/artwork/4452526-Letter%20to%20Bessie%20Coleman.html",
+    "region": 7,
+    "regionName": "The southern harbors",
+    "sourceUrls": [
+      "https://bernardwilliamsart.com/artwork/4452526-Letter%20to%20Bessie%20Coleman.html",
+      "https://www.openstreetmap.org/way/1524460968"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/way/1524460968",
+    "coordinateSource": "https://www.openstreetmap.org/way/1524460968; area-weighted centroid, checked inside the mapped feature; reviewed 2026-11-18",
+    "pointKind": "mapped feature interior reference point",
+    "featured": false,
+    "related": [
+      "oakwood-beach",
+      "41st-street-bridge"
+    ],
+    "aliases": [
+      "Bernard Williams",
+      "Bessie Coleman"
+    ]
+  },
+  {
+    "id": "sankofa-for-the-earth",
+    "name": "Sankofa for the Earth",
+    "lat": 41.8179832,
+    "lon": -87.5964609,
+    "category": "landmark",
+    "subtype": "gathering space",
+    "access": "Nearby detour",
+    "description": "An art-filled gathering space sits among the trees of the Burnham Wildlife Corridor.",
+    "fact": "Artists from Bronzeville created the space around the Sankofa bird, a symbol of learning from the past.",
+    "practical": "Use the signed woodland paths from the 47th Street access area. Stay on paths through the surrounding habitat.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sankofa-earth-artwork",
+    "region": 8,
+    "regionName": "Burnham Park & the Point",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sankofa-earth-artwork",
+      "https://www.chicagoparkdistrict.com/events/earth-jam-family-day-sankofa-earth-burnham",
+      "https://www.gatheringspaces.org/",
+      "https://www.openstreetmap.org/node/13203542052"
+    ],
+    "coordinateUrl": "https://www.openstreetmap.org/node/13203542052",
+    "coordinateSource": "https://www.openstreetmap.org/node/13203542052; exact named OSM node; reviewed 2026-11-18",
+    "pointKind": "mapped feature point",
+    "featured": false,
+    "related": [
+      "burnham-nature-sanctuary",
+      "la-ronda-parakata"
+    ],
+    "aliases": []
+  }
+]

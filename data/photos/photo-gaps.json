@@ -1,0 +1,590 @@
+{
+  "reviewedAt": "2026-11-18",
+  "count": 34,
+  "places": [
+    {
+      "placeId": "osterman-beach-dunes",
+      "placeName": "Osterman Beach Dunes",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Osterman Beach Dunes",
+        "reason": "Beach photographs located, but none confidently show the specific dune restoration area with verified reuse permission. A generic beach view would conceal that distinction.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-osterman-beach-dunes-natural-area",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "come-to-light",
+      "placeName": "Come to Light",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Come to Light",
+        "reason": "No correctly identified photograph with a verified reuse license found for the mosaic on the old Osterman comfort station; newer beach-house photographs depict a different building.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/come-light-artwork",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "foster-beach-dunes",
+      "placeName": "Foster Beach Dunes",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Foster Beach Dunes",
+        "reason": "No confidently identified reusable photograph of the Foster dune habitat found. Search results include unrelated dunes outside Chicago.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-foster-beach-dunes",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "diversey-natural-area",
+      "placeName": "Diversey Natural Area",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Diversey Natural Area",
+        "reason": "No confidently identified freely licensed site photograph found in Commons, Openverse or targeted web searches. The natural area was established after the 2019 reference aerial; that older image cannot represent it.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "chevron",
+      "placeName": "Chevron",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Chevron",
+        "reason": "No correctly identified freely reusable photograph found for John Henry’s blue steel Chevron. Search results for chevron largely depict unrelated Chicago architecture.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/chevron-artwork",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "american-bison",
+      "placeName": "American Bison",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "american-bison",
+        "placeName": "American Bison",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "Search results for real zoo bison and Humboldt Park’s Edward Kemeys bison depict different subjects; not substituted for Chris Williams’s steel American Bison."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "curve-xxii",
+      "placeName": "Curve XXII · I Will",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Curve XXII · I Will",
+        "reason": "Flickr photographs of Ellsworth Kelly’s Curve XXII were found, but the photograph license alone does not establish permission for the underlying modern sculpture. No fully reusable candidate verified.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/curve-xxii-artwork",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "city-hall-relic",
+      "placeName": "City Hall Relic",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "City Hall Relic",
+        "reason": "No reusable photograph of this specific limestone finial found. Official photographs identify it, but have no explicit reuse license; fire relic and other City Hall remnants are different objects.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/city-hall-relic",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "north-avenue-beach-dunes",
+      "placeName": "North Avenue Beach Dunes",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "north-avenue-beach-dunes",
+        "placeName": "North Avenue Beach Dunes",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "chicago-fire-relic",
+      "placeName": "Chicago Fire Relic",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Chicago Fire Relic",
+        "reason": "No verified reusable photograph of the actual melted fire relic found under Chicago Fire Relic or Fire Blob aliases. Historical fire scenes and nearby museum exteriors do not depict this object.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "jane-addams-memorial-natural-area",
+      "placeName": "Jane Addams Memorial Natural Area",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Jane Addams Memorial Natural Area",
+        "reason": "No freely licensed image confidently depicts the specific native prairie. A candidate labeled Jane Addams Park visibly shows the separate Milton Lee Olive Park entrance and was rejected.",
+        "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/jane-addams-memorial-natural-area",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "butterfly-house",
+      "placeName": "The Butterfly House at Navy Pier",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "butterfly-house",
+        "placeName": "The Butterfly House at Navy Pier",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "flyover-chicago",
+      "placeName": "Flyover Chicago",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedOn": "2026-11-18",
+        "name": "Flyover Chicago",
+        "reason": "No freely licensed image of the indoor Flyover Chicago attraction found. Search results show the unrelated Navy Pier Flyover pedestrian bridge; those were rejected.",
+        "identitySource": "https://navypier.org/pier-locations/flyover/",
+        "searchedSources": [
+          "Wikimedia Commons exact-title and category search",
+          "Openverse licensed-image search",
+          "Targeted web search and primary attraction page"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "bob-newhart-statue",
+      "placeName": "Bob Newhart Statue & Couch",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "bob-newhart-statue",
+        "placeName": "Bob Newhart Statue & Couch",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "Exact statue Flickr candidates checked: one unavailable and Todd Franklin image all rights reserved. Portraits of the actor are wrong subjects."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "crack-the-whip",
+      "placeName": "Crack the Whip",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "crack-the-whip",
+        "placeName": "Crack the Whip",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "Exact Navy Pier photograph by Wally Gobetz uses CC BY-NC-ND 2.0; omitted. Other-city casts are not substituted."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "riverwalk-gateway",
+      "placeName": "Riverwalk Gateway Murals",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "riverwalk-gateway",
+        "placeName": "Riverwalk Gateway Murals",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "fountain-figures",
+      "placeName": "Grant Park Fountain Figures",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "fountain-figures",
+        "placeName": "Grant Park Fountain Figures",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "magma",
+      "placeName": "Magma",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "Exact searches yielded no confidently identified reusable image of the Chicago sculpture."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "chicago-horizon",
+      "placeName": "Chicago Horizon",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "No correctly identified reusable photograph found for the lakefront pavilion."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "agora",
+      "placeName": "Agora",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-artwork-rights",
+        "reviewedAt": "2026-11-18",
+        "title": "File:Agora - Chicago (15836505616).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agora_-_Chicago_(15836505616).jpg",
+        "photoLicense": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "Tony Webster from Portland, Oregon, United States",
+        "identityReview": "Wide actual-site view with park and city context. Commons category carries a NoFoP-US warning for the modern artwork; photographer CC BY 2.0 is verified separately.",
+        "identitySourceUrls": [
+          "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+          "https://www.openstreetmap.org/relation/10624440"
+        ],
+        "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+        "visualReview": true,
+        "reason": "Photographer CC BY 2.0 confirmed, but Commons flags the modern sculpture under NoFoP-US. Excluded from accepted photo manifest; no substitute accepted.",
+        "excludedFromManifest": true
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "american-doughboy",
+      "placeName": "American Doughboy",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "No reusable photo found for the specific indoor Soldier Field statue; rejected other-city Doughboy statues."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "burnham-centennial-prairie",
+      "placeName": "Burnham Centennial Prairie",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "burnham-centennial-prairie",
+        "placeName": "Burnham Centennial Prairie",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "caracol",
+      "placeName": "Caracol",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "Searches returned unrelated works and another city rather than this gathering space."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "31st-street-harbor",
+      "placeName": "31st Street Harbor",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "A wide city aerial showed harbor too small to identify; newer licensed shots show abstract shore seating rather than marina. Construction photos are not a useful present-day view."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "letter-to-bessie-coleman",
+      "placeName": "Letter to Bessie Coleman",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "letter-to-bessie-coleman",
+        "placeName": "Letter to Bessie Coleman",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "oakwood-beach",
+      "placeName": "Oakwood Beach",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "Only verified reusable candidate showed an unidentifiable wave close-up described as near Oakwood Beach, not the beach. Other results were in New Jersey and New York."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "la-sirena",
+      "placeName": "Mermaid · La Sirena",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+        "searchAttempts": [
+          "Exact-name Commons web search",
+          "Commons API phrase and intitle queries",
+          "Openverse exact and broad queries",
+          "Flickr original page checks where candidates existed"
+        ],
+        "rejected": "Flickr Mermaid 4781253540 is a person underwater, not the sculpture; Commons results were unrelated art or boats. CPD has a correct image but no reuse license found."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "sankofa-for-the-earth",
+      "placeName": "Sankofa for the Earth",
+      "status": "location-header-no-photo",
+      "method": "Bounded Commons/Flickr and primary-source search; no confidently identified reusable image acquired.",
+      "reviewEvidence": {
+        "placeId": "sankofa-for-the-earth",
+        "placeName": "Sankofa for the Earth",
+        "status": "gap-no-verified-reusable-photo",
+        "reason": "No confidently identified reusable photograph acquired in this bounded audit."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "burnham-nature-sanctuary",
+      "placeName": "Burnham Nature Sanctuary",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "reason": "No clearly licensed reusable image with confirmed identity found. Official Park District, design firm and news images identify the site but do not give a reusable photo license. Broader searches mostly returned unrelated churches or Burnham Beeches.",
+        "searchQueries": [
+          "\"Burnham Nature Sanctuary\"",
+          "\"Burnham\" sanctuary Chicago",
+          "\"Burnham\" \"nature\""
+        ],
+        "sourceUrls": [
+          "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-nature-sanctuary",
+          "https://www.thinkconfluence.com/what-we-do/sustainable-strategies/burnham-nature-sanctuary"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "david-wallach-fountain",
+      "placeName": "David Wallach Memorial Fountain",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+        "searchAttempts": [
+          "Exact-name Commons web search",
+          "Commons API phrase and intitle queries",
+          "Openverse exact and broad queries",
+          "Flickr original page checks where candidates existed"
+        ],
+        "rejected": "Flickr Wallach Walk Drinking Fountain 15138339862 is Central Park, New York. Correct Chicago results were NC-ND or institutional pages without an explicit reuse license."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "jackson-park-inner-harbor",
+      "placeName": "Jackson Park Inner Harbor",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "reason": "No suitable reusable close or medium-wide photograph confirmed. Exact harbor images found under noncommercial licenses; licensed Jackson Park aerial shows the inner harbor only as a small distant background feature and was not substituted as the harbor photo.",
+        "searchQueries": [
+          "\"Jackson Park Inner Harbor\"",
+          "\"Jackson Park\" \"inner\"",
+          "\"Jackson Park\" harbor"
+        ],
+        "sourceUrls": [
+          "https://www.flickr.com/photos/reallyboring/4355667314/",
+          "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jackson_Park,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "south-shore-beach",
+      "placeName": "South Shore Beach",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "reason": "Exact Chicago beach photos found primarily under CC BY-NC-ND; a CC BY-ND candidate title says \"I THINK\" the location is South Shore and was rejected for uncertain identity. Commons same-name beaches are in Milwaukee and apartment-building photos are not the beach.",
+        "searchQueries": [
+          "\"South Shore Beach\" Chicago",
+          "\"South Shore Cultural Center\" beach",
+          "\"South Shore\" Chicago beach licensed"
+        ],
+        "sourceUrls": [
+          "https://www.flickr.com/photos/reallyboring/13809865423/",
+          "https://www.flickr.com/photos/92432360@N00/1405406588"
+        ]
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "paul-robeson-theater",
+      "placeName": "Paul Robeson Theatre",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "gap-no-verified-photo",
+        "reviewedAt": "2026-11-18",
+        "searches": [
+          "Wikimedia Commons exact names and categories",
+          "Openverse commercial-reuse images",
+          "Flickr original source pages"
+        ],
+        "reason": "No reusable image of this specific theater found; generic Cultural Center interior is not identified as the theater."
+      },
+      "action": "retain-accurate-location-header"
+    },
+    {
+      "placeId": "south-shore-formal-garden",
+      "placeName": "South Shore Formal Garden",
+      "status": "location-header-no-photo",
+      "method": "Commons, Flickr and licensed-image searches; no confidently identified and reusable photo accepted.",
+      "reviewEvidence": {
+        "status": "no-verified-reusable-photo",
+        "reviewedAt": "2026-11-18",
+        "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+        "searchAttempts": [
+          "Exact-name Commons web search",
+          "Commons API phrase and intitle queries",
+          "Openverse exact and broad queries",
+          "Flickr original page checks where candidates existed"
+        ],
+        "rejected": "Commons and Openverse returned building exteriors, unrelated gardens, or noncommercial photos; none verified the actual formal garden with an unrestricted reuse license."
+      },
+      "action": "retain-accurate-location-header"
+    }
+  ]
+}

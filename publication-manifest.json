@@ -1,0 +1,1886 @@
+{
+  "version": 1,
+  "status": "reviewed file inventory",
+  "files": [
+    {
+      "path": ".editorconfig",
+      "bytes": 212,
+      "sha256": "8e1c9a78d4dedcde12bb3cd6279ce83942819d1cd178f1d9d731ef3a62606ac7"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug.md",
+      "bytes": 229,
+      "sha256": "3e0be4c5955d4f706470159a7a0f5ca3df1f5a99fc6e50ed414ebe6c1ed65384"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature.md",
+      "bytes": 147,
+      "sha256": "d9b101fdc53ac9b9172b52df12bd3e9983ab75cded7e8ee2948ae1a2b42a8171"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/geography.md",
+      "bytes": 281,
+      "sha256": "85c0b4b18aca9d781e49843b82a3af91e158cbd7aab2bbc782ef523a19ae1052"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/new-place.md",
+      "bytes": 234,
+      "sha256": "ac09f7779507629ab1b25220ef2afa0c9ee1c06040d6413ae2007dbc4af04c5a"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/photography.md",
+      "bytes": 329,
+      "sha256": "78c10f3c7552191fc8873c4a936a3a9f3276c190f11fcf1de8e7b136b212132c"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 500,
+      "sha256": "0b8ff5335b001c3a95aa004060d02c49b3019c73e9b9e8a0650cf163e993c11d"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "bytes": 1315,
+      "sha256": "39eec0a38f3354226df24f9dfd2e0a3f994674d460a5836b29cf564a362d0379"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 229,
+      "sha256": "21f882300c0cac89797ee8cde6360d60e1413dbd8ffff41c351cf9d869569b0d"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 894,
+      "sha256": "edfb76eed36e07b68e0609bb4b71e03506a0af46a24a2cb1a2dbfd58cd2f09d1"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 2255,
+      "sha256": "05bc64d95572e508396c53f9763b64fc7d5f687aaf402253546091df9746bef3"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1093,
+      "sha256": "d013b4fe0fc3dea5150c86614422bf2dee58a20a63634a31b2d69f3b3203cac1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4069,
+      "sha256": "e3303f73779ea4835da68253a7603222963e7650f79f4649bcec79ff6bad1f30"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 968,
+      "sha256": "cc321ee6fb86030bb3bbdd385bdc47089ad7d09918b5aff2c1cfc2d8f7f19465"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 3018,
+      "sha256": "2c78f720cd8cd5d7c694332a3606db97f95d34093627843ee69ac7eec971f371"
+    },
+    {
+      "path": "data/artwork/attribution.json",
+      "bytes": 1247,
+      "sha256": "68a555ac459bbeb2138968aa6abb74eb26233b45475901ee0567969f2a7343ec"
+    },
+    {
+      "path": "data/artwork/beach-house-v2.png",
+      "bytes": 1944626,
+      "sha256": "0325ec02102cc776d9e2007c1e708325f32088de802b385a4ae39b2710ecb04a"
+    },
+    {
+      "path": "data/artwork/museum.png",
+      "bytes": 3297057,
+      "sha256": "a00f8a7691ba31ed9160e6dcf75e1f66e62dea2f6abafb4e7057f63f3a85fe90"
+    },
+    {
+      "path": "data/artwork/shedd.png",
+      "bytes": 3061618,
+      "sha256": "2ff634cb0fc20a2cd0dc2aed0d0f88e3ddca35d6df5d9f9b441419ad2ec005dc"
+    },
+    {
+      "path": "data/artwork/soldier-field.png",
+      "bytes": 3048231,
+      "sha256": "7ffac614650edf49f7eab342edab72bf2653961fda7e8f5d604f481124aae5d8"
+    },
+    {
+      "path": "data/artwork/south-shore-v2.png",
+      "bytes": 2797252,
+      "sha256": "a34bf19fc7a1e9f389a4eef3aea72c8a1c6f89469051b13fb78168d6432eaa47"
+    },
+    {
+      "path": "data/geography/aerial-reference-audit.json",
+      "bytes": 7588,
+      "sha256": "9ddc017e22e79bd5bde7af19b0e81275f4e8d03a3fb3a8764970549c01dc4ed9"
+    },
+    {
+      "path": "data/geography/geography.json",
+      "bytes": 32173605,
+      "sha256": "bfc7ad1f66e864d45ab2ff1cec6d61b4782ebf850e8ca307baf0a22f8cdec84a"
+    },
+    {
+      "path": "data/geography/location-audit.json",
+      "bytes": 264200,
+      "sha256": "399eeaffd2f0ec90a71e2e993d98205799b9b51e39b07fe02aa8e80629ebf752"
+    },
+    {
+      "path": "data/geography/map-inputs.json",
+      "bytes": 8130,
+      "sha256": "6cd68dc4652994f784c5b2c1f1aee0a17eaf2fd90ea447acface79a770dff096"
+    },
+    {
+      "path": "data/geography/map-landmarks.json",
+      "bytes": 5169,
+      "sha256": "3600c6a7fad3482ff743cf0f844b072e71b15d5654188b8b96f88675b53dcd04"
+    },
+    {
+      "path": "data/geography/map-performance.json",
+      "bytes": 229,
+      "sha256": "47c68c15a2ce5e27cf8cc897222b6459b6f5d7172b7bbf9217730c0b7e1037e4"
+    },
+    {
+      "path": "data/geography/map-render-audit.json",
+      "bytes": 73235,
+      "sha256": "666bce62cd330e7bf9291b6df12fec8bf3ba1c4fe9bbfdc60727c996f1c07e3f"
+    },
+    {
+      "path": "data/geography/map-tile-manifest.json",
+      "bytes": 752,
+      "sha256": "7d02c5d1e228b10e16847bcbfb8eaac4902204008f3d620843ac155bc12bae54"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-existing.json",
+      "bytes": 43391,
+      "sha256": "e996078851e2f829b28e5f50b2154816b0e646b8d15f5d8920992552ccf408f1"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-north.json",
+      "bytes": 62054,
+      "sha256": "8b5640717fd161fe288d0c7bb05c993100adbb95a4c977051c937e32d9caa805"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-round2.json",
+      "bytes": 90091,
+      "sha256": "42a54b8b79433a2a46723c735c74ed18ca456547a502e96230701f36af7b2187"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-round3-additions.json",
+      "bytes": 50015,
+      "sha256": "9172fb8d7994f587037c46409080a8200c9b2fe2d7f7f158c3ede0fd774d5f88"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-round3.json",
+      "bytes": 220525,
+      "sha256": "a78865260c0a4f4a500ffcc62c303efeda354ca892d67707459534842c7d364e"
+    },
+    {
+      "path": "data/geography/provenance/location-audit-south.json",
+      "bytes": 25970,
+      "sha256": "3196f89fd82e6918612922764c530070a8c21287a52bfc40b2cd978621591ea7"
+    },
+    {
+      "path": "data/geography/provenance/source-checks-round3.json",
+      "bytes": 54709,
+      "sha256": "4824cff00a20880a70cd5b7f0a035a987de01d57137f4b9a7762633d8d1f9503"
+    },
+    {
+      "path": "data/geography/provenance/source-checks.json",
+      "bytes": 6379,
+      "sha256": "371a1e30f17fcc13ed36087e35168b2bfce3439d8a0aa43025d794865cd01d75"
+    },
+    {
+      "path": "data/geography/trail-render-audit.json",
+      "bytes": 3609,
+      "sha256": "4650230bfc16f67095a1efa061b37e60176d85a9000068af2fd6ad104b29378c"
+    },
+    {
+      "path": "data/geography/trail-routes.json",
+      "bytes": 274864,
+      "sha256": "f2aa20b8a57fcfea0a93b5627566a1de8777d465f8035156c34791a7f58a01e2"
+    },
+    {
+      "path": "data/photos/photo-audit.json",
+      "bytes": 297634,
+      "sha256": "378c59da3a371edd30d4db8da9a56e7cc9cbfa6ed096b7cb13fb08aaf707baca"
+    },
+    {
+      "path": "data/photos/photo-gaps.json",
+      "bytes": 28744,
+      "sha256": "130b92cb17280bc875b08cdcae4c97b8773974853ba5197f111e9cbb180037b2"
+    },
+    {
+      "path": "data/photos/photos.json",
+      "bytes": 82773,
+      "sha256": "370e36073f0ba164977f29cfb9f58bd5a8f7a29c1dae431785523eea9d7c5812"
+    },
+    {
+      "path": "data/photos/provenance/photo-audit-round3.json",
+      "bytes": 275701,
+      "sha256": "3003bc3c19e00ad6f0a2c07296a785c0e5838e48a3179e273fc75f57be5fa613"
+    },
+    {
+      "path": "data/photos/provenance/photo-geography-review-round2.json",
+      "bytes": 17376,
+      "sha256": "9fe50a2d3df73091e41c0078ce85e2e7f838a34f2019ead3bf2b697e6c7b140e"
+    },
+    {
+      "path": "data/photos/provenance/photo-integration-audit.json",
+      "bytes": 1516,
+      "sha256": "0d62f2814434ed977a70ea789f2aa09c639aa2f9943a69165a2738577c58e4aa"
+    },
+    {
+      "path": "data/photos/provenance/photo-review-north-expansion.json",
+      "bytes": 58139,
+      "sha256": "726d7fed6f559bf3d3323b82832afa168fbb19fec9ca224e21cbfa4a43ffa0a9"
+    },
+    {
+      "path": "data/photos/provenance/photo-review-root-expansion.json",
+      "bytes": 26506,
+      "sha256": "a88291639e6e0810ced038a866191a7218fb58344fc2a9f6c87bc8c4add7564a"
+    },
+    {
+      "path": "data/photos/provenance/photo-review-round3.json",
+      "bytes": 9549,
+      "sha256": "d8cce9212fa6587208c6bccbca5d94f6290748a6905d10fbad034f69b660e46d"
+    },
+    {
+      "path": "data/photos/provenance/photo-review-south-expansion.json",
+      "bytes": 36521,
+      "sha256": "5d36757aa38edade5e68f69628f67995b4d2124e9dafa71844c1ac074dd9feae"
+    },
+    {
+      "path": "data/photos/provenance/photo-review-south-nature.json",
+      "bytes": 11945,
+      "sha256": "d627597eed744b94d42e88e59128160b35e4c3bcfb86440f3190ee80e590e873"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata-north-expansion.json",
+      "bytes": 453514,
+      "sha256": "3c89d3f2ea373b4a2099f43de2c8f9d30419139606dd4fea3403786685330fff"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata-root-expansion.json",
+      "bytes": 182418,
+      "sha256": "21920e858fd07bb5e18d341478b1f65f3b2b2c9a4409a374442b8133f694a56e"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata-round3.json",
+      "bytes": 246369,
+      "sha256": "bdcc5343275b7739f0d654d0248166b67c1bf2190e9f0a51aec5f7eabf18c6a0"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata-south-expansion.json",
+      "bytes": 230543,
+      "sha256": "2b22cbe9758e2f2291cf776250cb248c4d28af2c67d3064d83353b2669a810f9"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata-south-nature.json",
+      "bytes": 30083,
+      "sha256": "86667d1ad6f1e8a9227287a765ae322e5a7739cbfcf7aa740baa50ef1a305ab4"
+    },
+    {
+      "path": "data/photos/provenance/photo-source-metadata.json",
+      "bytes": 1090607,
+      "sha256": "c08b2170e498c1874b3ec872cc1b22ad29760ba5450a0bdb59eda96e08c14edf"
+    },
+    {
+      "path": "data/photos/provenance/photos-north-expansion.json",
+      "bytes": 21276,
+      "sha256": "15e79632ef33f4dc1b1f6b00209b7fd3f9f59b150cc2cbcd78e389922a410c4c"
+    },
+    {
+      "path": "data/photos/provenance/photos-root-expansion.json",
+      "bytes": 17692,
+      "sha256": "0942b6a884f252a1a4c4d415f3616770f176cca86bf28dc70fc606e364a43720"
+    },
+    {
+      "path": "data/photos/provenance/photos-round3.json",
+      "bytes": 4547,
+      "sha256": "c48138f5de217cd854bb0c6f29362227d339e406d4f48fdb37daecec0f35dd89"
+    },
+    {
+      "path": "data/photos/provenance/photos-south-expansion.json",
+      "bytes": 18564,
+      "sha256": "9e535fc1239dcbbf9486ba1a82ae719e70f98ca9c436eecc3ade7575ab3ea743"
+    },
+    {
+      "path": "data/photos/provenance/photos-south-nature.json",
+      "bytes": 3570,
+      "sha256": "6e95cfd1856c01b844074c527af1c3e057c7efd4a55a0be35f63d69b6f6977dd"
+    },
+    {
+      "path": "data/photos/reviewed-photos.json",
+      "bytes": 83064,
+      "sha256": "e82e95e20ffa43a6746e508de426bffb695625a06b56a5aa620aba2de5fc970e"
+    },
+    {
+      "path": "data/places/places.json",
+      "bytes": 239574,
+      "sha256": "3e1b20aaf14d2a919734ddbea4c9b45d3efa39d6a1ef4006b1654eec4e86ad40"
+    },
+    {
+      "path": "data/places/provenance/attractions-additions-round2.json",
+      "bytes": 60472,
+      "sha256": "481586f5396caeb012242837d7b61aa661f5343fc635e98a317940399e81fa69"
+    },
+    {
+      "path": "data/places/provenance/attractions-additions-round3.json",
+      "bytes": 21511,
+      "sha256": "ddefc01a90e9f1db7226f0c8d9b987e6333664362a1c22288cd4a7ef6889e9db"
+    },
+    {
+      "path": "data/places/provenance/attractions-north.json",
+      "bytes": 46270,
+      "sha256": "cb2208aac9f66f30f1ba6637a12c7c1319db2b13c00cbbf947a4b42185ead704"
+    },
+    {
+      "path": "data/places/provenance/attractions-south.json",
+      "bytes": 44049,
+      "sha256": "0dba996a70cd76a0f8f6c646bce938d90f3ead7115cc6fd3184a62b94c1533cb"
+    },
+    {
+      "path": "data/places/provenance/discoveries-audit-round2.json",
+      "bytes": 34912,
+      "sha256": "41fb7abfc4e0b26b618400a0a9f53593aeda0ea1efa9ee29911bde9f7b36679e"
+    },
+    {
+      "path": "data/places/provenance/discoveries-audit-round3.json",
+      "bytes": 31872,
+      "sha256": "66946f3881a255da648f0e2225c64f4bcfc4b6356b2b2464fc0d6baa5f6992d0"
+    },
+    {
+      "path": "data/places/provenance/final-audit.json",
+      "bytes": 2344,
+      "sha256": "bd08cdea5865fd892866bd49f1c9b628c3052f3dcd43e595d9cabae7c6b4b854"
+    },
+    {
+      "path": "docs/adding-places.md",
+      "bytes": 2149,
+      "sha256": "c0e846da00ff8f54b7063b0432736abec1aad4b46380b21e4396f0d8ae5aa603"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 4436,
+      "sha256": "5a00e5abf6205cde662d557df86ff2a08a1ac36d708b1e4019297da75f79fb88"
+    },
+    {
+      "path": "docs/data-sources.md",
+      "bytes": 2370,
+      "sha256": "fb255e763d0a09fac7ceb6f0d9f31ff323275a09eb25ff1cdc5cae02fc43dd97"
+    },
+    {
+      "path": "docs/development.md",
+      "bytes": 8704,
+      "sha256": "af6e591144ae5da92a3c9af9195c22eb8337986b42733782e635ff2e5f4fe08d"
+    },
+    {
+      "path": "docs/map-generation.md",
+      "bytes": 3387,
+      "sha256": "32e272f0b85d5044b636d2ad6e941fe7cb2fecd4587dd879d0798b508138ba97"
+    },
+    {
+      "path": "docs/map-interactions.md",
+      "bytes": 4315,
+      "sha256": "f0b92c96065f9b2eb810ab2c363872bcd29fcb941e54aea04b9ec90f3e91c82a"
+    },
+    {
+      "path": "docs/photography.md",
+      "bytes": 2394,
+      "sha256": "bd3c047e7e9ea6d037aedb4fac5d223b71b400ded7deff6b7386974d7a9f9d17"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 263,
+      "sha256": "57491df5c3e36d8480b4248371a9f1e388de0f864eabe5887b724c2a493c764c"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1543,
+      "sha256": "81b1460ad55bcdd1e5015ade981903e0d853fbd7297d89b62ac53cbd39b4b099"
+    },
+    {
+      "path": "public/LICENSE.txt",
+      "bytes": 1093,
+      "sha256": "d013b4fe0fc3dea5150c86614422bf2dee58a20a63634a31b2d69f3b3203cac1"
+    },
+    {
+      "path": "public/app.js",
+      "bytes": 49615,
+      "sha256": "57ccedfa25abe9364b156709048d1f3afa366999c1695b2f68c60bc1b9a067b9"
+    },
+    {
+      "path": "public/assets/beach-house-v2.webp",
+      "bytes": 52196,
+      "sha256": "c83472c382dd937ffdacf8181ae7c86c64aecc8313254e1f5175f4b67162ccd7"
+    },
+    {
+      "path": "public/assets/beach-house.webp",
+      "bytes": 113650,
+      "sha256": "450f9f723bd5e3cb6a19281984d0f821cbe38ee5a5540c8eb0838f2a766fdaea"
+    },
+    {
+      "path": "public/assets/favicon.svg",
+      "bytes": 242,
+      "sha256": "913160aeba8baa2c9d7c9f907c121bf215d2c3c9ec1daf87c484936ca13c65e3"
+    },
+    {
+      "path": "public/assets/grove.webp",
+      "bytes": 319268,
+      "sha256": "471a61dd9cc731a9ccb30a6d3ade068131d75f3e19387b7fa02925f54df2dcd3"
+    },
+    {
+      "path": "public/assets/harbor.webp",
+      "bytes": 224100,
+      "sha256": "b0c45a54b793d06f5920c4230bd0a880870e9b00f70d7ec2d0b7e788b24f0f2b"
+    },
+    {
+      "path": "public/assets/map/preview-0.svg",
+      "bytes": 5370,
+      "sha256": "f006854fe53f225a6a02f17fa09d470f482586bc472253cfb8d50aabbc2b26fe"
+    },
+    {
+      "path": "public/assets/map/preview-1.svg",
+      "bytes": 5374,
+      "sha256": "8026707597583cd3987a8fbdcfa882babb4eaab9511246f1cb09aa6aff02e3df"
+    },
+    {
+      "path": "public/assets/map/preview-2.svg",
+      "bytes": 5376,
+      "sha256": "f996edf27406fc94f729e7b7dd009666ab512deab2f75675796398ce7a1a6445"
+    },
+    {
+      "path": "public/assets/map/preview-3.svg",
+      "bytes": 5376,
+      "sha256": "dd610695445a717db0d65ac7cfffa46bf2247ca19c4b715929ef1e728a7d5a00"
+    },
+    {
+      "path": "public/assets/map/preview-4.svg",
+      "bytes": 5376,
+      "sha256": "886725842d7ddc23220b6d67b1b14502a14b68cd69a82c91c6e858ace44d7ccb"
+    },
+    {
+      "path": "public/assets/map/preview-5.svg",
+      "bytes": 5376,
+      "sha256": "c93c6b87481987cd638ae552e67e0bc458a0d3e624e9b737c52307bb11966de2"
+    },
+    {
+      "path": "public/assets/map/preview-6.svg",
+      "bytes": 5376,
+      "sha256": "53d403bb56024cdf5e7cc13c38120af23aaf791468333fbc0f47b9447e32f755"
+    },
+    {
+      "path": "public/assets/map/preview-7.svg",
+      "bytes": 5376,
+      "sha256": "e530bea2a5c4b1843066bd11b3e4ddc4a5b6dc8eca328825e5c2c2122b89694c"
+    },
+    {
+      "path": "public/assets/map/preview-8.svg",
+      "bytes": 5376,
+      "sha256": "df51ff0b488e1a26878f18202287c799e6d3681d02120381cfaf23412306d5a7"
+    },
+    {
+      "path": "public/assets/map/preview-9.svg",
+      "bytes": 5376,
+      "sha256": "ec4982f9cbe55d459b43beb5888ce0af914c04a2bea5c7cd9c1f30e790f1c590"
+    },
+    {
+      "path": "public/assets/map/section-0.svg",
+      "bytes": 2985159,
+      "sha256": "d0ab1e0651c9f98f0fbc77f92a80334f878f7de951c4384eeebdb72f4c48ca29"
+    },
+    {
+      "path": "public/assets/map/section-1.svg",
+      "bytes": 3313718,
+      "sha256": "93a14a9514da2e6e5811c55b544f28ed33a327b89c3fb5a95837c3723c44b060"
+    },
+    {
+      "path": "public/assets/map/section-2.svg",
+      "bytes": 4905459,
+      "sha256": "f29e09598ba6a6d4676845d159b796efde7aced5805786cde1632f856c802fe6"
+    },
+    {
+      "path": "public/assets/map/section-3.svg",
+      "bytes": 3833665,
+      "sha256": "f40473c008d8fe8306d691af1daffed008dd2d643a1e36df6fca0e153a7accf3"
+    },
+    {
+      "path": "public/assets/map/section-4.svg",
+      "bytes": 2749700,
+      "sha256": "6dd1fddb46513d97b3a18d60cd649c295dcdce6108e26f39ccd71c861a01a259"
+    },
+    {
+      "path": "public/assets/map/section-5.svg",
+      "bytes": 2854114,
+      "sha256": "5c02892479fcc725b3af40788cabc37d648be5a14dde2f91c300f47c724fe863"
+    },
+    {
+      "path": "public/assets/map/section-6.svg",
+      "bytes": 2017466,
+      "sha256": "39f3ca8eb70e5259b85e2328741d04e88520bf19bfa363f993b786880b6c8da9"
+    },
+    {
+      "path": "public/assets/map/section-7.svg",
+      "bytes": 2837333,
+      "sha256": "38e4a7e177c079a00c37ef3a1a32263bf612c955f6584b707425dd279c8569e2"
+    },
+    {
+      "path": "public/assets/map/section-8.svg",
+      "bytes": 2432011,
+      "sha256": "91949302d9b09a19fc576449765579cacacfee3465f684b52ac64d25db8bed96"
+    },
+    {
+      "path": "public/assets/map/section-9.svg",
+      "bytes": 3060052,
+      "sha256": "5cb79ed665316e9b6f434fb54063aa2939502f00d619a243fde5d78c8c12136f"
+    },
+    {
+      "path": "public/assets/map/tile-0-0.webp",
+      "bytes": 105586,
+      "sha256": "aa6beeca5ee45e10fa1b79bdb9ec0956335852d9c4e3059888f40687672f5af9"
+    },
+    {
+      "path": "public/assets/map/tile-0-1.webp",
+      "bytes": 151620,
+      "sha256": "0c914fcd1b88178a643772faf64efec8a892b76da33d0ae55bc0803f0005ed95"
+    },
+    {
+      "path": "public/assets/map/tile-0-2.webp",
+      "bytes": 15040,
+      "sha256": "4e1f1ee7d2955540ca6d93518ea787f9c7666ccd37441c8773fddcdfccff3857"
+    },
+    {
+      "path": "public/assets/map/tile-0-3.webp",
+      "bytes": 13254,
+      "sha256": "2575ffbff7d4fc5fe278adfb04c244413bb6d91bb077ebaed2d1ba0ee3d608d9"
+    },
+    {
+      "path": "public/assets/map/tile-1-0.webp",
+      "bytes": 37376,
+      "sha256": "bc67d4de08d22640aeae9aa79dcdf7dcaa202fd82e42bcc9770833e94d0d901e"
+    },
+    {
+      "path": "public/assets/map/tile-1-1.webp",
+      "bytes": 273246,
+      "sha256": "68a824de0d2e74bf1221d4fa61b1217e0f05a06059a5c0e3d8d4d86d364b06ba"
+    },
+    {
+      "path": "public/assets/map/tile-1-2.webp",
+      "bytes": 15412,
+      "sha256": "4b1a3814fbb0f40e05084acc564537de1f4785f741dcc184a7ccb915ac03fd0c"
+    },
+    {
+      "path": "public/assets/map/tile-1-3.webp",
+      "bytes": 13756,
+      "sha256": "7cb5276e5f43526f44755e5edf1fdd5241ab621d18b4c88572956f0acfe1b824"
+    },
+    {
+      "path": "public/assets/map/tile-2-0.webp",
+      "bytes": 17298,
+      "sha256": "00ee4c458fcd4463257073ff7f00f3f7c9538fcda1973c28c8e68001a8a8e560"
+    },
+    {
+      "path": "public/assets/map/tile-2-1.webp",
+      "bytes": 364560,
+      "sha256": "23a3cd4f5431c5609283e1bd02f69be08c7ee67fd30177d89cde688adfd51926"
+    },
+    {
+      "path": "public/assets/map/tile-2-2.webp",
+      "bytes": 15906,
+      "sha256": "1830ab2c4b187d65813ecf3b8aee9038931354a48a74385e0dfffab24400220a"
+    },
+    {
+      "path": "public/assets/map/tile-2-3.webp",
+      "bytes": 13476,
+      "sha256": "440e73deb4fbcf73273504e2003d94af15e72a2bbf6f121c83bb8a0e9c8ee4d5"
+    },
+    {
+      "path": "public/assets/map/tile-3-0.webp",
+      "bytes": 5926,
+      "sha256": "3c1dd3d4af9fdc486156231c34d3a5f836976c5cd6d468f514fed7cd984660ce"
+    },
+    {
+      "path": "public/assets/map/tile-3-1.webp",
+      "bytes": 322794,
+      "sha256": "7e0c746d49d0d42e114c3b54ee57fab9a7e7b373f80919fc3d3b2c75b1e923b4"
+    },
+    {
+      "path": "public/assets/map/tile-3-2.webp",
+      "bytes": 16818,
+      "sha256": "f261a0163624160f1f5620b5d9040148eea48157cc47779d00171a88904bfd11"
+    },
+    {
+      "path": "public/assets/map/tile-3-3.webp",
+      "bytes": 13248,
+      "sha256": "e51f8365b4e32bc39845faa7999f227e6c8fb8dd1d200d1e48967a77f3a0651e"
+    },
+    {
+      "path": "public/assets/map/tile-4-0.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-4-1.webp",
+      "bytes": 194260,
+      "sha256": "20d1566bb430698d1272a91c8ceb2c45d9b169e38087f437fce1df4a8c48ded8"
+    },
+    {
+      "path": "public/assets/map/tile-4-2.webp",
+      "bytes": 105414,
+      "sha256": "7b67d2b6dba085c6d332bb809680fa0e69683779cb1c953cee340beccacef40f"
+    },
+    {
+      "path": "public/assets/map/tile-4-3.webp",
+      "bytes": 13492,
+      "sha256": "1ac2de04543a56fdbd0d0df6d8c7bed4ad80d00a071fda97328551c9939ce19c"
+    },
+    {
+      "path": "public/assets/map/tile-5-0.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-5-1.webp",
+      "bytes": 175206,
+      "sha256": "ad6a1781b2e36c07953342ffbde60437eed6d1967a05b7d8653ab6733dcc8cd4"
+    },
+    {
+      "path": "public/assets/map/tile-5-2.webp",
+      "bytes": 120998,
+      "sha256": "38bf2de3b596a7214ced54e42c080806bc22349a1623aa1505ff215f47ff0f88"
+    },
+    {
+      "path": "public/assets/map/tile-5-3.webp",
+      "bytes": 13496,
+      "sha256": "51bb278671fa53d7b941e3ad9bb40043b8bc757b337c6f73b1c4a977ba7fb456"
+    },
+    {
+      "path": "public/assets/map/tile-6-0.webp",
+      "bytes": 6982,
+      "sha256": "69e5ee6f8022d03bec15d652f155f82eed306eed1febd1d87f7bd82c7834b7b8"
+    },
+    {
+      "path": "public/assets/map/tile-6-1.webp",
+      "bytes": 137046,
+      "sha256": "181303359435b796b0323454cf684b1f106971227332007a2baa6c0f314f202a"
+    },
+    {
+      "path": "public/assets/map/tile-6-2.webp",
+      "bytes": 137186,
+      "sha256": "5afb6061fd1d73467c4700abf723f8c3709a2b9e2e30479aaa45a23847a06f53"
+    },
+    {
+      "path": "public/assets/map/tile-6-3.webp",
+      "bytes": 13434,
+      "sha256": "f8de345a925fde4d82a20f8cd8a904d1bec0c891a304635482faa754185ee15a"
+    },
+    {
+      "path": "public/assets/map/tile-7-0.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-7-1.webp",
+      "bytes": 25146,
+      "sha256": "9889c18b3962113e4aa8d9b643e731509cd9b059d57edd0c72aeb7538671276b"
+    },
+    {
+      "path": "public/assets/map/tile-7-2.webp",
+      "bytes": 287668,
+      "sha256": "e5cb78141586a9e7be58fd472ad0d234a8828167229f962a028baaed3e5de240"
+    },
+    {
+      "path": "public/assets/map/tile-7-3.webp",
+      "bytes": 13710,
+      "sha256": "eaec4b297b41ce6e5681fec468e241cf976f358c30effe40d97a76614e3c2aeb"
+    },
+    {
+      "path": "public/assets/map/tile-8-0.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-8-1.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-8-2.webp",
+      "bytes": 244266,
+      "sha256": "5a79d50c5518a1c305769dc619751fc6dae5963e86807bf12d1bb890b13c5fc7"
+    },
+    {
+      "path": "public/assets/map/tile-8-3.webp",
+      "bytes": 19652,
+      "sha256": "224856f4ca9ad08018bb80bf12d8a017f5d226e9578015308414161806431d0f"
+    },
+    {
+      "path": "public/assets/map/tile-9-0.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-9-1.webp",
+      "bytes": 4162,
+      "sha256": "7951bef639a4819fd432657133a94a1e9578d501e6ade7e408ee052a35f5f38b"
+    },
+    {
+      "path": "public/assets/map/tile-9-2.webp",
+      "bytes": 172852,
+      "sha256": "4bd9ac68c5d601ca888633c77e1672c04019a94e33a185f35a2554e6d3806c19"
+    },
+    {
+      "path": "public/assets/map/tile-9-3.webp",
+      "bytes": 119058,
+      "sha256": "c67428d768a968316a2551f7ef5e03541fd7c757093cd2290d1bac131e3d9798"
+    },
+    {
+      "path": "public/assets/museum.webp",
+      "bytes": 189510,
+      "sha256": "2f8f13a6076d5e96f1104b69ad6e82057c03a5d8cbe5e6a2255b42ea085e9d64"
+    },
+    {
+      "path": "public/assets/navy-pier.webp",
+      "bytes": 129322,
+      "sha256": "c2ad535be5f11763a9acc70cc8637585687658b4c75ff24b8d44616e6555a4cd"
+    },
+    {
+      "path": "public/assets/og-map.jpg",
+      "bytes": 142240,
+      "sha256": "8ce2bc7c66c7675e32f42d90642f9e416eecc64fa582a0a70e70cae5f8cd04b9"
+    },
+    {
+      "path": "public/assets/photos/12th-street-beach.webp",
+      "bytes": 80940,
+      "sha256": "9d8286d9c97ddb3a720e510a25c54d8764a7a6fb6b4ec6085aa52b37a714628c"
+    },
+    {
+      "path": "public/assets/photos/1919-race-riot-memorial.webp",
+      "bytes": 293918,
+      "sha256": "1446463e169e342f991f9224ec89dc6e6385e5935bab8ae0c9ccc13d9d2d6697"
+    },
+    {
+      "path": "public/assets/photos/31st-street-beach.webp",
+      "bytes": 78432,
+      "sha256": "bdea0603bd4f33e6eb79422ac1396dd53601fc9ec6f72761523c28d0f858f6da"
+    },
+    {
+      "path": "public/assets/photos/35th-street-bridge.webp",
+      "bytes": 99336,
+      "sha256": "4e3f122c20dd4d46fdeae773782b8a01acd208682a7ffdf1eb4b5ca747a051a2"
+    },
+    {
+      "path": "public/assets/photos/41st-street-bridge.webp",
+      "bytes": 49576,
+      "sha256": "028f5b5334d57e56979a4ac82cde3016072c895655130919d98ae63728391f02"
+    },
+    {
+      "path": "public/assets/photos/57th-street-beach.webp",
+      "bytes": 132092,
+      "sha256": "a683c083f98cccd0da76c1498f9de4b3380e8783a1a672a61b9c0358478dd424"
+    },
+    {
+      "path": "public/assets/photos/59th-street-harbor.webp",
+      "bytes": 43788,
+      "sha256": "ec9179324710938448c18966d84b3c26fb9cc42a84fc17b117b8b978ca710e84"
+    },
+    {
+      "path": "public/assets/photos/63rd-street-beach-dunes.webp",
+      "bytes": 13410,
+      "sha256": "4d5319c1f4bdeae1c2180332ef2a4f1e885be56cf1bd3ee59588cc4a42c2b00e"
+    },
+    {
+      "path": "public/assets/photos/63rd-street-beach-house.webp",
+      "bytes": 65318,
+      "sha256": "96b2fa2aee81f126ef23c6b3bb31ef411badc3fc2e5a005efca213f98c13f0a8"
+    },
+    {
+      "path": "public/assets/photos/63rd-street-beach.webp",
+      "bytes": 65318,
+      "sha256": "96b2fa2aee81f126ef23c6b3bb31ef411badc3fc2e5a005efca213f98c13f0a8"
+    },
+    {
+      "path": "public/assets/photos/71st-street-trailhead.webp",
+      "bytes": 272444,
+      "sha256": "b91ac67107bd91dee56007e02dd814be576f360510d2bc67de16002b149aa51d"
+    },
+    {
+      "path": "public/assets/photos/adler-planetarium.webp",
+      "bytes": 54622,
+      "sha256": "23c2d0c17bba38c266b09200b9940fe3dc5730fd389d21bd81fc1955c7092c9b"
+    },
+    {
+      "path": "public/assets/photos/aids-garden.webp",
+      "bytes": 212518,
+      "sha256": "dacb5f7daa333152d77cab98a04ba84be9328434ae0e648412d0af7195836d4e"
+    },
+    {
+      "path": "public/assets/photos/altgeld-monument.webp",
+      "bytes": 207304,
+      "sha256": "0be46e984fd45f33dafb61ddc1a03d0c9237e736e5642fba277e8ac2e720fd40"
+    },
+    {
+      "path": "public/assets/photos/americas-courtyard.webp",
+      "bytes": 150372,
+      "sha256": "0afbe9524c09b46a167f553c99d6770dfcfe721aafa8f5abcda06363b95bacc0"
+    },
+    {
+      "path": "public/assets/photos/andersen-monument.webp",
+      "bytes": 168444,
+      "sha256": "7adbbe97c0d81b1fb02f5bcdad829e865127acfd0ab2f6b866fce669f620a95c"
+    },
+    {
+      "path": "public/assets/photos/ardmore-trailhead.webp",
+      "bytes": 147952,
+      "sha256": "2b4a1adb6163a8ff60073431705ba024be8f0629df77c84b68801f7fd28b7b39"
+    },
+    {
+      "path": "public/assets/photos/arie-crown-theater.webp",
+      "bytes": 144882,
+      "sha256": "4ab8f0a46d9446de8f2a152e511b978af7852d0710050fb3f0b8aa0ee1a3651c"
+    },
+    {
+      "path": "public/assets/photos/art-institute-lions.webp",
+      "bytes": 138160,
+      "sha256": "44444b2b5db36936d801205b0062524085d189b1299124cfde7470598727dd32"
+    },
+    {
+      "path": "public/assets/photos/art-institute.webp",
+      "bytes": 58108,
+      "sha256": "d6033bb60480fa3f4aab9d359cc99b4bf93738f2b546db971173e9605127be82"
+    },
+    {
+      "path": "public/assets/photos/balbo-monument.webp",
+      "bytes": 69872,
+      "sha256": "6b5c66b86f4923713a4af60664f4f7f87360a8a8dad121587eded33b94ed4d0d"
+    },
+    {
+      "path": "public/assets/photos/belmont-harbor.webp",
+      "bytes": 147006,
+      "sha256": "d42eba677ad405671164b5348c9b60b507a951b513471849985b14c68227e352"
+    },
+    {
+      "path": "public/assets/photos/big-beaver-totem.webp",
+      "bytes": 52242,
+      "sha256": "fe507a906f5cb4657b67152865a54f5cb28ee0fcf2b89e87d7774457187f2a18"
+    },
+    {
+      "path": "public/assets/photos/bill-jarvis-sanctuary.webp",
+      "bytes": 293692,
+      "sha256": "ff2bd6fbee3291fc4f3dbd0baca4e2642b19a553f9181d1bd93106b76a4d5984"
+    },
+    {
+      "path": "public/assets/photos/bobolink-meadow.webp",
+      "bytes": 97138,
+      "sha256": "5c72764a1405aac68e5fe68fe3c8b9d0b0490c7cbc5e914e644e2aa6c7e73cfe"
+    },
+    {
+      "path": "public/assets/photos/bowman-and-spearman.webp",
+      "bytes": 67408,
+      "sha256": "503d6b6e5b6d36da28431078f9b8a746564ce0c6f8522b0b2af968a1c8089c49"
+    },
+    {
+      "path": "public/assets/photos/bp-pedestrian-bridge.webp",
+      "bytes": 221650,
+      "sha256": "a5460f7ac01286e7ad6f15f03bf572f5339b33496d9d83d21eea9bb785382e65"
+    },
+    {
+      "path": "public/assets/photos/brachiosaurus-replica.webp",
+      "bytes": 81826,
+      "sha256": "6b709731767e4d2e0151746c52c5d26e8ba1fe65a879493111e7466e8dae6e4d"
+    },
+    {
+      "path": "public/assets/photos/buckingham-fountain.webp",
+      "bytes": 87384,
+      "sha256": "97b7a460790dee3b771c54d89452f7072caae594c8a385d90993b4128d63b894"
+    },
+    {
+      "path": "public/assets/photos/burnham-harbor.webp",
+      "bytes": 156588,
+      "sha256": "ef4e6be61e8d77ef418ce1a652558a3bba7faffc0d1a4cb1aa9f3e3d2a231e02"
+    },
+    {
+      "path": "public/assets/photos/burnham-park.webp",
+      "bytes": 121184,
+      "sha256": "039b98e276735c3660f1ad9daf7682766540b86b2ed34a65889fcd702b1300d5"
+    },
+    {
+      "path": "public/assets/photos/cafe-brauer.webp",
+      "bytes": 28260,
+      "sha256": "c95bc16ea983b8c8123e4fe165bbb928b0fdc4479d8c109088dd5fb5f886dd0b"
+    },
+    {
+      "path": "public/assets/photos/caldwell-lily-pool.webp",
+      "bytes": 256532,
+      "sha256": "f70af3bee05d7a6bb4e6f67ef814dc6b3b7f2fa3e4988cf6b49ec863185662b7"
+    },
+    {
+      "path": "public/assets/photos/cancer-survivors-garden.webp",
+      "bytes": 125300,
+      "sha256": "52c168f61bb38d04ffc4e33d3e0cddc7e397a4ef4e7e0c026a7b5e8234c51412"
+    },
+    {
+      "path": "public/assets/photos/captain-on-the-helm.webp",
+      "bytes": 93788,
+      "sha256": "4b84d98b6bc71f1213edb1c39438553efcd30cd3f8df52879c0d114eeecf7414"
+    },
+    {
+      "path": "public/assets/photos/centennial-wheel.webp",
+      "bytes": 78850,
+      "sha256": "8bac1ef3f240cb6958f8dbaf7a3bc183694221a60fc5b35f6032213c60e32e59"
+    },
+    {
+      "path": "public/assets/photos/charitas-round3.webp",
+      "bytes": 67216,
+      "sha256": "6de62690b5f1549ad5e092c913cbf4638f5705dd62d9dd74b857b94a7e03f0b7"
+    },
+    {
+      "path": "public/assets/photos/chess-pavilion.webp",
+      "bytes": 125566,
+      "sha256": "f538197834c53b2fe23294a1f59b182253f259c0a8b30c447a14315c2a0281e8"
+    },
+    {
+      "path": "public/assets/photos/chicago-childrens-museum.webp",
+      "bytes": 135626,
+      "sha256": "9e0dc55f648bd07cad36e07c4e368b98334262d5c24794dddc9faec821d86c07"
+    },
+    {
+      "path": "public/assets/photos/chicago-harbor-lighthouse-round3.webp",
+      "bytes": 93328,
+      "sha256": "9387b0000e2ebd1ad2ff9168adcdfaab3cc410a78000469c0b1e1c0fb64d55a6"
+    },
+    {
+      "path": "public/assets/photos/chicago-history-museum.webp",
+      "bytes": 67250,
+      "sha256": "c50617c5611d45eba8c4a73b996d18ca3a893d49c9bc79ec5426c28611ba0270"
+    },
+    {
+      "path": "public/assets/photos/chicago-shakespeare-theater.webp",
+      "bytes": 91310,
+      "sha256": "4b125b2bfd0782692730abc9c3f2390d9e03d1b2419a59cb4812c4ffe3fea383"
+    },
+    {
+      "path": "public/assets/photos/chicago-stock-exchange-arch.webp",
+      "bytes": 238258,
+      "sha256": "ddbc7ec3a7a695e89044577e7c37c5b58df6a44dc3677a49c59cb13fd690e272"
+    },
+    {
+      "path": "public/assets/photos/cloud-gate.webp",
+      "bytes": 41346,
+      "sha256": "75f3cab71db1235fbde0993e428d3987d87cbd422710b3491fedcbcbb37ec195"
+    },
+    {
+      "path": "public/assets/photos/copernicus-monument.webp",
+      "bytes": 70256,
+      "sha256": "e5ef097a4ffcf92c3299773de0d8e083c5fd69334d6e5c4fff51e0bddd458970"
+    },
+    {
+      "path": "public/assets/photos/cornell-oasis.webp",
+      "bytes": 202966,
+      "sha256": "4d29ca46396a694dbc6df1693cff73d741e23f576652c7181e3f7a1295ce4262"
+    },
+    {
+      "path": "public/assets/photos/couch-tomb.webp",
+      "bytes": 66344,
+      "sha256": "c608bff1942f4ee3734cc65175a5690a506b1a6c4d1b3521288acdca501511bb"
+    },
+    {
+      "path": "public/assets/photos/cricket-hill.webp",
+      "bytes": 43904,
+      "sha256": "cc1d18555112b487f6b059ac8c6310aa1c9d781068423a819b89db5536052a50"
+    },
+    {
+      "path": "public/assets/photos/crown-fountain.webp",
+      "bytes": 218272,
+      "sha256": "f98c80320ca844b8c57c1e858ec6602bd1eb5e70d1b105926076ab25a5da324d"
+    },
+    {
+      "path": "public/assets/photos/daphne-garden.webp",
+      "bytes": 68842,
+      "sha256": "1438f5f9ea87373c4f1a0ae4791b290abd5629e05d0ac61de2cbcdf2298ad67f"
+    },
+    {
+      "path": "public/assets/photos/diversey-harbor.webp",
+      "bytes": 60430,
+      "sha256": "8aa6f8332bf1d3aaca7d061d86a63dfdc18cfb0a0a81625e6ff476cf65cbb3b5"
+    },
+    {
+      "path": "public/assets/photos/doane-observatory.webp",
+      "bytes": 167312,
+      "sha256": "c709c1c504846bc94989808fa9616742f8685a0c85acc948b998c1e1f072ee54"
+    },
+    {
+      "path": "public/assets/photos/dusable-harbor.webp",
+      "bytes": 115594,
+      "sha256": "d8aa893db1a2cb041e0bf6969148a43b7cf93b3e708c62aea8d8077ae8754082"
+    },
+    {
+      "path": "public/assets/photos/eli-bates-fountain.webp",
+      "bytes": 154294,
+      "sha256": "a4bb64ae68fb38397ee7b9dbdc1275c003a61fbafa8d38651e19e005fa3d96b4"
+    },
+    {
+      "path": "public/assets/photos/elks-national-memorial.webp",
+      "bytes": 113950,
+      "sha256": "3f2abc88ac4d3ec42f22f36ac7d1e8b04f06f88991e5905a0f721c364c32adb5"
+    },
+    {
+      "path": "public/assets/photos/eugene-field-memorial.webp",
+      "bytes": 121678,
+      "sha256": "9d7d4ecb4fe2b3973afa35873fbaca00ba7dde05658355d24198220d5202c705"
+    },
+    {
+      "path": "public/assets/photos/federal-building-columns.webp",
+      "bytes": 173688,
+      "sha256": "d1429b916baf4c94f53e194ce67656429ec47eb9144afcaf3850f357ae24df94"
+    },
+    {
+      "path": "public/assets/photos/field-museum.webp",
+      "bytes": 102062,
+      "sha256": "1a1386cc27d91f6dd13bffc46c086f6b201abf0e7e74a067051b18e6ceecf92d"
+    },
+    {
+      "path": "public/assets/photos/firefighter-paramedic-memorial.jpg",
+      "bytes": 221381,
+      "sha256": "a1c184d4ef83ac67b3ed21a02c7bc81dfb85a17166fae17020d7cdc155d92a7d"
+    },
+    {
+      "path": "public/assets/photos/flame-of-hope.webp",
+      "bytes": 105028,
+      "sha256": "3150a20210aab54284790490fa49b44dd6f2c72b598c74b171fd195c407f4282"
+    },
+    {
+      "path": "public/assets/photos/foster-beach.webp",
+      "bytes": 157404,
+      "sha256": "06dd5acd741654e3ae0c7b52ebb6a2364e40b12781de8dad5fab92f7b18958c4"
+    },
+    {
+      "path": "public/assets/photos/fountain-girl.webp",
+      "bytes": 244590,
+      "sha256": "70257c00c221c36c528e4a8f7d5c430b24000b41ec20e606b2fb7e90ee61a937"
+    },
+    {
+      "path": "public/assets/photos/fountain-great-lakes.webp",
+      "bytes": 149300,
+      "sha256": "59f300727da1e5a05ef4912bfd6611ac716132fd4ce67610ef8ac5c5347cd135"
+    },
+    {
+      "path": "public/assets/photos/franklin-monument.webp",
+      "bytes": 64672,
+      "sha256": "add222fcf29276d3fc9b45774c49884d07e5ba55bcdb646347a273ee1d767e3d"
+    },
+    {
+      "path": "public/assets/photos/garden-of-the-phoenix.webp",
+      "bytes": 298330,
+      "sha256": "9bf851b8370f40b8543a630723992fc60ed5bbd8914c4c8976b9ad9fb29529ed"
+    },
+    {
+      "path": "public/assets/photos/goethe-monument.webp",
+      "bytes": 85996,
+      "sha256": "43c6d33f828d1d2d6a8065838a3afb677d734199640f6efc8c48ff4448d26d64"
+    },
+    {
+      "path": "public/assets/photos/gold-star-families-memorial.webp",
+      "bytes": 151050,
+      "sha256": "43a5ef6d31bd386131f13bd549ba1ca918468a6e04f4ac882c600508ac92b251"
+    },
+    {
+      "path": "public/assets/photos/grandmothers-garden-round3.webp",
+      "bytes": 170980,
+      "sha256": "13b1b21062af0c143eba56715e0f42b1b6fab7a25453ac2f3e0a16fb85dc1f66"
+    },
+    {
+      "path": "public/assets/photos/grant-monument.webp",
+      "bytes": 99124,
+      "sha256": "9d274a4176ae3abeef6cef801c029d8d6ec673efe615f906462d42814ee5a7ab"
+    },
+    {
+      "path": "public/assets/photos/great-northern-migration.webp",
+      "bytes": 143954,
+      "sha256": "0760bc4417dc53d1869ed64839a3427a2fdd83d7a96022f0fad115df20fcbed0"
+    },
+    {
+      "path": "public/assets/photos/greene-vardiman-black.webp",
+      "bytes": 186310,
+      "sha256": "2ad6fad181855c683a4224579b45f3948795a0e160c0812556cb2d9b95fc7fc6"
+    },
+    {
+      "path": "public/assets/photos/griffin-msi.webp",
+      "bytes": 53444,
+      "sha256": "da8a96a21e080b4fa4ea888bdc09e7800c10a86187beb82ec3318b2862bc77c5"
+    },
+    {
+      "path": "public/assets/photos/hamilton-monument.webp",
+      "bytes": 69600,
+      "sha256": "685aacdf0c5418c60aee074b0ba22a3f859ecfd5828de34f01ac95703ae73fc7"
+    },
+    {
+      "path": "public/assets/photos/harris-theater.webp",
+      "bytes": 81390,
+      "sha256": "dec7897e0ed45497ae55930a5a083475a9edc7b3ccfea84d423ecf658356a17d"
+    },
+    {
+      "path": "public/assets/photos/huntington-bank-pavilion.webp",
+      "bytes": 175760,
+      "sha256": "6e06df028983ee4844cba6037278fb65f2fc492bf18883e503151a63b4cc5d1f"
+    },
+    {
+      "path": "public/assets/photos/international-museum-surgical-science.webp",
+      "bytes": 98522,
+      "sha256": "63672302b94f056bd151cf987dd0740167ca1ce2a2854108a104edd1b3db726b"
+    },
+    {
+      "path": "public/assets/photos/jackson-harbor-station.webp",
+      "bytes": 145600,
+      "sha256": "55fb3d2ba9e3f9f15771058bef4a66a31ef429f6bbe83966ce6571abef8fdd4b"
+    },
+    {
+      "path": "public/assets/photos/jackson-park-outer-harbor.webp",
+      "bytes": 48508,
+      "sha256": "23ae65a797d4ebf7be6f14d48785c2949557b2889a29ca5962ebbcada5036fd2"
+    },
+    {
+      "path": "public/assets/photos/jackson-park.webp",
+      "bytes": 158296,
+      "sha256": "38970458df76604ef43f3fbc8eae24040b5ee75ec76ff9a10c2c07381b3f39f9"
+    },
+    {
+      "path": "public/assets/photos/jay-pritzker-pavilion.webp",
+      "bytes": 116786,
+      "sha256": "2d323d02bdd907b33ea0a183e0fd93c492ea5a9eb5080e228171af9c6c0116f0"
+    },
+    {
+      "path": "public/assets/photos/jose-rizal-monument.webp",
+      "bytes": 79130,
+      "sha256": "23f060320f121751199d9bce508dd6e75301043c6b2039394e5abf2b297d0d53"
+    },
+    {
+      "path": "public/assets/photos/karel-havlicek-monument.webp",
+      "bytes": 87992,
+      "sha256": "468cbed0120e0dcd647b92df96acdca3526406fd115fb8ea4b9367664e21a139"
+    },
+    {
+      "path": "public/assets/photos/kosciuszko-monument.webp",
+      "bytes": 81488,
+      "sha256": "afa6690cd3357f2f46d9688b4d57b2affe8e9a733b7c1d1e2a15dd522e06f2ad"
+    },
+    {
+      "path": "public/assets/photos/kwa-ma-rolas.webp",
+      "bytes": 151136,
+      "sha256": "b5f299c8eb08ed1b0b8a3137486c658d3d6427fd48af925d4c2e95817a0c0dfa"
+    },
+    {
+      "path": "public/assets/photos/la-ronda-parakata.webp",
+      "bytes": 145252,
+      "sha256": "220a43924fcdcc5eb2d23917ba64acad6ab48e2e2455a8ea5df6e42b043dfcb1"
+    },
+    {
+      "path": "public/assets/photos/lasalle-monument.webp",
+      "bytes": 202646,
+      "sha256": "826b320cfe9958d7c5aec3556650aa9de0b88a1aead8bd370719dc0d417cc410"
+    },
+    {
+      "path": "public/assets/photos/lincoln-park-conservatory.webp",
+      "bytes": 40486,
+      "sha256": "8de192ee72f96fe8658354ef6ca9791df79f8905dd07177dced41e74aff1bec6"
+    },
+    {
+      "path": "public/assets/photos/lincoln-park-zoo.webp",
+      "bytes": 138236,
+      "sha256": "1cd53f173f4384e57a4023d1e097ea8b074eb33f009328efd9e18ebaa40a7a38"
+    },
+    {
+      "path": "public/assets/photos/logan-monument.webp",
+      "bytes": 63732,
+      "sha256": "4833893c77e09f5f7483f61c8fd34e78462a9633e98cf9ae5bdebe5e32721bcf"
+    },
+    {
+      "path": "public/assets/photos/lurie-garden.webp",
+      "bytes": 201920,
+      "sha256": "2a91e496f8e8d929b76620bb157818afaaea6a1579028988f497efaa9036b6fb"
+    },
+    {
+      "path": "public/assets/photos/magdalene.webp",
+      "bytes": 147988,
+      "sha256": "720f4252a16fa920ee1caf3539868a88b9070c92c2e045209525e6b74b645bde"
+    },
+    {
+      "path": "public/assets/photos/maggie-daley-park.webp",
+      "bytes": 202916,
+      "sha256": "72386c12abce5149bd527591b951c454a17b9e3c258c664ae760bcd7b9d642b0"
+    },
+    {
+      "path": "public/assets/photos/man-enters-cosmos.webp",
+      "bytes": 100134,
+      "sha256": "c4146fa954966f7f6205c877ec510e7594c42032f1dea51a8aa6a04e3a471e68"
+    },
+    {
+      "path": "public/assets/photos/man-with-fish.webp",
+      "bytes": 101190,
+      "sha256": "b2a3d4057b3ef1a91bb2e78ff6b425491037aed7414350d90c4137c3ee458d43"
+    },
+    {
+      "path": "public/assets/photos/mccormick-bird-sanctuary.jpg",
+      "bytes": 361831,
+      "sha256": "4ae158289eb0418fd4ce519267a6eac8ffad5aaf61b006cfb7644a682bb7a6e3"
+    },
+    {
+      "path": "public/assets/photos/millennium-monument.webp",
+      "bytes": 136820,
+      "sha256": "24522aa31c72832497e4f728538d3ad5c929f1f08679939ad5c242b04159c30e"
+    },
+    {
+      "path": "public/assets/photos/millennium-park.webp",
+      "bytes": 81918,
+      "sha256": "2fa59a81d5386af497436486e7967342b55ac62967f2a34b343050767549c02e"
+    },
+    {
+      "path": "public/assets/photos/monroe-harbor.webp",
+      "bytes": 68598,
+      "sha256": "6fac40faea1be20be7a1cefac49c3740ddfdc5aa9a8dea097c3192aaf86ace54"
+    },
+    {
+      "path": "public/assets/photos/montgomery-ward-bust-round3.webp",
+      "bytes": 234290,
+      "sha256": "26bb5c1193890b2d67733e8fda3675cae8572f8bbc05bd012d2d43b969a793f9"
+    },
+    {
+      "path": "public/assets/photos/montrose-beach-dunes.webp",
+      "bytes": 117058,
+      "sha256": "bf0eee9b447c81d1d6d0674180868ca33345895808aa8f49074b926885fab233"
+    },
+    {
+      "path": "public/assets/photos/montrose-beach.webp",
+      "bytes": 23532,
+      "sha256": "0681c852d0da3c2b190d384409c400e4a54b414fdc629a8b2d3b3b02c9cbaf02"
+    },
+    {
+      "path": "public/assets/photos/montrose-dog-beach.webp",
+      "bytes": 120056,
+      "sha256": "a0aa0ccf85bdd1a2733c571bf926bd9667ae880e234fa2c427c08aa39ecb5939"
+    },
+    {
+      "path": "public/assets/photos/montrose-harbor.webp",
+      "bytes": 85324,
+      "sha256": "002060bc8d5e73ab0762bd2b58cca8a4093af11cb66a0497d1fdc20c844e23cc"
+    },
+    {
+      "path": "public/assets/photos/montrose-point.webp",
+      "bytes": 140988,
+      "sha256": "b5661bd10d60242f5c47fcf7049f1b2b5a5ae7fb9d95521f41c9b5d98fd2bfec"
+    },
+    {
+      "path": "public/assets/photos/museum-contemporary-art.webp",
+      "bytes": 119796,
+      "sha256": "387ff54ba53ace527b616b6f04881cdf34ad7c6d958f359f0b06b1633afa5ccd"
+    },
+    {
+      "path": "public/assets/photos/nature-boardwalk.webp",
+      "bytes": 145128,
+      "sha256": "cb957abcec22af03961ba92f575012f6bfde8544af4f265c3e93bb6b549a83a9"
+    },
+    {
+      "path": "public/assets/photos/navy-pier.webp",
+      "bytes": 139698,
+      "sha256": "164f472523c2ef141518dad6357bb59d1f21f86780bda62eb1452565b442eaa0"
+    },
+    {
+      "path": "public/assets/photos/nichols-bridgeway.webp",
+      "bytes": 72540,
+      "sha256": "16a2922a5d39b83fbaa3b2152544058b7e13ddfcdfeb1fe33bdeef7eea077a62"
+    },
+    {
+      "path": "public/assets/photos/north-avenue-beach-house.webp",
+      "bytes": 53880,
+      "sha256": "8ee955faf47f91adaf5ea5dbd7c62ae9dca8d18b958a2e297b6ee82df296aba8"
+    },
+    {
+      "path": "public/assets/photos/north-avenue-beach.webp",
+      "bytes": 28464,
+      "sha256": "12bd84b0d943178c63e1bdffdfed36e89a07620340ebd839d2add7848c6ec29a"
+    },
+    {
+      "path": "public/assets/photos/north-pond.webp",
+      "bytes": 93074,
+      "sha256": "08385a2a1dfff654ba0ab0f6a745e382be84daa63f6b704a7d27dc79cf700dca"
+    },
+    {
+      "path": "public/assets/photos/northerly-island.webp",
+      "bytes": 103300,
+      "sha256": "e3b2e129135a74f61429030bc4fa6754ce99b6d2e78f9c62cdf47d296ad3f77f"
+    },
+    {
+      "path": "public/assets/photos/oak-street-beach.webp",
+      "bytes": 125308,
+      "sha256": "da834d6dd23b38c7251162c8c7f4313627fb9713fcad9a786fca21a01c3fca7f"
+    },
+    {
+      "path": "public/assets/photos/obama-presidential-center.webp",
+      "bytes": 97264,
+      "sha256": "b3eb1257f8cbc9b0af2251a9b5e3213deb68bfbc9ec87530b1810bc3073008ee"
+    },
+    {
+      "path": "public/assets/photos/oglesby-monument.webp",
+      "bytes": 229338,
+      "sha256": "e5ba8e7e5180953b0b62c0f06c25c4d4cb6645ab7b3fc7ba962826ef07b3da6a"
+    },
+    {
+      "path": "public/assets/photos/ohio-street-beach.webp",
+      "bytes": 138136,
+      "sha256": "fef392701f34f0540c989af62a3b600737b658ed368650a97d5cdea93862df2b"
+    },
+    {
+      "path": "public/assets/photos/olive-park.webp",
+      "bytes": 42964,
+      "sha256": "5f36801908459e96c78425e1840816f61bd5729b92fa6c3a891c071e5f8b7346"
+    },
+    {
+      "path": "public/assets/photos/olmec-head.webp",
+      "bytes": 184178,
+      "sha256": "5fd84a037845148f731e51b0266f2d5ad64444a535ef031fc6b63043c25afe89"
+    },
+    {
+      "path": "public/assets/photos/osterman-beach.webp",
+      "bytes": 169974,
+      "sha256": "8c96a819eea10961bd25343894de4e2c89d21c963e69f4c0f76cf405a5e66dee"
+    },
+    {
+      "path": "public/assets/photos/paris-metro-entryway.webp",
+      "bytes": 91650,
+      "sha256": "417a51fd353bc64ddf353e8cbe6dd1689c9e2505eaab4274d5058d1a30704291"
+    },
+    {
+      "path": "public/assets/photos/peace-garden.webp",
+      "bytes": 41412,
+      "sha256": "c0ccea12771015ca61cf38dece56816c67fe27d9a46eb8f11fc7b3f1f3ddc79c"
+    },
+    {
+      "path": "public/assets/photos/peggy-notebaert-nature-museum.webp",
+      "bytes": 59686,
+      "sha256": "35e73f1e43deba0bc2c87badbbf0b82e036daaff57c8c61e8bc22d15450e1175"
+    },
+    {
+      "path": "public/assets/photos/peoples-gas-pavilion.webp",
+      "bytes": 245996,
+      "sha256": "7a75ff7b81e7124b2e5fb52765dd906e4236551b8a15bece0b7fd680184e4af6"
+    },
+    {
+      "path": "public/assets/photos/petrillo-music-shell.webp",
+      "bytes": 57166,
+      "sha256": "aff2d5a58ffdc7b05c8bcee5418f505fecd80df26ebb231207df6946e608fd8c"
+    },
+    {
+      "path": "public/assets/photos/polk-bros-park.webp",
+      "bytes": 225100,
+      "sha256": "0465db0af4ccb4e7edc9d413fbe57ea196c34f8d129a5085513af1961c74d5d5"
+    },
+    {
+      "path": "public/assets/photos/promontory-point.webp",
+      "bytes": 195312,
+      "sha256": "895a2fbdf47bf462b51b0384f646b67ef1ff942ed8c2e06dfef79dab790e717e"
+    },
+    {
+      "path": "public/assets/photos/reading-cones.webp",
+      "bytes": 40192,
+      "sha256": "45284fb550383964ec07da32cbad217046ae1dbd40f5ed2e25587dc855bfea14"
+    },
+    {
+      "path": "public/assets/photos/rosenberg-fountain.webp",
+      "bytes": 97124,
+      "sha256": "cca789a0798a613b195a44ad9949fabc0840ef1a669a42b9f938225f20f8aaf1"
+    },
+    {
+      "path": "public/assets/photos/schiller-monument.webp",
+      "bytes": 149078,
+      "sha256": "f391e20e92a5a083896e8118b6135208bd335ac62f5f02d80a4674ab980863ca"
+    },
+    {
+      "path": "public/assets/photos/seated-lincoln.webp",
+      "bytes": 221826,
+      "sha256": "274e87784a918ecd6be5640a1bccc15f99ecf12ba0bfa1ab56309d41b4d71e8f"
+    },
+    {
+      "path": "public/assets/photos/shakespeare-monument.webp",
+      "bytes": 129206,
+      "sha256": "191d681614b4571553e03e974b88d53a7abeb36cb5f18653e3111c8366ea3f37"
+    },
+    {
+      "path": "public/assets/photos/shedd-aquarium.webp",
+      "bytes": 51936,
+      "sha256": "b58734717fb65c3399760802bec75d1daa7272ba8ab5254dbc3184c6e30e2cf2"
+    },
+    {
+      "path": "public/assets/photos/sheridan-monument.webp",
+      "bytes": 187494,
+      "sha256": "ee04dc1244e853360c7a251f18afa2cce1d35967ba775f88e24d75cffff4fc90"
+    },
+    {
+      "path": "public/assets/photos/signal-of-peace.webp",
+      "bytes": 214774,
+      "sha256": "2bfc7f0384d3b4d9058e48a1dd0cabbc1700a18f0c5029707cb1842dbd28cda7"
+    },
+    {
+      "path": "public/assets/photos/sir-georg-solti.webp",
+      "bytes": 203460,
+      "sha256": "56b1daa93ffc3e43b7a41570e301a121c1c30d1f312c03aed6a5802ac83adf2d"
+    },
+    {
+      "path": "public/assets/photos/sky-landing.webp",
+      "bytes": 119620,
+      "sha256": "f69fdbb9c78ba402c2b24ae363f6e90d9208e58ce9ba0345615ad30d5eda539a"
+    },
+    {
+      "path": "public/assets/photos/soldier-field.webp",
+      "bytes": 130786,
+      "sha256": "812b525da44c5a2493991a5d36a4e0156f0960f047b0f5034b1ad36e705bcd91"
+    },
+    {
+      "path": "public/assets/photos/south-shore-cultural-center.webp",
+      "bytes": 103744,
+      "sha256": "5cc8013bf1c1aaa4da9586dc8714a49d7b5d9006cb4a62ca685e181ad41d6ec0"
+    },
+    {
+      "path": "public/assets/photos/south-shore-nature-sanctuary.webp",
+      "bytes": 60150,
+      "sha256": "e5e12b3d8143740a1b5c228610a2ab88bb700db4d76b9e9dee92897491d6d74d"
+    },
+    {
+      "path": "public/assets/photos/spiral-galaxy.webp",
+      "bytes": 74422,
+      "sha256": "50f615e3c1286c8f8eaa0e05abb37af55f7ae1c46fa5afded54ecb7987c16eaa"
+    },
+    {
+      "path": "public/assets/photos/spirit-of-music.webp",
+      "bytes": 166974,
+      "sha256": "e64d6c19468c02dd2459a36ea2467e09a57bd62980d98d028ad7efb4421a1ac9"
+    },
+    {
+      "path": "public/assets/photos/standing-lincoln.webp",
+      "bytes": 133298,
+      "sha256": "57fc8d47b9150d15578bfd5015b84b6e501a1db23c7d5daf2152b8eefa7e83d4"
+    },
+    {
+      "path": "public/assets/photos/statue-of-the-republic.webp",
+      "bytes": 65756,
+      "sha256": "97621ddb7a25d23ff4a6ff5da87573c4ec2553eac9952c70bda0028716a9000a"
+    },
+    {
+      "path": "public/assets/photos/swedenborg-monument.webp",
+      "bytes": 115124,
+      "sha256": "52dc8bd286e57844253083cce748db773d9831783cd1fb91190da08a0be8cc86"
+    },
+    {
+      "path": "public/assets/photos/ten-thousand-ripples-round3.webp",
+      "bytes": 48648,
+      "sha256": "d73cfb9e286bfeee16691e335ed44e0726669cc40fbfb3f9c00c7ceae25f9f88"
+    },
+    {
+      "path": "public/assets/photos/the-alarm.webp",
+      "bytes": 76512,
+      "sha256": "3d81e6d79bf2ce21b0107df2731bf3f7195729fb6466e2b8fbad889a8443593f"
+    },
+    {
+      "path": "public/assets/photos/theater-on-the-lake.webp",
+      "bytes": 163480,
+      "sha256": "4c8e96e4206004d0a63116c426dc133cdafd9945878f344ba0a08f3f434c1b40"
+    },
+    {
+      "path": "public/assets/photos/tribute-to-freedom.webp",
+      "bytes": 120148,
+      "sha256": "657815a6cf992120fe053a35e891197189f91ba800c9fa31f29a98ad3ab8324d"
+    },
+    {
+      "path": "public/assets/photos/us-navy-submarine-memorial-round3.webp",
+      "bytes": 131746,
+      "sha256": "674dd25e15d30337d94361c0baa3717310ce416c12b0775eb6a1895a4d674d0a"
+    },
+    {
+      "path": "public/assets/photos/uss-chicago-anchor-round3.webp",
+      "bytes": 35194,
+      "sha256": "999766c35c7c708954f25a9e8039ca713f08e2e7c78b3181da104b74a125c3f9"
+    },
+    {
+      "path": "public/assets/photos/waveland-clock-tower.webp",
+      "bytes": 81334,
+      "sha256": "d70657e75a38e8ca2511b6ecdfa799cd153ab37ab2a125629d1b26c64deba41f"
+    },
+    {
+      "path": "public/assets/shedd.webp",
+      "bytes": 135486,
+      "sha256": "fc9e98e8426ff9aea94a396386ab20921332bc5a6b110483109eb8fc3304858f"
+    },
+    {
+      "path": "public/assets/skyline.webp",
+      "bytes": 157928,
+      "sha256": "0da0bea4edb6871c6a2667f66ba9ba059b6e4c33ace707ecbd26140c8fc8c265"
+    },
+    {
+      "path": "public/assets/soldier-field.webp",
+      "bytes": 120856,
+      "sha256": "82665a851f26dab89435e7f6f4f7d348eb2e0a5eb6a3fcb83a1d4d20097acacc"
+    },
+    {
+      "path": "public/assets/south-shore-v2.webp",
+      "bytes": 90520,
+      "sha256": "06d0b1258703053b0d4481971dd87183b22ecc3a25e1e7811a516a6e7413adb8"
+    },
+    {
+      "path": "public/assets/south-shore.webp",
+      "bytes": 128148,
+      "sha256": "29fc3baebb59808e000a292d6ee959eb5645619322a0a6e32275d088dfc1abd2"
+    },
+    {
+      "path": "public/credits/index.html",
+      "bytes": 64431,
+      "sha256": "58d263f4546a0001b3ffb6ec043bfd070e0ee8f357cc3dbf031fb44db2c5b4d9"
+    },
+    {
+      "path": "public/editorial.css",
+      "bytes": 7895,
+      "sha256": "e3355ef5091d6becdac78c157e4d4cb672c2f95452aee01443571375720493ac"
+    },
+    {
+      "path": "public/fonts/dm-sans.woff2",
+      "bytes": 36932,
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "path": "public/fonts/dmsans-OFL.txt",
+      "bytes": 4388,
+      "sha256": "7ec15e79c59bc14b86436a17e5eb7926b46cbcaeb08e1a7e6c110b415e6eb2a2"
+    },
+    {
+      "path": "public/fonts/italiana-OFL.txt",
+      "bytes": 4392,
+      "sha256": "a7f76f938993bc928126f85cd4b37340747a5181750bb44ce9655585602c9350"
+    },
+    {
+      "path": "public/fonts/italiana.woff2",
+      "bytes": 10100,
+      "sha256": "5079c87a4e86c58e8cd4f18ec2d3255918b7d565708ed934b15c4710301f838c"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 168731,
+      "sha256": "0c41ffcf1cce427e153151d779b23b25cd61501d3cbd1f9ac6b01bb5c1de0907"
+    },
+    {
+      "path": "public/llms.txt",
+      "bytes": 4052,
+      "sha256": "481e3b08730da4ba6c0065b89996fd30b5f937dab5b6488be2bc2ff7472cc516"
+    },
+    {
+      "path": "public/map-config.json",
+      "bytes": 222803,
+      "sha256": "19ecf98496b39e4521304242631a6e0e433f8b50b1854abee346d55442e384a5"
+    },
+    {
+      "path": "public/places-data.json",
+      "bytes": 279066,
+      "sha256": "ea6d60bec62e3b9a618d6110dbc4fe9d413375ea6b184ad1cd4129121e4efa15"
+    },
+    {
+      "path": "public/places/63rd-street-beach/index.html",
+      "bytes": 8876,
+      "sha256": "4c58dcb352afd52b488c4a847f279a2540d7a392201ed978a4661c6bd66858f1"
+    },
+    {
+      "path": "public/places/adler-planetarium/index.html",
+      "bytes": 8883,
+      "sha256": "f12efac2f2d964cd10c09cc0ac610e300f1e605f25d58128e1f3cf035c45d07d"
+    },
+    {
+      "path": "public/places/belmont-harbor/index.html",
+      "bytes": 8543,
+      "sha256": "003e59da978816d005870e11593894d1e513dadf6b3c3e6501cfefce49800c80"
+    },
+    {
+      "path": "public/places/buckingham-fountain/index.html",
+      "bytes": 8748,
+      "sha256": "0c9567860fbf04cb684015d1f616f5842215a7fd0bdff01fea79a8703680c80e"
+    },
+    {
+      "path": "public/places/field-museum/index.html",
+      "bytes": 8810,
+      "sha256": "048d910e392b111f09185d073b648b71e007fd13cec2c1dfa0aa98b287aa6988"
+    },
+    {
+      "path": "public/places/index.html",
+      "bytes": 253176,
+      "sha256": "7cc04a650c8264459bbea3360e40bf8b3547fa4e734b85d1dd65dee2fd0d4e44"
+    },
+    {
+      "path": "public/places/jackson-park/index.html",
+      "bytes": 9164,
+      "sha256": "c803449beb046f038b96e7340c53d205eb66994093117a9d7881d1355b5ae52e"
+    },
+    {
+      "path": "public/places/montrose-beach/index.html",
+      "bytes": 8692,
+      "sha256": "1242d029841f312b5348ee59c6fad5dc0dfd02548c6024d8393a2094e881b031"
+    },
+    {
+      "path": "public/places/montrose-point/index.html",
+      "bytes": 8981,
+      "sha256": "0dfd291218d6a835d6110383975fb5ac39beff82b316c79e293e26e4f89c6a9d"
+    },
+    {
+      "path": "public/places/navy-pier/index.html",
+      "bytes": 8921,
+      "sha256": "8047b678d0eacbaf3068a5c24f87652a72df0d792dd521c66b85ef5e9b402f23"
+    },
+    {
+      "path": "public/places/north-avenue-beach/index.html",
+      "bytes": 8898,
+      "sha256": "ff2891baf9e7ae7371f29dfcbfb77de72981458ceac085ef51ab59088f7c10e9"
+    },
+    {
+      "path": "public/places/oak-street-beach/index.html",
+      "bytes": 8750,
+      "sha256": "f9d849c16cd73d69463bd207342ec01a6180946a84b5d175ba0f5a5523b34f6b"
+    },
+    {
+      "path": "public/places/osterman-beach/index.html",
+      "bytes": 8797,
+      "sha256": "21300a563d3d579ba6c7948a7ca94ed6e10a8958b50e1fbd0a90c5fe0cd7cb71"
+    },
+    {
+      "path": "public/places/promontory-point/index.html",
+      "bytes": 8976,
+      "sha256": "d1bf551f9b8ddbf7df089f6b02ebc40d9b0e1e73d2105418ee54bfed5fa603f6"
+    },
+    {
+      "path": "public/places/south-shore-cultural-center/index.html",
+      "bytes": 8975,
+      "sha256": "6dc252e87fba052643ae281dac3b3dcefa792e783ac14c3fa565acf8ec74f7c4"
+    },
+    {
+      "path": "public/privacy/index.html",
+      "bytes": 6107,
+      "sha256": "2ff4fa63b63f3ab9fdc806810b1c651ce882f1e1dc42ff353a9c52995bfd503d"
+    },
+    {
+      "path": "public/robots.txt",
+      "bytes": 78,
+      "sha256": "9ac3928f7500e3e5395dd54e7c7fc006a16f5f539b62fabd67ca39b27ba917bb"
+    },
+    {
+      "path": "public/site.js",
+      "bytes": 586,
+      "sha256": "c690a9f3e7be74ae4be5651d18999f3f7527c712c326cadeedcecf425da77143"
+    },
+    {
+      "path": "public/sitemap.xml",
+      "bytes": 1469,
+      "sha256": "97aa2301df761a16fec5f6a7916bcc99f403015497f2da550932269ea64ad44a"
+    },
+    {
+      "path": "public/styles.css",
+      "bytes": 28852,
+      "sha256": "525160b95db8d1388d1d7483f73bb3e2106be97cfe5b69da80317dc295a01149"
+    },
+    {
+      "path": "scripts/data-tools/extract-trail-routes.py",
+      "bytes": 3547,
+      "sha256": "da83ccea568972d6c9fc8582640c23d4898b3480c7de2e64446b79bc21ea45e3"
+    },
+    {
+      "path": "scripts/data-tools/fetch-geo.py",
+      "bytes": 14085,
+      "sha256": "cb9c5b9e0ce8bf01182e64f55239d5d3ae861659494101d837a6cff038794951"
+    },
+    {
+      "path": "scripts/data-tools/fetch-photos.py",
+      "bytes": 5387,
+      "sha256": "6b151474e3fb2ef9e418bb93adcb83ce53c368afa7056726ed9fb1a2332c13c1"
+    },
+    {
+      "path": "scripts/data-tools/fetch-route-relations.py",
+      "bytes": 1255,
+      "sha256": "6020a0d26800551eae3f2a5459ccffc4e17fbcca4ff2c7bf10963f9be863b380"
+    },
+    {
+      "path": "scripts/data-tools/verify-sources.py",
+      "bytes": 1346,
+      "sha256": "bdcc9f5e76753955bacc83fdbacf87a50a0142245edbb68e0ff9d034b4511674"
+    },
+    {
+      "path": "scripts/lib/data-validation.mjs",
+      "bytes": 6485,
+      "sha256": "8f77d38e7fae117827355658e900f1bd7558155adb11d4ac7582e9bbcd2684aa"
+    },
+    {
+      "path": "scripts/lib/map-coordinates.mjs",
+      "bytes": 503,
+      "sha256": "84e2b7327690c7165b3e132e1489b8b33d6a3fb0f61ffc10df2fd6187c28a1c1"
+    },
+    {
+      "path": "scripts/lib/map-inputs.mjs",
+      "bytes": 1974,
+      "sha256": "11c1e28b4a78605ba0fcf46f2c00d88bb31d5a333815660bf1abe1929672b769"
+    },
+    {
+      "path": "scripts/lib/public-files.mjs",
+      "bytes": 1264,
+      "sha256": "2f1173f2bd430e4c6dd7f56d3fd22a8a1e39ab695919abd976977a2ccedc5ee9"
+    },
+    {
+      "path": "scripts/lib/street-labels.mjs",
+      "bytes": 5410,
+      "sha256": "63e4ae4796697e97042fc1e1af545bb950926443f90467e4971a4e63d17a9b9c"
+    },
+    {
+      "path": "scripts/lib/trail-geometry.mjs",
+      "bytes": 6156,
+      "sha256": "c5e41494435e9267f647e98bbba890da5a78b231f03a09472c6ac343b73008f4"
+    },
+    {
+      "path": "scripts/map/build-map.mjs",
+      "bytes": 16094,
+      "sha256": "4627d0580b1b12d82ffa30d7519a624a95c6492f682a19fa17792c97f1a526ea"
+    },
+    {
+      "path": "scripts/map/regenerate-map.mjs",
+      "bytes": 2803,
+      "sha256": "51a79dff8a0aa2b8d1c13d19ecb749a2cbfabc56fa7a2f4be017301b1da46f7e"
+    },
+    {
+      "path": "scripts/map/render-map.mjs",
+      "bytes": 3681,
+      "sha256": "1e81634b42ffb7e28131d1c6211e6d78044c0f444e6f5a8deecc54101f6659d7"
+    },
+    {
+      "path": "scripts/pages/render-home.mjs",
+      "bytes": 3836,
+      "sha256": "03f49012299b50aeab0f51f7ffe333c79797abcf7ac59fa8936e0853c113bb93"
+    },
+    {
+      "path": "scripts/pages/render-pages.mjs",
+      "bytes": 16363,
+      "sha256": "082c3d3bd1883b4e9da82e31ed0e501448dae32380051a74b49b2ca2af5dac7e"
+    },
+    {
+      "path": "scripts/pages/templates/index.html",
+      "bytes": 4572,
+      "sha256": "617af79a727186c402c65695297ccb448b7b10ab62ec352f92f6b518c9867d9a"
+    },
+    {
+      "path": "scripts/pages/templates/site-chrome.mjs",
+      "bytes": 1655,
+      "sha256": "075970e56abfc0de5475e6ce47cbe51fcea78ca35989266a5993f006606e418c"
+    },
+    {
+      "path": "scripts/pages/templates/site-seo.mjs",
+      "bytes": 2967,
+      "sha256": "4f843286612d06d596ed13c9f8bb9ef4fec40dc2ada4610a103d70a046a7a761"
+    },
+    {
+      "path": "scripts/pages/update-pages.mjs",
+      "bytes": 2151,
+      "sha256": "c48fa79de8ce7edce14519ff4b90bb50c9d210e30b1ef66911486110fb83e3e0"
+    },
+    {
+      "path": "scripts/publication.mjs",
+      "bytes": 3321,
+      "sha256": "4ef7f0004ba83d743ba16a5cb2d17cf0d421b37dc6ab09b1f9963c4c19a03848"
+    },
+    {
+      "path": "scripts/serve.mjs",
+      "bytes": 2314,
+      "sha256": "2cc60659388aa88b6fc058d3d134131e97ce058e7bb74927cf764ed675aa18cb"
+    },
+    {
+      "path": "scripts/validation/browser-check.mjs",
+      "bytes": 7691,
+      "sha256": "d25cbe2f09f04e57424fe8d30cc9285d2f9203b8e38b8c418e17a719ed86f60e"
+    },
+    {
+      "path": "scripts/validation/check-cross-browser.mjs",
+      "bytes": 31109,
+      "sha256": "6b86c4d995c4c0e3de76126e43d6dcb9b608dd1da8be01340cc6a9fab1bb49c5"
+    },
+    {
+      "path": "scripts/validation/check-geography.mjs",
+      "bytes": 3069,
+      "sha256": "57ba2d270ae688cc8a97fcd130eb708352ed4fcbf3ea21c5c9bc4ddf6a1e6b3b"
+    },
+    {
+      "path": "scripts/validation/check-hotspots.mjs",
+      "bytes": 4409,
+      "sha256": "d3946cc4d6ad34ccb511316a6cb7729c2f4fda630b913d0a860245446298a009"
+    },
+    {
+      "path": "scripts/validation/check-map-interactions.mjs",
+      "bytes": 4958,
+      "sha256": "14e23f2efc93713f35be09ef7063463959dcd2a31580dd8aa40cd439383c8ad6"
+    },
+    {
+      "path": "scripts/validation/check-map-motion.mjs",
+      "bytes": 26268,
+      "sha256": "4fa10898f3e3e8c765c870bd1c15093dd596ed299cb1cbf34dabe78f4837d227"
+    },
+    {
+      "path": "scripts/validation/check-map-performance.mjs",
+      "bytes": 5986,
+      "sha256": "87f650a169ac05e8ba0e1efb57d8d3dcb3cd110a0c2b7136129a1c0c479c39db"
+    },
+    {
+      "path": "scripts/validation/check-map-popups.mjs",
+      "bytes": 21896,
+      "sha256": "2f55533ccf012c4a41a2255cbf0185582e81512bdf8fb385c6718002a38fe02a"
+    },
+    {
+      "path": "scripts/validation/check-map-zoom.mjs",
+      "bytes": 41751,
+      "sha256": "9298c806d2ab980ef4152431cbc7b5985d591e82de854dab6a5ca636a519676d"
+    },
+    {
+      "path": "scripts/validation/check-secrets.mjs",
+      "bytes": 2084,
+      "sha256": "ca78d94dcdf47ed590928df87860af39bb30fe62e7a7553d43a1d6b3d3bfdceb"
+    },
+    {
+      "path": "scripts/validation/check-seo.mjs",
+      "bytes": 5758,
+      "sha256": "2af21414b10ca29af359da29f0903f7a6c629c0feb37bc9aeb51a0987783861c"
+    },
+    {
+      "path": "scripts/validation/check-site-chrome.mjs",
+      "bytes": 4958,
+      "sha256": "6770374375fb346cf14fd9c4f7c1d778d106fc72b3d6b32f8e09aaf618ea7e53"
+    },
+    {
+      "path": "scripts/validation/check-site.mjs",
+      "bytes": 4724,
+      "sha256": "11ceba0ef5b82d76c20fe0cd4e08f2a46256a47fd4df45137bbf1b6984918e37"
+    },
+    {
+      "path": "scripts/validation/check-source.mjs",
+      "bytes": 1175,
+      "sha256": "9e30b445e038e45ead01761b489659fe641c7070d2142b2144d5c921951fe552"
+    },
+    {
+      "path": "scripts/validation/check-trail-geometry.mjs",
+      "bytes": 3669,
+      "sha256": "53fd37875a4c3ef5d0d1d5ff9331356ff996ce6bba90e3f14eb20393c6218d30"
+    },
+    {
+      "path": "tests/data-validation.test.mjs",
+      "bytes": 4051,
+      "sha256": "1bd1c258829b0c465d8dcc00652064cbdc843dbcd8dff4e6fc138a81a1a74ec4"
+    },
+    {
+      "path": "tests/pages.test.mjs",
+      "bytes": 3136,
+      "sha256": "30db1c01453ac27febbbaebf280710718be688a5000cae18c25df34ee20323d2"
+    },
+    {
+      "path": "tests/publication.test.mjs",
+      "bytes": 3141,
+      "sha256": "39419321828f9f8cf3b2eb11b5975bc8ae2879b7eaadf92a608d632533a77f61"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 209,
+      "sha256": "fc9f9f6d254b6bc3dec156d14ddc6e2861c5c2a5f4fbe69aa5d6e522f7648727"
+    }
+  ]
+}

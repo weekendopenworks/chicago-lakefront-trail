@@ -1,0 +1,63 @@
+{
+  "mccormick-bird-sanctuary": {
+    "src": "/assets/photos/mccormick-bird-sanctuary.jpg",
+    "alt": "Native prairie and boardwalk in McCormick Bird Sanctuary",
+    "title": "A view to the southwest from the McCormick Bird Sanctuary.",
+    "author": "Richard Bartlaga",
+    "license": "CC BY-ND 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/2.0/deed.en",
+    "sourceUrl": "https://www.flickr.com/photos/7173677@N05/36508319324",
+    "caption": "McCormick Bird Sanctuary, looking southwest · 2017",
+    "fit": "contain"
+  },
+  "cornell-oasis": {
+    "src": "/assets/photos/cornell-oasis.webp",
+    "alt": "Growing beds, flowers and a white chair at Cornell Garden Oasis",
+    "title": "20130608 81 Cornell Oasis",
+    "author": "David Wilson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "sourceUrl": "https://www.flickr.com/photos/32693718@N07/10645289414",
+    "caption": "Cornell Garden Oasis · 2013"
+  },
+  "bobolink-meadow": {
+    "src": "/assets/photos/bobolink-meadow.webp",
+    "alt": "Bobolink Meadow along the left bank of Jackson Park’s lagoon, opposite Wooded Island",
+    "title": "File:Aerial view of Jackson Park, Chicago, Illinois, US (PPL1-Corrected) julesvernex2.jpg",
+    "author": "Jules Verne Times Two / julesvernex2.com",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jackson_Park,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg",
+    "caption": "Bobolink Meadow on the east (left) bank of Jackson Park’s lagoon · aerial view, 2022"
+  },
+  "63rd-street-beach-dunes": {
+    "src": "/assets/photos/63rd-street-beach-dunes.webp",
+    "alt": "63rd Street Beach with the low planted dune strip at right beside the swimming beach",
+    "title": "63rd Street Beach",
+    "author": "Natalia Wilson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "sourceUrl": "https://www.flickr.com/photos/99012110@N00/9394511065",
+    "caption": "The beach and planted dunes at right · 63rd Street Beach, 2013"
+  },
+  "jackson-park-outer-harbor": {
+    "src": "/assets/photos/jackson-park-outer-harbor.webp",
+    "alt": "Sailboats moored in Jackson Park Outer Harbor at sunset",
+    "title": "Jackson Park Outer Harbor",
+    "author": "David B. Gleason",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "sourceUrl": "https://www.flickr.com/photos/71861129@N00/1325729108",
+    "caption": "Jackson Park Outer Harbor · 2007"
+  },
+  "59th-street-harbor": {
+    "src": "/assets/photos/59th-street-harbor.webp",
+    "alt": "Historic photograph of the North Inlet Bridge viewed from 59th Street Harbor",
+    "title": "File:HARBOR VIEW, WEST FRONT - North Inlet Bridge, Spaning North Inlet from Lake Michigan to Fifty-ninth Street Marina (5900S), Chicago, Cook County, IL HAER ILL, 16-CHIG, 149-8.tif",
+    "author": "Historic American Engineering Record / Library of Congress",
+    "license": "Public domain",
+    "licenseUrl": "https://www.loc.gov/pictures/collection/hh/rights.html",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HARBOR_VIEW,_WEST_FRONT_-_North_Inlet_Bridge,_Spaning_North_Inlet_from_Lake_Michigan_to_Fifty-ninth_Street_Marina_(5900S),_Chicago,_Cook_County,_IL_HAER_ILL,_16-CHIG,_149-8.tif",
+    "caption": "Historic view of the harbor’s North Inlet Bridge · Library of Congress"
+  }
+}

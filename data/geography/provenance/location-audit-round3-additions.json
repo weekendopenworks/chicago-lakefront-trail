@@ -1,0 +1,1899 @@
+{
+  "reviewedAt": "2026-11-18",
+  "scope": "Independent review of 16 round-three additions, supplementing the prior 169-record raw-source audit. No shared place data changed by this audit.",
+  "method": [
+    "Reparsed cached original OSM XML and fresh bounded OSM source extracts independently from generated audit geometry.",
+    "Matched exact nodes, checked polygon containment with ray casting, and independently recomputed translated-coordinate shoelace centroids.",
+    "Verified official CPD HTML geolocation metadata for both habitat-reference exceptions; checked special names/ensemble anchors against primary CPD pages and OSM relation membership.",
+    "Compared integrated coordinates, mapped all pins into the existing 5200 \u00d7 6900 canvas, and checked nearest neighbors against all 185 integrated discoveries."
+  ],
+  "summary": {
+    "reviewed": 16,
+    "passed": 16,
+    "exactNodes": 6,
+    "polygonInteriorPins": 10,
+    "recomputedCentroids": 8,
+    "officialHabitatReferencePoints": 2,
+    "coordinateCorrectionsRecommended": 0,
+    "outOfMapPins": 0,
+    "exactDuplicateCoordinates": 0,
+    "pairsUnder20Meters": 0,
+    "closestNewPairMeters": 41.321,
+    "maximumCentroidRoundingDifferenceMeters": 0.005954
+  },
+  "officialGeolocationEvidence": [
+    {
+      "id": "north-avenue-beach-dunes",
+      "lat": 41.916545198605,
+      "lon": -87.627747058868,
+      "sourceFile": "[temporary review image; not retained]",
+      "sourceSha256": "fbdaefbe0859c4a7cab2dc3c6bfb46a8873c58d25c957d4abaf24df90ccd0cfd",
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+      "metadataFields": [
+        "place:location:latitude",
+        "place:location:longitude"
+      ],
+      "pinRoundingDisplacementMeters": 0.003411
+    },
+    {
+      "id": "burnham-centennial-prairie",
+      "lat": 41.847027808628,
+      "lon": -87.609979572007,
+      "sourceSha256": "80b01679661c4ebf5c34cebedec14fece53c2328eac64c0950c843c5ef5d8311",
+      "retrieval": "Read directly from public CPD HTML during this audit; response body was not stored.",
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+      "metadataFields": [
+        "place:location:latitude",
+        "place:location:longitude"
+      ],
+      "pinRoundingDisplacementMeters": 0.002512
+    }
+  ],
+  "relationMembershipEvidence": {
+    "relation/17516289": {
+      "members": [
+        {
+          "type": "way",
+          "ref": "751520450",
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": "1276230575",
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "artist_name": "Ellen Lanyon",
+        "building": "roof",
+        "layer": "-1",
+        "man_made": "tunnel",
+        "name": "Riverwalk Gateway",
+        "type": "multipolygon"
+      },
+      "sourceFile": "data/raw/12.xml"
+    },
+    "relation/18176414": {
+      "members": [
+        {
+          "type": "way",
+          "ref": "200507316",
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": "1188397898",
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+        "historic": "lighthouse",
+        "man_made": "lighthouse",
+        "nrhp:criteria": "A;C",
+        "nrhp:inscription_date": "1984/07/19",
+        "protection_title": "U.S. Coast Guard",
+        "ref:nrhp": "84000986",
+        "source_ref": "https://catalog.archives.gov/id/28890966",
+        "start_date": "1893",
+        "type": "multipolygon"
+      },
+      "sourceFile": "[temporary review image; not retained]"
+    }
+  },
+  "sourceCacheSha256": {
+    "data/raw/16.xml": "6b0c1c2136753b855eb515bcce1066b4f4fa46ba6455aff4f8f4271cf8a46918",
+    "data/raw/12.xml": "db6ec1f7c22ae3309f72c974208e5356179232525b0b84378175cae7ba01061f",
+    "data/raw/11.xml": "472c36d1929831f3479084c71124fa79289bcd53d6e1aef4ec791cf7f1a7be6a",
+    "data/raw/8.xml": "1345a0f6a969a6277586dfaee4a19a951a57439b658756c6a78c70526031a871",
+    "data/raw/6.xml": "0f4309262eba59cb84c19020e45d1d33f019f09d0b3411e503c4623cb124e968",
+    "[temporary review image; not retained]": "d0584bf87203668637553095b4dbf421ed26ff35dc39a7289aa54dcded8dac3c",
+    "[temporary review image; not retained]": "ef61740b720b50c5a458d9913ebf21135fbbb1ee03beccf00bc9f44b2496225e",
+    "[temporary review image; not retained]": "927412af39ab3a1ede39411315c2c8915cb9853b27694a3923a820957eeece9b",
+    "[temporary review image; not retained]": "017b73932f65ff16c2470fb22df46578a802d9029d24b5aab4ace6a472b20fd8",
+    "data/raw/city-10.xml": "8d2f6ac34c2d6d9fb0443196249a5fa36a727028a1a2f8b496f6759c0bb30e05",
+    "data/raw/5.xml": "4c06cfc7db6add8510906aa8ef9db835bf81dc7041efecc98f1ab03735dcec5e"
+  },
+  "records": [
+    {
+      "id": "ten-thousand-ripples",
+      "name": "Ten Thousand Ripples",
+      "lat": 41.92849,
+      "lon": -87.6314244,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/13112839402",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-ten-thousand-ripples-artwork",
+        "https://www.openstreetmap.org/node/13112839402"
+      ],
+      "sourceFeature": {
+        "key": "node/13112839402",
+        "name": "Ten Thousand Ripples",
+        "tags": {
+          "artist_name": "Indira Johnson",
+          "artwork_type": "sculpture",
+          "material": "fiberglass;resin",
+          "name": "Ten Thousand Ripples",
+          "tourism": "artwork",
+          "website": "https://www.chicagoparkdistrict.com/parks-facilities/ten-thousand-ripples-artwork"
+        },
+        "version": 2,
+        "timestamp": "2026-01-15T04:23:55Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "data/raw/16.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6314244,
+          41.92849
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "theater-on-the-lake",
+        "distanceMeters": 168.573
+      },
+      "mapPosition": [
+        2320.1168,
+        2010.28
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "charitas",
+      "name": "Charitas",
+      "lat": 41.9265903,
+      "lon": -87.6301685,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1446941780",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/charitas-artwork",
+        "https://www.openstreetmap.org/way/1446941780"
+      ],
+      "sourceFeature": {
+        "key": "way/1446941780",
+        "name": "Charitas",
+        "tags": {
+          "area": "yes",
+          "artist_name": "Ida McClelland Stout",
+          "artwork_type": "statue",
+          "name": "Charitas",
+          "tourism": "artwork",
+          "website": "https://www.chicagoparkdistrict.com/parks-facilities/charitas"
+        },
+        "version": 1,
+        "timestamp": "2025-11-02T17:39:36Z",
+        "file": "data/raw/16.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.630166,
+          41.9266034
+        ],
+        [
+          -87.6301511,
+          41.926588
+        ],
+        [
+          -87.630171,
+          41.9265772
+        ],
+        [
+          -87.630186,
+          41.9265926
+        ],
+        [
+          -87.630166,
+          41.9266034
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.002737,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.6301685329244,
+        41.92659030214285
+      ],
+      "nearestOtherDiscovery": {
+        "id": "theater-on-the-lake",
+        "distanceMeters": 68.86
+      },
+      "mapPosition": [
+        2355.282,
+        2063.4716
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "american-bison",
+      "name": "American Bison",
+      "lat": 41.9265609,
+      "lon": -87.6343786,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/11563278491",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/american-bison-artwork",
+        "https://www.openstreetmap.org/node/11563278491"
+      ],
+      "sourceFeature": {
+        "key": "node/11563278491",
+        "name": "Bison",
+        "tags": {
+          "artwork_type": "statue",
+          "name": "Bison",
+          "tourism": "artwork"
+        },
+        "version": 1,
+        "timestamp": "2024-01-29T04:34:28Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "data/raw/16.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6343786,
+          41.9265609
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "peggy-notebaert-nature-museum",
+        "distanceMeters": 72.893
+      },
+      "mapPosition": [
+        2237.3992,
+        2064.2948
+      ],
+      "notes": "CPD names this American Bison and places it on Cannon Drive near the Nature Museum; OSM uses the shorter name Bison."
+    },
+    {
+      "id": "north-avenue-beach-dunes",
+      "name": "North Avenue Beach Dunes",
+      "lat": 41.9165452,
+      "lon": -87.6277471,
+      "result": "pass",
+      "pointKind": "official habitat reference point",
+      "coordinateMethod": "official Park District geolocation point, checked inside the mapped habitat polygon",
+      "geometryUrl": "https://www.openstreetmap.org/way/1258855013",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+        "https://www.openstreetmap.org/way/1258855013"
+      ],
+      "sourceFeature": {
+        "key": "way/1258855013",
+        "name": null,
+        "tags": {
+          "natural": "scrub"
+        },
+        "version": 1,
+        "timestamp": "2024-03-07T22:47:38Z",
+        "file": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.628708,
+          41.9188523
+        ],
+        [
+          -87.628917,
+          41.9195108
+        ],
+        [
+          -87.6290326,
+          41.9199512
+        ],
+        [
+          -87.6291493,
+          41.9204499
+        ],
+        [
+          -87.6292381,
+          41.9208512
+        ],
+        [
+          -87.6293069,
+          41.9211648
+        ],
+        [
+          -87.6293642,
+          41.9211857
+        ],
+        [
+          -87.6294097,
+          41.9213473
+        ],
+        [
+          -87.6294821,
+          41.9213316
+        ],
+        [
+          -87.6293945,
+          41.9210667
+        ],
+        [
+          -87.6292988,
+          41.9206054
+        ],
+        [
+          -87.6292287,
+          41.9202431
+        ],
+        [
+          -87.6291388,
+          41.9199956
+        ],
+        [
+          -87.6290302,
+          41.9195612
+        ],
+        [
+          -87.6289018,
+          41.919093
+        ],
+        [
+          -87.6288154,
+          41.9188219
+        ],
+        [
+          -87.6287921,
+          41.9186899
+        ],
+        [
+          -87.6287594,
+          41.9186021
+        ],
+        [
+          -87.6286321,
+          41.9182633
+        ],
+        [
+          -87.6284325,
+          41.9177603
+        ],
+        [
+          -87.6282866,
+          41.9174345
+        ],
+        [
+          -87.6282527,
+          41.9173277
+        ],
+        [
+          -87.628171,
+          41.9171261
+        ],
+        [
+          -87.6280495,
+          41.9169498
+        ],
+        [
+          -87.6279725,
+          41.916836
+        ],
+        [
+          -87.6278417,
+          41.9165962
+        ],
+        [
+          -87.6277437,
+          41.9164007
+        ],
+        [
+          -87.6276082,
+          41.9161992
+        ],
+        [
+          -87.6274646,
+          41.9159959
+        ],
+        [
+          -87.6273234,
+          41.91577
+        ],
+        [
+          -87.6271089,
+          41.9158465
+        ],
+        [
+          -87.627509,
+          41.9163582
+        ],
+        [
+          -87.6278266,
+          41.9168768
+        ],
+        [
+          -87.6280659,
+          41.9173112
+        ],
+        [
+          -87.6282539,
+          41.917683
+        ],
+        [
+          -87.6284465,
+          41.9181208
+        ],
+        [
+          -87.6286181,
+          41.9185761
+        ],
+        [
+          -87.628708,
+          41.9188523
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "north-avenue-beach",
+        "distanceMeters": 221.897
+      },
+      "mapPosition": [
+        2423.0812,
+        2344.7344
+      ],
+      "notes": "Official habitat reference point from CPD page metadata, not an entrance or polygon centroid. The mapped scrub polygon is supporting habitat geometry and has no name tag."
+    },
+    {
+      "id": "butterfly-house",
+      "name": "The Butterfly House at Navy Pier",
+      "lat": 41.8923934,
+      "lon": -87.6106318,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1308482808",
+      "sourceUrls": [
+        "https://butterflyhousechicago.com/",
+        "https://navypier.org/eat-drink-and-play/rides-and-games/",
+        "https://www.openstreetmap.org/way/1308482808"
+      ],
+      "sourceFeature": {
+        "key": "way/1308482808",
+        "name": "The Butterfly House",
+        "tags": {
+          "addr:city": "Chicago",
+          "addr:housenumber": "600",
+          "addr:postcode": "60611",
+          "addr:state": "IL",
+          "addr:street": "East Grand Avenue",
+          "building": "yes",
+          "name": "The Butterfly House",
+          "tourism": "attraction",
+          "website": "https://butterflyhousechicago.com/"
+        },
+        "version": 2,
+        "timestamp": "2025-09-02T02:11:44Z",
+        "file": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.6107435,
+          41.8923268
+        ],
+        [
+          -87.6104985,
+          41.8923405
+        ],
+        [
+          -87.6104785,
+          41.8923566
+        ],
+        [
+          -87.6104654,
+          41.8923772
+        ],
+        [
+          -87.6104708,
+          41.8924294
+        ],
+        [
+          -87.6104839,
+          41.8924506
+        ],
+        [
+          -87.6105116,
+          41.8924632
+        ],
+        [
+          -87.6107658,
+          41.8924438
+        ],
+        [
+          -87.6107843,
+          41.892426
+        ],
+        [
+          -87.6107912,
+          41.8924013
+        ],
+        [
+          -87.6107888,
+          41.8923865
+        ],
+        [
+          -87.6108285,
+          41.8923829
+        ],
+        [
+          -87.610824,
+          41.8923594
+        ],
+        [
+          -87.6107849,
+          41.8923635
+        ],
+        [
+          -87.6107828,
+          41.8923509
+        ],
+        [
+          -87.6107643,
+          41.8923337
+        ],
+        [
+          -87.6107435,
+          41.8923268
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.00302,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.61063182208913,
+        41.89239342157709
+      ],
+      "nearestOtherDiscovery": {
+        "id": "crack-the-whip",
+        "distanceMeters": 125.125
+      },
+      "mapPosition": [
+        2902.3096,
+        3020.9848
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "uss-chicago-anchor",
+      "name": "USS Chicago Anchor",
+      "lat": 41.8918655,
+      "lon": -87.5986606,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1467696907",
+      "sourceUrls": [
+        "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+        "https://www.openstreetmap.org/way/1467696907"
+      ],
+      "sourceFeature": {
+        "key": "way/1467696907",
+        "name": "USS Chicago Anchor",
+        "tags": {
+          "historic": "memorial",
+          "material": "metal",
+          "memorial": "war_memorial",
+          "name": "USS Chicago Anchor",
+          "subject:wikidata": "Q2031991",
+          "subject:wikipedia": "en:USS Chicago (CA-136)",
+          "website:waymarking": "http://www.waymarking.com/waymarks/WM8PDB",
+          "wikimedia_commons": "File:U.S.S._Chicago_Anchor.jpg"
+        },
+        "version": 1,
+        "timestamp": "2026-01-16T22:38:28Z",
+        "file": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.5986725,
+          41.8918896
+        ],
+        [
+          -87.5986702,
+          41.8918409
+        ],
+        [
+          -87.5986486,
+          41.8918415
+        ],
+        [
+          -87.5986509,
+          41.8918901
+        ],
+        [
+          -87.5986725,
+          41.8918896
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.00468,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.59866055365354,
+        41.89186552401962
+      ],
+      "nearestOtherDiscovery": {
+        "id": "bob-newhart-statue",
+        "distanceMeters": 41.321
+      },
+      "mapPosition": [
+        3237.5032,
+        3035.766
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "bob-newhart-statue",
+      "name": "Bob Newhart Statue & Couch",
+      "lat": 41.8915034,
+      "lon": -87.5987703,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1467696911",
+      "sourceUrls": [
+        "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+        "https://www.openstreetmap.org/way/1467696911"
+      ],
+      "sourceFeature": {
+        "key": "way/1467696911",
+        "name": "Bob Newhart Statue & Couch",
+        "tags": {
+          "area": "yes",
+          "artwork_type": "statue",
+          "name": "Bob Newhart Statue & Couch",
+          "subject:wikidata": "Q718078",
+          "subject:wikimedia_commons": "File:Comedian_Bob_Newhart.jpg",
+          "subject:wikipedia": "en:Bob Newhart",
+          "tourism": "artwork"
+        },
+        "version": 1,
+        "timestamp": "2026-01-16T22:38:28Z",
+        "file": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.5987799,
+          41.8915133
+        ],
+        [
+          -87.5987545,
+          41.8915
+        ],
+        [
+          -87.5987607,
+          41.8914934
+        ],
+        [
+          -87.5987862,
+          41.8915067
+        ],
+        [
+          -87.5987799,
+          41.8915133
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.005954,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.59877033760263,
+        41.891503354424955
+      ],
+      "nearestOtherDiscovery": {
+        "id": "uss-chicago-anchor",
+        "distanceMeters": 41.321
+      },
+      "mapPosition": [
+        3234.4316,
+        3045.9048
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "crack-the-whip",
+      "name": "Crack the Whip",
+      "lat": 41.8913145,
+      "lon": -87.6102083,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/3744841485",
+      "sourceUrls": [
+        "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+        "https://www.openstreetmap.org/node/3744841485"
+      ],
+      "sourceFeature": {
+        "key": "node/3744841485",
+        "name": "Crack The Whip",
+        "tags": {
+          "name": "Crack The Whip",
+          "tourism": "artwork"
+        },
+        "version": 1,
+        "timestamp": "2015-09-15T23:30:05Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.6102083,
+          41.8913145
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "polk-bros-park",
+        "distanceMeters": 75.017
+      },
+      "mapPosition": [
+        2914.1676,
+        3051.194
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "chicago-harbor-lighthouse",
+      "name": "Chicago Harbor Lighthouse",
+      "lat": 41.8893615,
+      "lon": -87.5905558,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1188397898",
+      "sourceUrls": [
+        "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273",
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1912627/chicago-harbor-light/",
+        "https://www.navcen.uscg.gov/sites/default/files/pdf/lightLists/LightList_V7_2025.pdf",
+        "https://www.openstreetmap.org/way/1188397898"
+      ],
+      "sourceFeature": {
+        "key": "way/1188397898",
+        "name": "Chicago Harbor Light",
+        "tags": {
+          "building": "yes",
+          "building:levels": "5",
+          "height": "14.6",
+          "man_made": "lighthouse",
+          "operator": "U.S. Coast Guard",
+          "seamark:fog_signal:category": "horn",
+          "seamark:fog_signal:generation": "automatic",
+          "seamark:fog_signal:group": "2",
+          "seamark:fog_signal:information": "Operates by keying microphone five times on VHF-FM Ch. 83A",
+          "seamark:fog_signal:period": "30.0",
+          "seamark:information": "White conical",
+          "seamark:landmark:category": "tower",
+          "seamark:landmark:conspicuity": "conspicuous",
+          "seamark:landmark:function": "tower",
+          "seamark:light:character": "Fl",
+          "seamark:light:colour": "red",
+          "seamark:light:height": "25",
+          "seamark:light:period": "15",
+          "seamark:light:range": "15",
+          "seamark:name": "Chicago Harbor Light",
+          "seamark:reference": "LLNR 19960",
+          "seamark:type": "landmark"
+        },
+        "version": 3,
+        "timestamp": "2024-10-18T08:59:17Z",
+        "file": "[temporary review image; not retained]"
+      },
+      "sourceGeometry": [
+        [
+          -87.5905977,
+          41.8893424
+        ],
+        [
+          -87.5905865,
+          41.8893329
+        ],
+        [
+          -87.5905716,
+          41.8893269
+        ],
+        [
+          -87.5905548,
+          41.8893249
+        ],
+        [
+          -87.5905381,
+          41.8893274
+        ],
+        [
+          -87.5905235,
+          41.8893339
+        ],
+        [
+          -87.5905129,
+          41.8893438
+        ],
+        [
+          -87.5905073,
+          41.8893557
+        ],
+        [
+          -87.5905076,
+          41.8893684
+        ],
+        [
+          -87.5905128,
+          41.8893791
+        ],
+        [
+          -87.5905221,
+          41.889388
+        ],
+        [
+          -87.5905346,
+          41.8893945
+        ],
+        [
+          -87.5905492,
+          41.8893977
+        ],
+        [
+          -87.5905645,
+          41.8893975
+        ],
+        [
+          -87.5905789,
+          41.8893938
+        ],
+        [
+          -87.590591,
+          41.8893869
+        ],
+        [
+          -87.5905998,
+          41.8893777
+        ],
+        [
+          -87.5906044,
+          41.8893669
+        ],
+        [
+          -87.5906039,
+          41.8893542
+        ],
+        [
+          -87.5905977,
+          41.8893424
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.003346,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.59055581420556,
+        41.88936152813394
+      ],
+      "nearestOtherDiscovery": {
+        "id": "bob-newhart-statue",
+        "distanceMeters": 721.279
+      },
+      "mapPosition": [
+        3464.4376,
+        3105.878
+      ],
+      "notes": "The pin is the tower footprint centroid (way 1188397898, seamark:name Chicago Harbor Light, LLNR 19960), an outer member of lighthouse complex relation 18176414. It is an offshore sight, not a publicly reachable entrance; current practical text states no public land access."
+    },
+    {
+      "id": "us-navy-submarine-memorial",
+      "name": "U.S. Navy Submarine Memorial",
+      "lat": 41.887985,
+      "lon": -87.6179933,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/7025666063",
+      "sourceUrls": [
+        "https://crashdivebase.org/chicago-memorial/",
+        "https://chicago.gov/city/en/sites/chicagoriverwalk/home/site-history.html",
+        "https://www.openstreetmap.org/node/7025666063"
+      ],
+      "sourceFeature": {
+        "key": "node/7025666063",
+        "name": "U.S. Navy Submarine Memorial",
+        "tags": {
+          "historic": "memorial",
+          "memorial": "war_memorial",
+          "name": "U.S. Navy Submarine Memorial"
+        },
+        "version": 6,
+        "timestamp": "2023-06-04T16:36:29Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "data/raw/12.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6179933,
+          41.887985
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "riverwalk-gateway",
+        "distanceMeters": 326.214
+      },
+      "mapPosition": [
+        2696.1876,
+        3144.42
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "riverwalk-gateway",
+      "name": "Riverwalk Gateway Murals",
+      "lat": 41.8877854,
+      "lon": -87.6140661,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/751520450",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/riverwalk-gateway-murals-artwork",
+        "https://www.openstreetmap.org/way/751520450"
+      ],
+      "sourceFeature": {
+        "key": "way/751520450",
+        "name": null,
+        "tags": {},
+        "version": 11,
+        "timestamp": "2024-04-25T20:46:13Z",
+        "file": "data/raw/12.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6143874,
+          41.8878063
+        ],
+        [
+          -87.6143883,
+          41.8877927
+        ],
+        [
+          -87.6143885,
+          41.8877904
+        ],
+        [
+          -87.6137546,
+          41.8877641
+        ],
+        [
+          -87.6137543,
+          41.8877685
+        ],
+        [
+          -87.6137539,
+          41.8877812
+        ],
+        [
+          -87.6138078,
+          41.8877838
+        ],
+        [
+          -87.6143874,
+          41.8878063
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.001931,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.61406611298452,
+        41.88778541440771
+      ],
+      "nearestOtherDiscovery": {
+        "id": "dusable-harbor",
+        "distanceMeters": 320.399
+      },
+      "mapPosition": [
+        2806.1492,
+        3150.0088
+      ],
+      "notes": "The selected closed way is one mural wall, an outer member of named relation 17516289 (Riverwalk Gateway, artist Ellen Lanyon). It avoids a misleading centroid between two disjoint walls. CPD confirms the south-bank underpass at Lake Shore Drive."
+    },
+    {
+      "id": "fountain-figures",
+      "name": "Grant Park Fountain Figures",
+      "lat": 41.877127,
+      "lon": -87.6193126,
+      "result": "pass",
+      "pointKind": "ensemble reference at Fisher Boy",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature; point marks Fisher Boy in the northern pair, not the center of all four fountains",
+      "geometryUrl": "https://www.openstreetmap.org/way/230511525",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/fountain-figures-artwork",
+        "https://www.openstreetmap.org/way/230511525"
+      ],
+      "sourceFeature": {
+        "key": "way/230511525",
+        "name": "Fisher Boy",
+        "tags": {
+          "area": "yes",
+          "artist_name": "Leonard Crunelle",
+          "artwork_type": "sculpture",
+          "chicago:building_id": "874132",
+          "name": "Fisher Boy",
+          "tourism": "artwork"
+        },
+        "version": 4,
+        "timestamp": "2021-03-07T23:10:43Z",
+        "file": "data/raw/11.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6193094,
+          41.8771141
+        ],
+        [
+          -87.6193303,
+          41.8771248
+        ],
+        [
+          -87.6193161,
+          41.8771397
+        ],
+        [
+          -87.6192948,
+          41.8771297
+        ],
+        [
+          -87.6193094,
+          41.8771141
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.003409,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.61931258952173,
+        41.87712702961531
+      ],
+      "nearestOtherDiscovery": {
+        "id": "buckingham-fountain",
+        "distanceMeters": 150.148
+      },
+      "mapPosition": [
+        2659.2472,
+        3448.444
+      ],
+      "notes": "The selected exact Fisher Boy footprint represents an ensemble of four fountains. CPD confirms Fisher Boy and Crane Girl north of Buckingham, Turtle Boy and Dove Girl south; the published practical text explicitly identifies this northern-pair anchor."
+    },
+    {
+      "id": "montgomery-ward-bust",
+      "name": "Aaron Montgomery Ward Bust",
+      "lat": 41.8693261,
+      "lon": -87.6235963,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/3554687647",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/aaron-montgomery-ward-bust",
+        "https://www.openstreetmap.org/node/3554687647"
+      ],
+      "sourceFeature": {
+        "key": "node/3554687647",
+        "name": "Aaron Ward Montgomery Bust",
+        "tags": {
+          "artist_name": "Milton Horn",
+          "artist:wikidata": "Q12060535",
+          "artist:wikimedia_commons": "File:Archives_of_American_Art_-_Milton_Horn_-_2163_CROPPED.jpg",
+          "artist:wikipedia": "en:Milton Horn",
+          "artwork_type": "bust",
+          "name": "Aaron Ward Montgomery Bust",
+          "subject:wikidata": "Q4662269",
+          "subject:wikimedia_commons": "File:A._Montgomery_Ward.jpg",
+          "subject:wikipedia": "en:Aaron Montgomery Ward",
+          "tourism": "artwork"
+        },
+        "version": 5,
+        "timestamp": "2023-07-06T09:43:49Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "data/raw/city-10.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6235963,
+          41.8693261
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "rosenberg-fountain",
+        "distanceMeters": 72.625
+      },
+      "mapPosition": [
+        2539.3036,
+        3666.8692
+      ],
+      "notes": "CPD establishes the correct Aaron Montgomery Ward name and east-of-Michigan/11th-Street location; the OSM name accidentally reverses Ward and Montgomery. The exact node location agrees with the official location note."
+    },
+    {
+      "id": "burnham-centennial-prairie",
+      "name": "Burnham Centennial Prairie",
+      "lat": 41.8470278,
+      "lon": -87.6099796,
+      "result": "pass",
+      "pointKind": "official habitat reference point",
+      "coordinateMethod": "official Park District geolocation point, checked inside the mapped habitat polygon",
+      "geometryUrl": "https://www.openstreetmap.org/way/769816397",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+        "https://www.openstreetmap.org/way/769816397"
+      ],
+      "sourceFeature": {
+        "key": "way/769816397",
+        "name": "Burnham Wildlife Corridor",
+        "tags": {
+          "addr:city": "Chicago",
+          "addr:postcode": "60616",
+          "addr:state": "IL",
+          "addr:street": "South Lake Shore Drive",
+          "leisure": "nature_reserve",
+          "name": "Burnham Wildlife Corridor",
+          "operator": "Chicago Park District",
+          "operator:type": "public",
+          "operator:wikidata": "Q2963322"
+        },
+        "version": 12,
+        "timestamp": "2026-09-08T19:26:46Z",
+        "file": "data/raw/8.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.6111053,
+          41.8479312
+        ],
+        [
+          -87.6110963,
+          41.8477677
+        ],
+        [
+          -87.6110685,
+          41.8476258
+        ],
+        [
+          -87.61105,
+          41.8475439
+        ],
+        [
+          -87.6108953,
+          41.8468329
+        ],
+        [
+          -87.6108247,
+          41.8465623
+        ],
+        [
+          -87.6107099,
+          41.8460716
+        ],
+        [
+          -87.610672,
+          41.8458929
+        ],
+        [
+          -87.610663,
+          41.8458837
+        ],
+        [
+          -87.6106206,
+          41.8458727
+        ],
+        [
+          -87.6105799,
+          41.845849
+        ],
+        [
+          -87.6105487,
+          41.8458288
+        ],
+        [
+          -87.6105388,
+          41.8458276
+        ],
+        [
+          -87.610514,
+          41.8458402
+        ],
+        [
+          -87.6104756,
+          41.8458595
+        ],
+        [
+          -87.6100791,
+          41.8457541
+        ],
+        [
+          -87.6099782,
+          41.8457475
+        ],
+        [
+          -87.6099163,
+          41.845758
+        ],
+        [
+          -87.609842,
+          41.845762
+        ],
+        [
+          -87.6097549,
+          41.8457672
+        ],
+        [
+          -87.6097339,
+          41.845525
+        ],
+        [
+          -87.6097328,
+          41.8453571
+        ],
+        [
+          -87.6097576,
+          41.8451344
+        ],
+        [
+          -87.6097788,
+          41.8449488
+        ],
+        [
+          -87.6097923,
+          41.8447573
+        ],
+        [
+          -87.6097852,
+          41.8446166
+        ],
+        [
+          -87.6097666,
+          41.8444867
+        ],
+        [
+          -87.6097336,
+          41.8443923
+        ],
+        [
+          -87.6096929,
+          41.8442942
+        ],
+        [
+          -87.6096295,
+          41.8441791
+        ],
+        [
+          -87.6094891,
+          41.8439717
+        ],
+        [
+          -87.6094455,
+          41.8438955
+        ],
+        [
+          -87.6094098,
+          41.8438345
+        ],
+        [
+          -87.6093999,
+          41.8437691
+        ],
+        [
+          -87.609393,
+          41.8435658
+        ],
+        [
+          -87.6093607,
+          41.8433288
+        ],
+        [
+          -87.6093404,
+          41.8431964
+        ],
+        [
+          -87.6093177,
+          41.843109
+        ],
+        [
+          -87.6092772,
+          41.8430428
+        ],
+        [
+          -87.6091877,
+          41.8429219
+        ],
+        [
+          -87.6091139,
+          41.8428155
+        ],
+        [
+          -87.6090881,
+          41.8428196
+        ],
+        [
+          -87.6089855,
+          41.8428525
+        ],
+        [
+          -87.6089147,
+          41.8429185
+        ],
+        [
+          -87.6088935,
+          41.8429606
+        ],
+        [
+          -87.6088336,
+          41.8431323
+        ],
+        [
+          -87.60891,
+          41.843256
+        ],
+        [
+          -87.6089519,
+          41.8433515
+        ],
+        [
+          -87.6089834,
+          41.8434449
+        ],
+        [
+          -87.6090312,
+          41.8436302
+        ],
+        [
+          -87.6090872,
+          41.8438518
+        ],
+        [
+          -87.6091145,
+          41.8439281
+        ],
+        [
+          -87.60916,
+          41.8440021
+        ],
+        [
+          -87.6092208,
+          41.8440684
+        ],
+        [
+          -87.6093001,
+          41.8441483
+        ],
+        [
+          -87.6093712,
+          41.8442354
+        ],
+        [
+          -87.6093783,
+          41.844445
+        ],
+        [
+          -87.6093748,
+          41.8445531
+        ],
+        [
+          -87.6093589,
+          41.8446718
+        ],
+        [
+          -87.6093288,
+          41.8447825
+        ],
+        [
+          -87.6092934,
+          41.8448893
+        ],
+        [
+          -87.6092456,
+          41.8449921
+        ],
+        [
+          -87.6091819,
+          41.845091
+        ],
+        [
+          -87.6091023,
+          41.8451938
+        ],
+        [
+          -87.6090032,
+          41.8453177
+        ],
+        [
+          -87.6088598,
+          41.845497
+        ],
+        [
+          -87.6088103,
+          41.8455577
+        ],
+        [
+          -87.6087537,
+          41.8456407
+        ],
+        [
+          -87.6087094,
+          41.8457264
+        ],
+        [
+          -87.6086669,
+          41.8458292
+        ],
+        [
+          -87.6086351,
+          41.8459518
+        ],
+        [
+          -87.6086245,
+          41.8461061
+        ],
+        [
+          -87.608633,
+          41.8461884
+        ],
+        [
+          -87.6086369,
+          41.846226
+        ],
+        [
+          -87.6086581,
+          41.8463381
+        ],
+        [
+          -87.6087041,
+          41.8464593
+        ],
+        [
+          -87.6087625,
+          41.8465727
+        ],
+        [
+          -87.6087835,
+          41.8466049
+        ],
+        [
+          -87.6088227,
+          41.846665
+        ],
+        [
+          -87.6088935,
+          41.8467546
+        ],
+        [
+          -87.6091251,
+          41.8470554
+        ],
+        [
+          -87.6093624,
+          41.8473636
+        ],
+        [
+          -87.6095057,
+          41.8475574
+        ],
+        [
+          -87.6095624,
+          41.8476471
+        ],
+        [
+          -87.6096031,
+          41.8477275
+        ],
+        [
+          -87.6096314,
+          41.8478105
+        ],
+        [
+          -87.609842,
+          41.8477723
+        ],
+        [
+          -87.6099428,
+          41.8481071
+        ],
+        [
+          -87.6100437,
+          41.8481229
+        ],
+        [
+          -87.6100023,
+          41.8482478
+        ],
+        [
+          -87.6100202,
+          41.8484226
+        ],
+        [
+          -87.6099964,
+          41.8485823
+        ],
+        [
+          -87.6099735,
+          41.848661
+        ],
+        [
+          -87.609937,
+          41.8487862
+        ],
+        [
+          -87.6098738,
+          41.8489811
+        ],
+        [
+          -87.6098101,
+          41.8491419
+        ],
+        [
+          -87.6097482,
+          41.8492829
+        ],
+        [
+          -87.6097092,
+          41.8493844
+        ],
+        [
+          -87.6096933,
+          41.8494807
+        ],
+        [
+          -87.6097924,
+          41.8495031
+        ],
+        [
+          -87.6097853,
+          41.8496033
+        ],
+        [
+          -87.6098455,
+          41.8496613
+        ],
+        [
+          -87.609876,
+          41.849772
+        ],
+        [
+          -87.6099459,
+          41.8497743
+        ],
+        [
+          -87.6099628,
+          41.8497545
+        ],
+        [
+          -87.6100465,
+          41.8497347
+        ],
+        [
+          -87.6100136,
+          41.8496518
+        ],
+        [
+          -87.61,
+          41.8496175
+        ],
+        [
+          -87.6099863,
+          41.8495831
+        ],
+        [
+          -87.6099545,
+          41.8495033
+        ],
+        [
+          -87.6099252,
+          41.8494291
+        ],
+        [
+          -87.6098923,
+          41.8493461
+        ],
+        [
+          -87.6098792,
+          41.8493128
+        ],
+        [
+          -87.6113751,
+          41.8489914
+        ],
+        [
+          -87.6113998,
+          41.8489864
+        ],
+        [
+          -87.6114208,
+          41.8489813
+        ],
+        [
+          -87.6113596,
+          41.8488236
+        ],
+        [
+          -87.6112226,
+          41.8484723
+        ],
+        [
+          -87.6111588,
+          41.8483231
+        ],
+        [
+          -87.6111159,
+          41.8481713
+        ],
+        [
+          -87.6111063,
+          41.8480663
+        ],
+        [
+          -87.6111053,
+          41.8479312
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "caracol",
+        "distanceMeters": 131.096
+      },
+      "mapPosition": [
+        2920.5712,
+        4291.2216
+      ],
+      "notes": "Official habitat reference point from CPD page metadata, not an entrance or a centroid of the larger Burnham Wildlife Corridor polygon. The CPD page describes the prairie as a subarea of that corridor."
+    },
+    {
+      "id": "letter-to-bessie-coleman",
+      "name": "Letter to Bessie Coleman",
+      "lat": 41.8243877,
+      "lon": -87.5981055,
+      "result": "pass",
+      "pointKind": "mapped feature interior reference point",
+      "coordinateMethod": "area-weighted centroid, checked inside the mapped feature",
+      "geometryUrl": "https://www.openstreetmap.org/way/1524460968",
+      "sourceUrls": [
+        "https://bernardwilliamsart.com/artwork/4452526-Letter%20to%20Bessie%20Coleman.html",
+        "https://www.openstreetmap.org/way/1524460968"
+      ],
+      "sourceFeature": {
+        "key": "way/1524460968",
+        "name": "Letter to Bessie Coleman Sculpture",
+        "tags": {
+          "area": "yes",
+          "artwork_type": "sculpture",
+          "name": "Letter to Bessie Coleman Sculpture",
+          "tourism": "artwork"
+        },
+        "version": 1,
+        "timestamp": "2026-05-29T21:29:35Z",
+        "file": "data/raw/6.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.598133,
+          41.824421
+        ],
+        [
+          -87.5981284,
+          41.8243524
+        ],
+        [
+          -87.598078,
+          41.8243543
+        ],
+        [
+          -87.5980826,
+          41.8244229
+        ],
+        [
+          -87.598133,
+          41.824421
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": true,
+        "matchesExactNode": null,
+        "centroidDisplacementMeters": 0.005566,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true
+      },
+      "computedCentroid": [
+        -87.5981055,
+        41.824387650000006
+      ],
+      "nearestOtherDiscovery": {
+        "id": "41st-street-bridge",
+        "distanceMeters": 389.704
+      },
+      "mapPosition": [
+        3253.046,
+        4925.1444
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    },
+    {
+      "id": "sankofa-for-the-earth",
+      "name": "Sankofa for the Earth",
+      "lat": 41.8179832,
+      "lon": -87.5964609,
+      "result": "pass",
+      "pointKind": "mapped feature point",
+      "coordinateMethod": "exact named OSM node",
+      "geometryUrl": "https://www.openstreetmap.org/node/13203542052",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/sankofa-earth-artwork",
+        "https://www.chicagoparkdistrict.com/events/earth-jam-family-day-sankofa-earth-burnham",
+        "https://www.gatheringspaces.org/",
+        "https://www.openstreetmap.org/node/13203542052"
+      ],
+      "sourceFeature": {
+        "key": "node/13203542052",
+        "name": "Sankofa For The Earth",
+        "tags": {
+          "leisure": "park",
+          "name": "Sankofa For The Earth"
+        },
+        "version": 1,
+        "timestamp": "2025-10-08T20:05:55Z",
+        "file": "[temporary review image; not retained]",
+        "cachedXmlFile": "data/raw/5.xml"
+      },
+      "sourceGeometry": [
+        [
+          -87.5964609,
+          41.8179832
+        ]
+      ],
+      "checks": {
+        "matchesClaimedRawGeometry": true,
+        "pointInsideSourcePolygon": null,
+        "matchesExactNode": true,
+        "centroidDisplacementMeters": null,
+        "insideMapCanvas": true,
+        "integratedCoordinatesMatch": true,
+        "cachedXmlAgreesWithCurrentNodeResponse": true
+      },
+      "computedCentroid": null,
+      "nearestOtherDiscovery": {
+        "id": "burnham-nature-sanctuary",
+        "distanceMeters": 218.97
+      },
+      "mapPosition": [
+        3299.0948,
+        5104.4704
+      ],
+      "notes": "The source feature and pin agree; no coordinate correction recommended."
+    }
+  ],
+  "limitations": [
+    "Community-mapped coordinates and polygon containment are not survey-grade guarantees or an on-site visit.",
+    "Raw source parsing verifies geographic identity/geometry; it does not independently certify every historical fact, photo subject, closure, or public access detail.",
+    "Both habitat pins are official representative reference points, not precise trail entrances; their broader OSM polygons are supporting context.",
+    "Most source XML was cached earlier; fresh exact node and bounded extracts were supplied by the inventory audit. Source versions and timestamps are retained."
+  ]
+}

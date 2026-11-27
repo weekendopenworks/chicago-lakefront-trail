@@ -1,0 +1,952 @@
+{
+  "lincoln-park-conservatory": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lincoln_Park_Conservatory_kz01.jpg",
+    "exactFile": "File:Lincoln Park Conservatory kz01.jpg",
+    "identityVisualCheck": "Glass conservatory entrance, full gable and potted plants match the Lincoln Park building.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "localAsset": "/assets/photos/lincoln-park-conservatory.webp",
+    "dimensions": [
+      500,
+      333
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "peggy-notebaert-nature-museum": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peggy_Notebaet_Nature_Museum_-_panoramio.jpg",
+    "exactFile": "File:Peggy Notebaet Nature Museum - panoramio.jpg",
+    "identityVisualCheck": "Glass and stone museum exterior behind leafless trees, with the boardwalk in front, matches the Notebaert building.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bohao Zhao",
+    "localAsset": "/assets/photos/peggy-notebaert-nature-museum.webp",
+    "dimensions": [
+      500,
+      333
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "cafe-brauer": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe_Brauer_in_Chicago.jpg",
+    "exactFile": "File:Cafe Brauer in Chicago.jpg",
+    "identityVisualCheck": "Red brick and green roof of Café Brauer are visible across the South Pond, with their reflections.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Victorgrigas",
+    "localAsset": "/assets/photos/cafe-brauer.webp",
+    "dimensions": [
+      500,
+      281
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "standing-lincoln": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_The_Man_Augustus_Saint-Gaudens_Chicago_2020-9453.jpg",
+    "exactFile": "File:Abraham Lincoln The Man Augustus Saint-Gaudens Chicago 2020-9453.jpg",
+    "identityVisualCheck": "Full standing bronze Lincoln with the chair behind him and granite pedestal matches The Man.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paul R. Burley",
+    "localAsset": "/assets/photos/standing-lincoln.webp",
+    "dimensions": [
+      500,
+      750
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "couch-tomb": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Couch_Mausoleum_Lincoln_Park.jpg",
+    "exactFile": "File:Couch Mausoleum Lincoln Park.jpg",
+    "identityVisualCheck": "Frontal stone mausoleum has the COUCH inscription and surrounding iron fence.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Jmp2web",
+    "localAsset": "/assets/photos/couch-tomb.webp",
+    "dimensions": [
+      500,
+      375
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "goethe-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goethe_Monument_Chicago,_by_Hermann_Hahn.jpg",
+    "exactFile": "File:Goethe Monument Chicago, by Hermann Hahn.jpg",
+    "identityVisualCheck": "Classical bronze figure, rock formation and Goethe-inscribed pedestal match the Lincoln Park monument.",
+    "licenseVerification": "Commons aggregate metadata gives Public domain for the sculpture. The exact file page’s Photo section and FlickreviewR review specify CC BY 2.0 for Greg Dunham’s photograph; that photo-specific license is used.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Wildcat Dunny / Greg Dunham from Kirkland, WA, USA",
+    "localAsset": "/assets/photos/goethe-monument.webp",
+    "dimensions": [
+      500,
+      667
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "schiller-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schiller_monument_in_Chicago_2019.JPG",
+    "exactFile": "File:Schiller monument in Chicago 2019.JPG",
+    "identityVisualCheck": "Full standing Schiller monument, its pedestal and stepped base are shown in their park setting.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Saalebaer",
+    "localAsset": "/assets/photos/schiller-monument.webp",
+    "dimensions": [
+      500,
+      888
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "nature-boardwalk": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nature_Boardwalk_Lincoln_Park.JPG",
+    "exactFile": "File:Nature Boardwalk Lincoln Park.JPG",
+    "identityVisualCheck": "South Pond, its bridge, marsh planting and Chicago skyline establish the Nature Boardwalk setting.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/nature-boardwalk.webp",
+    "dimensions": [
+      960,
+      672
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "shakespeare-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_20151110_73_William_Shakespeare_statue,_Belden_Ave._@_Lincoln_Park_West_(33267028670).jpg",
+    "exactFile": "File:Chicago 20151110 73 William Shakespeare statue, Belden Ave. @ Lincoln Park West (33267028670).jpg",
+    "identityVisualCheck": "Seated bronze Shakespeare and its granite plinth match the monument at Belden and Lincoln Park West.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "David Wilson from Oak Park, Illinois, USA",
+    "localAsset": "/assets/photos/shakespeare-monument.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "hamilton-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_Sculpture_facing_John_Hancock_Tower,_Chicago.jpg",
+    "exactFile": "File:Alexander Hamilton Sculpture facing John Hancock Tower, Chicago.jpg",
+    "identityVisualCheck": "Gilded Hamilton stands on his pale stone pedestal, with the John Hancock Center beyond the park.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Victorgrigas",
+    "localAsset": "/assets/photos/hamilton-monument.webp",
+    "dimensions": [
+      960,
+      640
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "franklin-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Franklin_Lincoln_Park.JPG",
+    "exactFile": "File:Ben Franklin Lincoln Park.JPG",
+    "identityVisualCheck": "Standing bronze Franklin in his coat, on the inscribed pedestal, matches the actual Lincoln Park statue. The file description misattributes the sculptor; that claim is not reused.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/franklin-monument.webp",
+    "dimensions": [
+      960,
+      712
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "andersen-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hans_Christian_Andersen_Lincoln_Park.JPG",
+    "exactFile": "File:Hans Christian Andersen Lincoln Park.JPG",
+    "identityVisualCheck": "Seated bronze Andersen with his book and named pedestal matches the Lincoln Park monument.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/andersen-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "lasalle-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Cavelier_de_La_Salle_Monument_Chicago_2020-9483.jpg",
+    "exactFile": "File:Robert Cavelier de La Salle Monument Chicago 2020-9483.jpg",
+    "identityVisualCheck": "Standing bronze explorer holding his hat, on a stone pedestal, matches the La Salle monument.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paul R. Burley",
+    "localAsset": "/assets/photos/lasalle-monument.webp",
+    "dimensions": [
+      640,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "altgeld-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Peter_Altgeld_Monument_Lincoln_Park_Chicago_2019-2398.jpg",
+    "exactFile": "File:John Peter Altgeld Monument Lincoln Park Chicago 2019-2398.jpg",
+    "identityVisualCheck": "Standing Altgeld and the woman-and-child group beside the circular base match the named monument.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paul R. Burley",
+    "localAsset": "/assets/photos/altgeld-monument.webp",
+    "dimensions": [
+      640,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "oglesby-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_J_Oglesby.JPG",
+    "exactFile": "File:Richard J Oglesby.JPG",
+    "identityVisualCheck": "Standing bronze Oglesby, inscribed pedestal and broad circular steps are visible together.",
+    "licenseVerification": "Commons aggregate metadata gives Public domain for the sculpture. File wikitext separately licenses Alanscottwalker’s own photograph under CC BY-SA 3.0 (also GFDL); the photo-specific license is used.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/oglesby-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "greene-vardiman-black": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GV_Black.jpg",
+    "exactFile": "File:GV Black.jpg",
+    "identityVisualCheck": "Seated bronze figure in a chair on a broad pale granite plinth matches the G. V. Black memorial.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "AndrewHorne",
+    "localAsset": "/assets/photos/greene-vardiman-black.webp",
+    "dimensions": [
+      960,
+      638
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "jose-rizal-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jose_Rizal_Chicago.JPG",
+    "exactFile": "File:Jose Rizal Chicago.JPG",
+    "identityVisualCheck": "Standing Rizal with crossed arms, named dark pedestal and American/Philippine flags identify this memorial.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/jose-rizal-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "the-alarm": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:OttawaMemorial.JPG",
+    "exactFile": "File:OttawaMemorial.JPG",
+    "identityVisualCheck": "Bronze Indigenous family and dog on a carved red stone base identify The Alarm.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/the-alarm.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "signal-of-peace": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:IndianPeace.JPG",
+    "exactFile": "File:IndianPeace.JPG",
+    "identityVisualCheck": "Horse and Indigenous rider with raised arm, on the lakeside stone pedestal, identify Signal of Peace.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/signal-of-peace.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "waveland-clock-tower": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waveland_Clock_Tower_-_panoramio.jpg",
+    "exactFile": "File:Waveland Clock Tower - panoramio.jpg",
+    "identityVisualCheck": "Full clock tower with its low arcaded wings is visible against a clear sky.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bohao Zhao",
+    "localAsset": "/assets/photos/waveland-clock-tower.webp",
+    "dimensions": [
+      960,
+      640
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "eli-bates-fountain": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lincoln_Park_Conservatory_(9719113515).jpg",
+    "exactFile": "File:Lincoln Park Conservatory (9719113515).jpg",
+    "identityVisualCheck": "The fountain stands in the formal flower garden directly in front of the conservatory, giving clear site context.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Ben Schumin from Montgomery Village, Maryland, USA",
+    "localAsset": "/assets/photos/eli-bates-fountain.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "caption": "Eli Bates Fountain in the formal garden before Lincoln Park Conservatory",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "fountain-girl": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois,_U.S._(2023)_-_329.jpg",
+    "exactFile": "File:Chicago, Illinois, U.S. (2023) - 329.jpg",
+    "identityVisualCheck": "Bronze girl holding a cup atop the ornamental fountain pedestal, with the interpretive plaque, identifies Fountain Girl.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "localAsset": "/assets/photos/fountain-girl.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "aids-garden": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois,_U.S._(2023)_-_437.jpg",
+    "exactFile": "File:Chicago, Illinois, U.S. (2023) - 437.jpg",
+    "identityVisualCheck": "AIDS Garden Chicago lettering on the stone benches and the garden beyond identify the actual place; Haring artwork is not the photographic subject.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "localAsset": "/assets/photos/aids-garden.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "caption": "Signed benches and garden entrance at AIDS Garden Chicago",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "olive-park": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milton_Lee_Olive_Park_in_Chicago.png",
+    "exactFile": "File:Milton Lee Olive Park in Chicago.png",
+    "identityVisualCheck": "Wide view of lawns, circular fountain basins and the lake matches Milton Lee Olive Park.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Bgutenschwager",
+    "localAsset": "/assets/photos/olive-park.webp",
+    "dimensions": [
+      960,
+      443
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "chicago-shakespeare-theater": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Shakespeare_Theater_building_exterior,_March_2017.jpg",
+    "exactFile": "File:Chicago Shakespeare Theater building exterior, March 2017.jpg",
+    "identityVisualCheck": "Curved glass exterior and prominent CHICAGO SHAKESPEARE lettering identify the Navy Pier theater.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Jason Zhang",
+    "localAsset": "/assets/photos/chicago-shakespeare-theater.webp",
+    "dimensions": [
+      640,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "chicago-history-museum": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChicagoHistoryMuseum.jpg",
+    "exactFile": "File:ChicagoHistoryMuseum.jpg",
+    "identityVisualCheck": "Brick and curved glass museum entrance and museum signage identify the Chicago History Museum.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Goldnpuppy",
+    "localAsset": "/assets/photos/chicago-history-museum.webp",
+    "dimensions": [
+      960,
+      495
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "kwa-ma-rolas": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kwanusila.jpg",
+    "exactFile": "File:Kwanusila.jpg",
+    "identityVisualCheck": "Full painted pole topped by a thunderbird matches the lakefront totem also known as Kwanusila. Historical photograph predates its 2025 rededication as Kwa-Ma-Rolas.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Theemausoliam",
+    "localAsset": "/assets/photos/kwa-ma-rolas.webp",
+    "dimensions": [
+      960,
+      635
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "caption": "Historical photograph of the lakefront pole, before its 2025 rededication as Kwa-Ma-Rolas",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "sheridan-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois,_U.S._(2023)_-_442.jpg",
+    "exactFile": "File:Chicago, Illinois, U.S. (2023) - 442.jpg",
+    "identityVisualCheck": "Full bronze horse and rider on the stone base, with nearby apartment buildings, match the Sheridan monument.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "localAsset": "/assets/photos/sheridan-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "peoples-gas-pavilion": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois,_U.S._(2023)_-_353.jpg",
+    "exactFile": "File:Chicago, Illinois, U.S. (2023) - 353.jpg",
+    "identityVisualCheck": "The distinctive open honeycomb arch is visible amid native planting at the Nature Boardwalk.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "localAsset": "/assets/photos/peoples-gas-pavilion.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "caption": "Peoples Gas Pavilion beside the Nature Boardwalk’s native planting",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "chess-pavilion": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chess_Pavilion.jpg",
+    "exactFile": "File:Chess Pavilion.jpg",
+    "identityVisualCheck": "Wing-shaped roof, stone tables and seating identify the Chess Pavilion near North Avenue Beach.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "stephen boisvert from Chicago, United States",
+    "localAsset": "/assets/photos/chess-pavilion.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "polk-bros-park": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polk_Bros_Park,_Chicago,_2023_-_2.jpg",
+    "exactFile": "File:Polk Bros Park, Chicago, 2023 - 2.jpg",
+    "identityVisualCheck": "Wide fountain plaza with water jets, trees and Lake Point Tower identifies Polk Bros Park.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "localAsset": "/assets/photos/polk-bros-park.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "north-avenue-beach-house": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Ave_Beachhouse_070530.jpg",
+    "exactFile": "File:North Ave Beachhouse 070530.jpg",
+    "identityVisualCheck": "Full ship-shaped beach house with white hull and red smokestacks is visible at night.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "User:JeremyA",
+    "localAsset": "/assets/photos/north-avenue-beach-house.webp",
+    "dimensions": [
+      960,
+      522
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "grant-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_Monument,_Lincoln_Park,_Lake_Shore_Drive,_Lincoln_Park,_Chicago,_IL_(54516501247).jpg",
+    "exactFile": "File:Ulysses S. Grant Monument, Lincoln Park, Lake Shore Drive, Lincoln Park, Chicago, IL (54516501247).jpg",
+    "identityVisualCheck": "The Chicago equestrian Grant stands on the distinctive arched stone base. A different file depicting Washington DC was rejected.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "localAsset": "/assets/photos/grant-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "elks-national-memorial": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elks_National_Veterans_Memorial_and_Headquarters.jpg",
+    "exactFile": "File:Elks National Veterans Memorial and Headquarters.jpg",
+    "identityVisualCheck": "Full circular neoclassical building, columned entrance and dome identify the Elks memorial.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Marilyn Engwall",
+    "localAsset": "/assets/photos/elks-national-memorial.webp",
+    "dimensions": [
+      960,
+      782
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "international-museum-surgical-science": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:International_Museum_of_Surgical_Science.jpg",
+    "exactFile": "File:International Museum of Surgical Science.jpg",
+    "identityVisualCheck": "Signed museum entry and stone mansion facade identify the International Museum of Surgical Science.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ciphers",
+    "localAsset": "/assets/photos/international-museum-surgical-science.webp",
+    "dimensions": [
+      540,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "museum-contemporary-art": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MCA_Chicago_060930.jpg",
+    "exactFile": "File:MCA Chicago 060930.jpg",
+    "identityVisualCheck": "Full museum facade and street corner identify MCA Chicago; this historical exterior may show an earlier temporary exhibition.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "User:JeremyA",
+    "localAsset": "/assets/photos/museum-contemporary-art.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "chicago-childrens-museum": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Children%27s_Museum_exterior_in_May_2016.jpg",
+    "exactFile": "File:Chicago Children's Museum exterior in May 2016.jpg",
+    "identityVisualCheck": "Large Chicago Children’s Museum lettering on the brick Navy Pier building identifies the museum entrance.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MusikAnimal",
+    "localAsset": "/assets/photos/chicago-childrens-museum.webp",
+    "dimensions": [
+      960,
+      640
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "centennial-wheel": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Centennial_Wheel_(52059724068).jpg",
+    "exactFile": "File:Chicago in 2022 Centennial Wheel (52059724068).jpg",
+    "identityVisualCheck": "White wheel, enclosed cabins and structural supports identify the current Centennial Wheel rather than the pre-2016 wheel.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Chris Rycroft from Madison, Wisconsin, United States",
+    "localAsset": "/assets/photos/centennial-wheel.webp",
+    "dimensions": [
+      686,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "montrose-dog-beach": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070630_Montrose_Avenue_Dog_Beach.JPG",
+    "exactFile": "File:20070630 Montrose Avenue Dog Beach.JPG",
+    "identityVisualCheck": "Dogs and people in the shallow water and sand identify the designated Montrose dog beach; image dates to 2007.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "TonyTheTiger (t/c/bio/WP:CHICAGO/WP:LOTM)",
+    "localAsset": "/assets/photos/montrose-dog-beach.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "swedenborg-monument": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://www.flickr.com/photos/35034346289@N01/14709280264",
+    "exactFile": "Emanuel Swedenborg bust, lakeshore path, chicago",
+    "identityVisualCheck": "Full bronze bust with crossed arms and the named pale stone pedestal identify the Swedenborg monument.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata. Original Flickr page license links independently confirmed the Openverse license.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "srboisvert",
+    "localAsset": "/assets/photos/swedenborg-monument.webp",
+    "dimensions": [
+      720,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "montrose-beach-dunes": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://www.flickr.com/photos/93084495@N04/51625361812",
+    "exactFile": "Montrose Dunes, Montrose Beach, Chicago, IL",
+    "identityVisualCheck": "Native dune grasses and autumn trees show the habitat at Montrose; photographer labels this exact location.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata. Original Flickr page license links independently confirmed the Openverse license.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Raed Mansour",
+    "localAsset": "/assets/photos/montrose-beach-dunes.webp",
+    "dimensions": [
+      960,
+      640
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "peace-garden": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://www.flickr.com/photos/36847973@N00/3782650061",
+    "exactFile": "Peace Garden, Slightly Rusted",
+    "identityVisualCheck": "Chicago Park District Peace Garden sign is clearly readable. Photographer tags Chicago, Uptown and Montrose distinguish this lakefront garden from other similarly named gardens. This is a sign photograph, not a garden panorama.",
+    "licenseVerification": "Photo license and author verified from the exact original file/source page and its metadata. Original Flickr page license links independently confirmed the Openverse license.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "uptowner",
+    "localAsset": "/assets/photos/peace-garden.webp",
+    "dimensions": [
+      788,
+      960
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "caption": "Chicago Park District sign at the Lincoln Park Peace Garden",
+    "rejectedPriorCandidate": "Earlier sculpture-and-garden image (candidates-b index15) depicts a different Peace Garden and was rejected. The accepted replacement is the exact Chicago Park District sign, source tagged Chicago/Uptown/Montrose.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "theater-on-the-lake": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://www.flickr.com/photos/warrenlemay/54904394678",
+    "exactFile": "Theater on the Lake, Lincoln Park, Fullerton Avenue and Lake Shore Drive, Lincoln Park, Chicago, IL",
+    "identityVisualCheck": "Low brick pavilion, long sloping tiled roof, timber gable and The Lakefront restaurant sign match Theater on the Lake; the lake is visible at the right.",
+    "licenseVerification": "Original Flickr page explicitly links CC BY-SA 4.0 in the photograph license section. This overrides the initial unverified assumption of CC BY-SA 2.0.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Warren LeMay",
+    "localAsset": "/assets/photos/theater-on-the-lake.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Resized only, preserved aspect ratio; converted to WebP quality 84. No generated or composited imagery.",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "diversey-natural-area": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Diversey Natural Area",
+    "reason": "No confidently identified freely licensed site photograph found in Commons, Openverse or targeted web searches. The natural area was established after the 2019 reference aerial; that older image cannot represent it.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "bill-jarvis-sanctuary": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jarvis_Bird_Sanctuary.JPG",
+    "exactFile": "File:Jarvis Bird Sanctuary.JPG",
+    "identityVisualCheck": "Wetland water, reeds and wooded habitat match the exact Commons description of Jarvis sanctuary near Addison Avenue in Lincoln Park; inspected full downloaded image.",
+    "licenseVerification": "Exact Commons source page and full metadata/wikitext confirm Alanscottwalker’s own photograph is CC BY-SA 3.0 (also GFDL).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Alanscottwalker",
+    "localAsset": "/assets/photos/bill-jarvis-sanctuary.webp",
+    "dimensions": [
+      960,
+      720
+    ],
+    "processing": "Proportional resize and WebP encoding only. No crop, compositing or generated content.",
+    "sourceSha256": "ea2d453555558fbc4a338858aa3e3f71dcfd8f17132c359f5fdb522b50f4362a",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "grandmothers-garden": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Grandmother’s Garden",
+    "reason": "No contemporary freely licensed site photograph located. Official Park District garden photographs are identifiable but have no explicit reuse license; generic conservatory/formal-garden images depict a different garden.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "chicago-fire-relic": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Chicago Fire Relic",
+    "reason": "No verified reusable photograph of the actual melted fire relic found under Chicago Fire Relic or Fire Blob aliases. Historical fire scenes and nearby museum exteriors do not depict this object.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "eugene-field-memorial": {
+    "status": "verified",
+    "reviewedOn": "2026-11-18",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_McCartan,_Eugene_Field_Memorial,_Lincoln_Park,_Illinois.jpg",
+    "exactFile": "File:Edward McCartan, Eugene Field Memorial, Lincoln Park, Illinois.jpg",
+    "identityVisualCheck": "Winged Dream Lady leans over the resting children above the carved stone base, matching the Eugene Field Memorial. Inspected full 752 × 1200 source photograph.",
+    "licenseVerification": "Commons machine metadata describes the sculpture as public domain; the photo is Mountshang’s own image, with completed GFDL-to-CC BY-SA 3.0 license migration. The photo-specific credit and license are used.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Mountshang",
+    "localAsset": "/assets/photos/eugene-field-memorial.webp",
+    "dimensions": [
+      602,
+      960
+    ],
+    "processing": "Proportional resize and WebP encoding only. No crop, compositing or generated content.",
+    "sourceSha256": "5c0057ad5c2483fbab18f66f0c7e7c0d71f89bbdeb558d89d5a10c849377d67c",
+    "finalReview": "Accepted source and local asset rechecked on 2026-11-18; all seven north candidate contact sheets and selected replacement files visually inspected. Only explicitly accepted candidates retained."
+  },
+  "osterman-beach-dunes": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Osterman Beach Dunes",
+    "reason": "Beach photographs located, but none confidently show the specific dune restoration area with verified reuse permission. A generic beach view would conceal that distinction.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-osterman-beach-dunes-natural-area",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "come-to-light": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Come to Light",
+    "reason": "No correctly identified photograph with a verified reuse license found for the mosaic on the old Osterman comfort station; newer beach-house photographs depict a different building.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/come-light-artwork",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "foster-beach-dunes": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Foster Beach Dunes",
+    "reason": "No confidently identified reusable photograph of the Foster dune habitat found. Search results include unrelated dunes outside Chicago.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-foster-beach-dunes",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "chevron": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Chevron",
+    "reason": "No correctly identified freely reusable photograph found for John Henry’s blue steel Chevron. Search results for chevron largely depict unrelated Chicago architecture.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/chevron-artwork",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "curve-xxii": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Curve XXII · I Will",
+    "reason": "Flickr photographs of Ellsworth Kelly’s Curve XXII were found, but the photograph license alone does not establish permission for the underlying modern sculpture. No fully reusable candidate verified.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/curve-xxii-artwork",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "city-hall-relic": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "City Hall Relic",
+    "reason": "No reusable photograph of this specific limestone finial found. Official photographs identify it, but have no explicit reuse license; fire relic and other City Hall remnants are different objects.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/city-hall-relic",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "jane-addams-memorial-natural-area": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Jane Addams Memorial Natural Area",
+    "reason": "No freely licensed image confidently depicts the specific native prairie. A candidate labeled Jane Addams Park visibly shows the separate Milton Lee Olive Park entrance and was rejected.",
+    "identitySource": "https://www.chicagoparkdistrict.com/parks-facilities/jane-addams-memorial-natural-area",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  },
+  "flyover-chicago": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedOn": "2026-11-18",
+    "name": "Flyover Chicago",
+    "reason": "No freely licensed image of the indoor Flyover Chicago attraction found. Search results show the unrelated Navy Pier Flyover pedestrian bridge; those were rejected.",
+    "identitySource": "https://navypier.org/pier-locations/flyover/",
+    "searchedSources": [
+      "Wikimedia Commons exact-title and category search",
+      "Openverse licensed-image search",
+      "Targeted web search and primary attraction page"
+    ]
+  }
+}

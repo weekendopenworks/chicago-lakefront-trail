@@ -1,0 +1,35 @@
+# Chicago Lakefront Trail
+
+> An independent illustrated map and guide to Chicago’s Lakefront Trail, beaches, parks, harbors and landmarks.
+
+Canonical website: https://chicagolakefronttrail.com/
+The atlas covers 185 discoveries, with 14 extended destination stories. The official bicycle trail is 18 miles; the pedestrian trail is 18.5 miles.
+The illustrated map is not turn-by-turn navigation or a live conditions service. Some attractions are inland and require a detour. The site is not affiliated with the Chicago Park District.
+
+## Explore
+- [Interactive trail map](https://chicagolakefronttrail.com/): Share a selected place using /?place=PLACE_ID or a map latitude using /?at=LATITUDE.
+- [All beaches and attractions](https://chicagolakefronttrail.com/places/): Descriptions, practical information, sources and photo credits for every discovery, available as ordinary HTML.
+- [About and sources](https://chicagolakefronttrail.com/credits/): Geography, methods, image licenses and attribution.
+- [Privacy policy](https://chicagolakefronttrail.com/privacy/): What data the site processes and how to contact us.
+
+## Destination guides
+- [Kathy Osterman Beach](https://chicagolakefronttrail.com/places/osterman-beach/): A generous crescent of pale sand, neighborhood picnics, and a horizon that seems to go on forever.
+- [Montrose Beach](https://chicagolakefronttrail.com/places/montrose-beach/): An expansive beach where volleyball nets and lake breezes give way to protected dunes and bird habitat.
+- [Montrose Point Bird Sanctuary](https://chicagolakefronttrail.com/places/montrose-point/): Step into the Magic Hedge. The skyline recedes, and the smallest movement in the leaves becomes the main event.
+- [Belmont Harbor](https://chicagolakefronttrail.com/places/belmont-harbor/): Follow the long curve of the harbor past sailboats, lawns, and the towers of Lakeview.
+- [North Avenue Beach](https://chicagolakefronttrail.com/places/north-avenue-beach/): The Chicago postcard comes into focus: sand, volleyball courts, a ship-shaped beach house, and towers beyond.
+- [Oak Street Beach](https://chicagolakefronttrail.com/places/oak-street-beach/): The Gold Coast meets the sand. Few places put beach towels and skyscrapers quite this close together.
+- [Navy Pier](https://chicagolakefronttrail.com/places/navy-pier/): Follow the pier east and watch the city become a skyline. A Ferris wheel, gardens, and cultural spaces line the way.
+- [Buckingham Fountain](https://chicagolakefronttrail.com/places/buckingham-fountain/): Rose-colored stone and sculpted water give Grant Park its grand, lake-facing centerpiece.
+- [Adler Planetarium](https://chicagolakefronttrail.com/places/adler-planetarium/): At the end of the peninsula, a copper dome meets the sky and the whole city gathers across the water.
+- [Field Museum](https://chicagolakefronttrail.com/places/field-museum/): A monumental limestone museum guards stories of the natural world, just inland from the water.
+- [Promontory Point](https://chicagolakefronttrail.com/places/promontory-point/): A peninsula of mature trees and limestone steps, with the city a distant silhouette across the lake.
+- [Jackson Park & Wooded Island](https://chicagolakefronttrail.com/places/jackson-park/): Lagoons, birdsong, and the Garden of the Phoenix reveal a quieter, inland chapter of the lakefront.
+- [63rd Street Beach](https://chicagolakefronttrail.com/places/63rd-street-beach/): A generous beach and a Classical Revival pavilion bring a graceful sense of arrival to the southern shore.
+- [South Shore Cultural Center](https://chicagolakefronttrail.com/places/south-shore-cultural-center/): A former country club, now a cultural landmark, set among lawns and a long view of the lake.
+
+## Official information
+- [Chicago Park District trail information](https://www.chicagoparkdistrict.com/lakefront-trail): Official maps and trail updates. Check venue sources for current hours, tickets and access.
+
+## Site index
+- [Sitemap](https://chicagolakefronttrail.com/sitemap.xml): Canonical, indexable pages.

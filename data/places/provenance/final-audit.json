@@ -1,0 +1,41 @@
+{
+  "reviewedAt": "2026-11-18",
+  "discoveries": 185,
+  "existingDiscoveriesAudited": 169,
+  "newDiscoveries": 16,
+  "photos": 151,
+  "newPhotos": 7,
+  "photoGaps": 34,
+  "existingCoordinateCorrections": 0,
+  "findingsFixed": [
+    "Overlapping transparent hit areas and expanded labels could open adjacent discoveries; pointer selection now follows the nearest actual dot while preserving exact coordinates.",
+    "Photo headers cropped identifying details; cards, list thumbnails and stories preserve full reviewed framing.",
+    "16 source-verified discoveries were absent from the inventory."
+  ],
+  "verification": {
+    "static": "17 pages and 849 local links/assets pass",
+    "geography": "All 185 point coordinates independently validated; all 253 trail ways match source geometry and both route networks connect.",
+    "hotspots": "All 185 discoveries pass hover/click, visible-pin, card-clearance and focus-return checks at 1440x1000, 390x844 and 320x740.",
+    "browser": "Search, filters, zoom, card photos, section jumps, shareable links, page navigation and reduced motion pass.",
+    "nativeTouch": "Four crowded hotspots select correctly; two-axis drag passes without an accidental card.",
+    "imageIntegrity": "All 151 files exist and decode; source identity and attribution reviewed.",
+    "sourceLinks": "174 unique official links checked; no 404/410 responses. 113 returned 200; 56 anti-bot 202 and 5 forbidden 403 responses remain unconfirmed by automated fetch."
+  },
+  "evidence": [
+    "discoveries-audit-round3.json",
+    "location-audit-round3.json",
+    "location-audit-round3-additions.json",
+    "photo-audit-round3.json",
+    "photo-gaps.json",
+    "source-checks-round3.json",
+    "hotspot-interaction-audit.json",
+    "browser-verification.json",
+    "touch-verification.json"
+  ],
+  "limits": [
+    "34 discoveries have accurate location headers because no confidently identified reusable photo was acquired.",
+    "Geographic checks validate sourced feature placement, not an on-site survey or current trail conditions.",
+    "Inventory covers the defined lakefront corridor and selected nearby destinations; deferred candidates and reasons are retained in the discovery audit."
+  ],
+  "repository": "Site history retained on main at the workspace root; one final commit, no nested repository or gitlink."
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chicagolakefronttrail.com/sitemap.xml

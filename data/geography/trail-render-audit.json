@@ -1,0 +1,145 @@
+{
+  "reviewedAt": "2026-11-18",
+  "sourceUrls": [
+    "https://www.chicagoparkdistrict.com/lakefront-trail",
+    "https://www.epa.gov/lindsay-light/navy-pier-flyover",
+    "https://www.openstreetmap.org/relation/8676789",
+    "https://www.openstreetmap.org/relation/17527976"
+  ],
+  "routes": {
+    "bike": {
+      "relationId": "8676789",
+      "memberWays": 137,
+      "nodeCount": 2174,
+      "connectedComponents": 1,
+      "endpointCount": 6,
+      "northNode": "12109166557",
+      "southNode": "371319102",
+      "north": [
+        -87.6550183,
+        41.9873702
+      ],
+      "south": [
+        -87.5626689,
+        41.7662868
+      ],
+      "networkMeters": 30907.5,
+      "spineMeters": 29243.9
+    },
+    "walk": {
+      "relationId": "17527976",
+      "memberWays": 154,
+      "nodeCount": 2247,
+      "connectedComponents": 1,
+      "endpointCount": 7,
+      "northNode": "2642873507",
+      "southNode": "9353890007",
+      "north": [
+        -87.6542437,
+        41.9874603
+      ],
+      "south": [
+        -87.5627628,
+        41.7663735
+      ],
+      "networkMeters": 31395.5,
+      "spineMeters": 29355.7
+    }
+  },
+  "overview": {
+    "width": 80,
+    "height": 240,
+    "positionSamples": 1994,
+    "geographicAspect": "Longitude scaled by cosine of mean latitude; north is up.",
+    "positionMethod": "Intersections of the continuous source-edge bicycle spine with each source-vertex latitude. No arc-length proxy.",
+    "inventedLinks": 0
+  },
+  "missingFromFormerNameFilter": [
+    {
+      "id": "32971521",
+      "name": "Lakefront Trail",
+      "modes": [
+        "bike",
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/32971521"
+    },
+    {
+      "id": "32971809",
+      "name": "35th Street Access Path",
+      "modes": [
+        "bike"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/32971809"
+    },
+    {
+      "id": "258988145",
+      "name": "Lakefront Trail",
+      "modes": [
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/258988145"
+    },
+    {
+      "id": "267163766",
+      "name": "Navy Pier Flyover",
+      "modes": [
+        "bike",
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/267163766"
+    },
+    {
+      "id": "753762261",
+      "name": "Lakefront Trail",
+      "modes": [
+        "bike",
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/753762261"
+    },
+    {
+      "id": "756294667",
+      "name": "Lakefront Trail",
+      "modes": [
+        "bike",
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/756294667"
+    },
+    {
+      "id": "756335277",
+      "name": "Navy Pier Flyover",
+      "modes": [
+        "bike",
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/756335277"
+    },
+    {
+      "id": "947757283",
+      "name": "Lakefront Trail",
+      "modes": [
+        "bike"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/947757283"
+    },
+    {
+      "id": "947757287",
+      "name": "35th Street Access Path",
+      "modes": [
+        "bike"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/947757287"
+    },
+    {
+      "id": "1077018947",
+      "name": "Lakefront Trail",
+      "modes": [
+        "walk"
+      ],
+      "sourceUrl": "https://www.openstreetmap.org/way/1077018947"
+    }
+  ],
+  "distanceCaution": "Network lengths include branches. Computed source-edge spine lengths are geometry checks, not official surveyed trail distances. Official visitor distances remain 18 miles bicycle and 18.5 miles pedestrian."
+}

@@ -1,0 +1,840 @@
+{
+  "reviewedAt": "2026-11-18",
+  "baselineCount": 120,
+  "additionCount": 49,
+  "resultingDiscoveryCount": 169,
+  "scope": "Ardmore Avenue to 71st Street, the Lakefront Trail and adjoining parks, with selected nearby cultural destinations. This is a curated visitor atlas, not an inventory of every city object.",
+  "method": [
+    "Compared existing discoveries with primary Park District beach, natural-area, public-art and park facility inventories, Chicago Harbors destinations, Navy Pier venues and institution visitor pages.",
+    "Matched each addition to its named OSM node, way or relation in the cached geographic extract. Polygon coordinates are area-weighted centroids checked inside their source geometry, or explicitly documented interior reference points; open-line points use a length-weighted midpoint.",
+    "Rejected generic Park District administrative addresses as coordinates. Current operator visitor notices override older schedules and historical facility maps.",
+    "Kept major independent destinations and identifiable artworks; represented ensembles and ordinary amenities through their parent place. No claim of on-site field verification."
+  ],
+  "reviewedCoverage": [
+    {
+      "group": "Beaches",
+      "result": "All 12 official swimming beaches along the trail are represented after adding 12th Street and South Shore. Montrose Dog Beach is a distinct additional stop. Existing sand, dunes and building geometry remain separate concepts.",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/facilities/beaches",
+        "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach"
+      ]
+    },
+    {
+      "group": "Harbors",
+      "result": "All 10 Chicago Harbors destinations are represented after adding 59th Street, Jackson Park Inner and Jackson Park Outer harbors. The Jackson Park harbor station building remains distinct from the harbor basins.",
+      "sourceUrls": [
+        "https://www.chicagoharbors.info/harbors/",
+        "https://www.chicagoharbors.info/harbors/59th-street/",
+        "https://www.chicagoharbors.info/harbors/jackson-park-inner/",
+        "https://www.chicagoharbors.info/harbors/jackson-park-outer/"
+      ]
+    },
+    {
+      "group": "Natural areas and gardens",
+      "result": "Added verified dunes and separate named habitat sites at Jane Addams, McCormick, Burnham, Cornell Oasis and Bobolink Meadow. Habitat reference points do not imply entry into protected plantings.",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/facilities/natural-areas",
+        "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+        "https://assets.chicagoparkdistrict.com/s3fs-public/documents/stewardship/map-NAStewardship-11x17-20240618.pdf"
+      ]
+    },
+    {
+      "group": "Public art and memorials",
+      "result": "Screened the citywide Park District artwork directory against the trail corridor and named OSM features. Added independently identifiable works and memorials; retained paired statues and venue collections as ensembles. Temporary artwork labels and conditional stadium access are documented.",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/facilities/artwork-monuments",
+        "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/"
+      ]
+    },
+    {
+      "group": "Museums and visitor venues",
+      "result": "Added Art Institute, MCA, International Museum of Surgical Science, Chicago Children’s Museum, Elks Memorial, Obama Presidential Center, Centennial Wheel, Flyover Chicago, Petrillo Music Shell, Paul Robeson Theater and Doane Observatory. Doane is explicitly marked temporarily closed.",
+      "sourceUrls": [
+        "https://navypier.org/eat-drink-and-play/rides-and-games/",
+        "https://www.obama.org/visit/",
+        "https://www.adlerplanetarium.org/experiences/exhibits-spaces/doane-observatory/"
+      ]
+    },
+    {
+      "group": "Bridges and architecture",
+      "result": "Added BP Pedestrian Bridge, Nichols Bridgeway, 35th Street Bridge, 41st Street Bridge and the historic 63rd Street Beach House. Routine crossings remain visible infrastructure rather than additional discovery pins.",
+      "sourceUrls": [
+        "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+        "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach-house"
+      ]
+    },
+    {
+      "group": "Park facility maps",
+      "result": "Reviewed Lincoln, Grant, Burnham, Jackson and South Shore contexts. Historical maps establish identity and relationships but do not override current imagery or operator access notices; the older Jackson map predates the Obama center.",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/media/35326/download?inline=",
+        "https://www.chicagoparkdistrict.com/facilities/natural-areas"
+      ]
+    }
+  ],
+  "omissions": [
+    {
+      "id": "osterman-beach-dunes",
+      "name": "Osterman Beach Dunes",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-osterman-beach-dunes-natural-area",
+        "https://www.openstreetmap.org/relation/20593135"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/20593135",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "come-to-light",
+      "name": "Come to Light",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/come-light-artwork",
+        "https://www.openstreetmap.org/node/13283985948"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/13283985948",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "foster-beach-dunes",
+      "name": "Foster Beach Dunes",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-foster-beach-dunes",
+        "https://www.openstreetmap.org/relation/19797757"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/19797757",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "montrose-dog-beach",
+      "name": "Montrose Dog Beach",
+      "category": "beach",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach-dog-friendly-area",
+        "https://www.chicagoparkdistrict.com/facilities/dog-friendly-areas",
+        "https://www.openstreetmap.org/way/337856245"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/337856245",
+      "pointKind": "beach interior reference point"
+    },
+    {
+      "id": "chevron",
+      "name": "Chevron",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/chevron-artwork",
+        "https://www.openstreetmap.org/node/4547377897"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/4547377897",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "elks-national-memorial",
+      "name": "Elks National Memorial",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.elks.org/memorial/",
+        "https://www.openstreetmap.org/relation/2826708"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/2826708",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "curve-xxii",
+      "name": "Curve XXII · I Will",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/curve-xxii-artwork",
+        "https://www.openstreetmap.org/node/3554717500"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/3554717500",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "city-hall-relic",
+      "name": "City Hall Relic",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/city-hall-relic",
+        "https://www.openstreetmap.org/way/210686589"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/210686589",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "international-museum-surgical-science",
+      "name": "International Museum of Surgical Science",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://imss.org/plan-your-visit/",
+        "https://www.openstreetmap.org/way/210686215"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/210686215",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "museum-contemporary-art",
+      "name": "Museum of Contemporary Art Chicago",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://mcachicago.org/visit/",
+        "https://www.openstreetmap.org/way/24800223"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/24800223",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "jane-addams-memorial-natural-area",
+      "name": "Jane Addams Memorial Natural Area",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/jane-addams-memorial-natural-area",
+        "https://www.openstreetmap.org/relation/17290197"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/17290197",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "flyover-chicago",
+      "name": "Flyover Chicago",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://navypier.org/pier-locations/flyover/",
+        "https://www.openstreetmap.org/node/12629162901"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/12629162901",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "centennial-wheel",
+      "name": "Centennial Wheel",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://navypier.org/pier-locations/centennial-wheel/",
+        "https://www.openstreetmap.org/way/686996484"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/686996484",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "chicago-childrens-museum",
+      "name": "Chicago Children’s Museum",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://navypier.org/pier-locations/chicago-childrens-museum/",
+        "https://navypier.org/wp-content/uploads/2023/10/NavyPier_Level1_West-10.4.2023.pdf",
+        "https://www.openstreetmap.org/node/7874287865"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/7874287865",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "captain-on-the-helm",
+      "name": "Captain on the Helm",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+        "https://www.openstreetmap.org/way/927021750"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/927021750",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "millennium-monument",
+      "name": "Millennium Monument at Wrigley Square",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.millenniumparkfoundation.org/art-architecture/",
+        "https://www.openstreetmap.org/way/231253695"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/231253695",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "cancer-survivors-garden",
+      "name": "Cancer Survivors’ Garden",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.maggiedaleypark.com/things-to-do-see/cancer-survivors-garden/",
+        "https://www.openstreetmap.org/relation/10601819"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/10601819",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "bp-pedestrian-bridge",
+      "name": "BP Pedestrian Bridge",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.maggiedaleypark.com/about/design/",
+        "https://cdm16818.contentdm.oclc.org/digital/collection/mpu/id/5802/",
+        "https://www.openstreetmap.org/way/524270341"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/524270341",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "nichols-bridgeway",
+      "name": "Nichols Bridgeway",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://archive.artic.edu/modernwing/public/",
+        "https://www.openstreetmap.org/way/90707301"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/90707301",
+      "pointKind": "bridge centerline reference point"
+    },
+    {
+      "id": "reading-cones",
+      "name": "Reading Cones",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/reading-cones-artwork",
+        "https://www.openstreetmap.org/node/3551074730"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/3551074730",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "art-institute",
+      "name": "Art Institute of Chicago",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.artic.edu/",
+        "https://sales.artic.edu/admissiondate",
+        "https://www.artic.edu/files/7cf5b966-dbf2-4b7c-b444-836806306f64/VisitorGuide_Fall2025_Winter2026.pdf",
+        "https://www.openstreetmap.org/relation/1870546"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/1870546",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "petrillo-music-shell",
+      "name": "Petrillo Music Shell",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/grant-ulysses-park",
+        "https://assets.chicagoparkdistrict.com/s3fs-public/documents/Planning%20%26%20Construction/2022/Grant%20Park%20Framework%20Plan/grant-park-framework-plan-web-version.pdf",
+        "https://www.openstreetmap.org/way/210671695"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/210671695",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "paris-metro-entryway",
+      "name": "Paris Métro Entryway",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/paris-metro-entryway-artwork",
+        "https://www.openstreetmap.org/way/765779257"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/765779257",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "magdalene",
+      "name": "Magdalene",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/magdalene-artwork",
+        "https://www.openstreetmap.org/node/7223222152"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/7223222152",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "magma",
+      "name": "Magma",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/magma-artwork",
+        "https://www.openstreetmap.org/node/7126058111"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/7126058111",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "chicago-horizon",
+      "name": "Chicago Horizon",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/chicago-horizon-artwork",
+        "https://www.openstreetmap.org/relation/17528422"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/17528422",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "big-beaver-totem",
+      "name": "Big Beaver Totem Pole",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/big-beaver-totem-pole",
+        "https://www.openstreetmap.org/node/992004623"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/992004623",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "doane-observatory",
+      "name": "Doane Observatory",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.adlerplanetarium.org/experiences/exhibits-spaces/doane-observatory/",
+        "https://www.openstreetmap.org/way/91526195"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/91526195",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "flame-of-hope",
+      "name": "Eternal Flame of Hope",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.specialolympics.org/our-work/50th/",
+        "https://www.openstreetmap.org/node/9550754026"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/9550754026",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "12th-street-beach",
+      "name": "12th Street Beach",
+      "category": "beach",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/12th-street-beach",
+        "https://www.openstreetmap.org/way/178931793"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/178931793",
+      "pointKind": "beach interior reference point"
+    },
+    {
+      "id": "balbo-monument",
+      "name": "Balbo Monument",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/balbo-monument",
+        "https://www.openstreetmap.org/way/766721137"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/766721137",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "american-doughboy",
+      "name": "American Doughboy",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/american-doughboy-monument",
+        "https://www.openstreetmap.org/node/4426074800"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/4426074800",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "firefighter-paramedic-memorial",
+      "name": "Chicago Firefighter & Paramedic Memorial",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/chicago-firefighter-and-paramedic-memorial",
+        "https://www.openstreetmap.org/node/3537010996"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/3537010996",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "mccormick-bird-sanctuary",
+      "name": "McCormick Bird Sanctuary",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-mccormick-bird-sanctuary",
+        "https://www.openstreetmap.org/way/347369045"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/347369045",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "caracol",
+      "name": "Caracol",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/caracol-artwork",
+        "https://www.openstreetmap.org/node/7193772705"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/7193772705",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "la-ronda-parakata",
+      "name": "La Ronda Parakata",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/la-ronda-parakata-artwork",
+        "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+        "https://www.openstreetmap.org/node/13787719422"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/node/13787719422",
+      "pointKind": "mapped feature point"
+    },
+    {
+      "id": "35th-street-bridge",
+      "name": "35th Street Pedestrian Bridge",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/december/41stStreetBridgeOpening.html",
+        "https://www.openstreetmap.org/way/1165999163"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/1165999163",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "41st-street-bridge",
+      "name": "41st Street Pedestrian Bridge",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/december/41stStreetBridgeOpening.html",
+        "https://www.openstreetmap.org/way/1165992917"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/1165992917",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "burnham-nature-sanctuary",
+      "name": "Burnham Nature Sanctuary",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-nature-sanctuary",
+        "https://www.openstreetmap.org/relation/19692211"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/19692211",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "cornell-oasis",
+      "name": "Cornell Garden Oasis",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/cornell-garden-oasis",
+        "https://www.openstreetmap.org/way/349614608"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/349614608",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "59th-street-harbor",
+      "name": "59th Street Harbor",
+      "category": "harbor",
+      "sourceUrls": [
+        "https://www.chicagoharbors.info/harbors/59th-street/",
+        "https://www.openstreetmap.org/way/24826325"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/24826325",
+      "pointKind": "harbor basin reference point"
+    },
+    {
+      "id": "obama-presidential-center",
+      "name": "Obama Presidential Center",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.obama.org/visit/",
+        "https://www.obama.org/visit/grand-opening/faq/",
+        "https://www.openstreetmap.org/way/1434240394"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/1434240394",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "bobolink-meadow",
+      "name": "Bobolink Meadow",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+        "https://www.chicagoparkdistrict.com/media/35326/download?inline=",
+        "https://www.openstreetmap.org/relation/18995874"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/18995874",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "63rd-street-beach-dunes",
+      "name": "63rd Street Beach Dunes",
+      "category": "nature",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-63rd-st-beach-dunes",
+        "https://www.openstreetmap.org/relation/20660684"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/20660684",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "63rd-street-beach-house",
+      "name": "63rd Street Beach House",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach",
+        "https://www.openstreetmap.org/way/125954267"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/125954267",
+      "pointKind": "mapped feature interior reference point"
+    },
+    {
+      "id": "jackson-park-inner-harbor",
+      "name": "Jackson Park Inner Harbor",
+      "category": "harbor",
+      "sourceUrls": [
+        "https://www.chicagoharbors.info/harbors/jackson-park-inner/",
+        "https://www.openstreetmap.org/relation/17779625"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/17779625",
+      "pointKind": "harbor basin reference point"
+    },
+    {
+      "id": "jackson-park-outer-harbor",
+      "name": "Jackson Park Outer Harbor",
+      "category": "harbor",
+      "sourceUrls": [
+        "https://www.chicagoharbors.info/harbors/jackson-park-outer/",
+        "https://www.openstreetmap.org/relation/17779624"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/relation/17779624",
+      "pointKind": "harbor basin reference point"
+    },
+    {
+      "id": "south-shore-beach",
+      "name": "South Shore Beach",
+      "category": "beach",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-beach",
+        "https://www.openstreetmap.org/way/179692000"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/179692000",
+      "pointKind": "beach interior reference point"
+    },
+    {
+      "id": "paul-robeson-theater",
+      "name": "Paul Robeson Theatre",
+      "category": "landmark",
+      "sourceUrls": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-paul-robeson-theatre",
+        "https://www.openstreetmap.org/way/1447224115"
+      ],
+      "coordinateUrl": "https://www.openstreetmap.org/way/1447224115",
+      "pointKind": "mapped feature interior reference point"
+    }
+  ],
+  "exclusions": [
+    {
+      "names": [
+        "Burnham Wildlife Corridor"
+      ],
+      "reason": "Umbrella habitat corridor is represented through Burnham Park and separately named constituent sites including McCormick Bird Sanctuary, Caracol, La Ronda Parakata and Burnham Nature Sanctuary; one extra broad pin would obscure their locations."
+    },
+    {
+      "names": [
+        "Ordinary beach houses and concession buildings"
+      ],
+      "reason": "Retained as facilities of their beach stops and actual mapped building footprints. North Avenue Beach House already has a distinct stop; historic 63rd Street Beach House is newly separate."
+    },
+    {
+      "names": [
+        "Paul Robeson outdoor stage"
+      ],
+      "reason": "Represented with Paul Robeson Theater rather than creating two nearly coincident destination pins."
+    },
+    {
+      "names": [
+        "Second Daphne",
+        "The Spearman companion",
+        "Second Art Institute lion",
+        "Second Federal Building column"
+      ],
+      "reason": "Existing ensemble stops already represent both components. Coordinates anchor an identified member or documented ensemble reference point."
+    },
+    {
+      "names": [
+        "12th Street Beach Dunes",
+        "Columbia Basin",
+        "North Pond Sanctuary",
+        "South Pond Natural Area",
+        "Conservatory Garden",
+        "Hamilton garden",
+        "Lincoln monument gardens"
+      ],
+      "reason": "Covered through the corresponding beach, pond, garden, museum or monument destination; no independent visitor stop is needed."
+    },
+    {
+      "names": [
+        "American Bison",
+        "Memorial to Extinct Birds",
+        "Adelor",
+        "Steelroots",
+        "Zoo carousel and individual animal sculptures"
+      ],
+      "reason": "Venue collections remain within Lincoln Park Zoo or Nature Museum rather than adding a pin for every exhibit."
+    },
+    {
+      "names": [
+        "SUE",
+        "U-505",
+        "Individual aquarium exhibits",
+        "Individual Obama Center rooms and artworks"
+      ],
+      "reason": "Represented by their ticketed museum destination. Interior exhibit positions and current display status are outside the outdoor atlas scope."
+    },
+    {
+      "names": [
+        "Flying Dragon",
+        "Large Interior Form",
+        "Cubi VII",
+        "Pritzker Garden"
+      ],
+      "reason": "Represented by Art Institute. A future museum-specific layer would require current institutional display and garden-access verification; a historical artwork catalog alone is insufficient."
+    },
+    {
+      "names": [
+        "Crack the Whip",
+        "USS Chicago anchor",
+        "USS Illinois bell",
+        "Wave Wall",
+        "Navy Pier carousel and smaller rides"
+      ],
+      "reason": "Represented by Navy Pier; independent major venues, Centennial Wheel and Captain on the Helm receive distinct stops."
+    },
+    {
+      "names": [
+        "Navy Pier Flyover",
+        "43rd Street crossing",
+        "47th Street crossing",
+        "51st Street crossing",
+        "Jackson Park internal bridges"
+      ],
+      "reason": "Mapped transport infrastructure; no additional destination pin. Flyover Chicago is a separate indoor attraction and not the trail’s Navy Pier Flyover."
+    },
+    {
+      "names": [
+        "Marovitz Savanna"
+      ],
+      "decision": "defer",
+      "reason": "Named geometry and ecological survey exist, but primary public visitor access was not established. Avoid implying that a golf-course habitat is freely accessible.",
+      "sourceUrls": [
+        "https://plantsofconcern.org/assets/cpd-rfqa/report.lincoln-park-marovitz-savanna.pdf",
+        "https://www.openstreetmap.org/way/354906059"
+      ]
+    },
+    {
+      "names": [
+        "Conundrum",
+        "Lead with the Heart",
+        "Other temporary tree sculptures without current matched geometry"
+      ],
+      "decision": "defer",
+      "reason": "Historical temporary-art entries do not establish current display and exact position; no pin was inferred from a general park address."
+    },
+    {
+      "names": [
+        "49th Street Beach",
+        "67th Street Beach"
+      ],
+      "reason": "Mapped shoreline names are not evidence of official staffed swimming beaches; retained shoreline geometry without promising a swimming facility.",
+      "sourceUrls": [
+        "https://www.openstreetmap.org/way/185425631",
+        "https://www.openstreetmap.org/relation/11610641",
+        "https://www.chicagoparkdistrict.com/facilities/beaches"
+      ]
+    },
+    {
+      "names": [
+        "Jardine Bird Sanctuary"
+      ],
+      "reason": "Within water-treatment plant grounds; verified public visitor access was not found.",
+      "sourceUrls": [
+        "https://www.openstreetmap.org/relation/5298008"
+      ]
+    },
+    {
+      "names": [
+        "Driehaus Gallery of Stained Glass at Navy Pier",
+        "Old Michigan Avenue Pritzker Military Museum listing"
+      ],
+      "decision": "defer",
+      "reason": "Not promoted from cached OSM alone; current operator identity and access must be confirmed before adding these old mapped listings. No closure claim is made here."
+    },
+    {
+      "names": [
+        "Loyola Beach",
+        "Rainbow Beach",
+        "Steelworkers Park",
+        "Calumet Park",
+        "Other inland neighborhood destinations"
+      ],
+      "reason": "Outside the Ardmore–71st Street trail corridor and selected adjoining parks."
+    },
+    {
+      "names": [
+        "Dock offices",
+        "Parking lots",
+        "Sports pitches",
+        "Golf holes",
+        "Restaurants and concession counters",
+        "CTA and Divvy stations"
+      ],
+      "reason": "Ordinary amenities and transport data are outside this curated discovery inventory; relevant geographic footprints remain on the map."
+    }
+  ],
+  "currentAccessFindings": [
+    {
+      "id": "doane-observatory",
+      "status": "temporarily-closed",
+      "noticeDate": "2026-10-13",
+      "reviewedAt": "2026-11-18",
+      "reason": "Official facility notice: observatory closed indefinitely to repair telescope; older program schedules are superseded.",
+      "sourceUrl": "https://www.adlerplanetarium.org/experiences/exhibits-spaces/doane-observatory/"
+    },
+    {
+      "id": "american-doughboy",
+      "status": "conditional-access",
+      "reviewedAt": "2026-11-18",
+      "evidence": "Park District classifies artwork Indoor and locates it near Gate O at Soldier Field. No promise of unrestricted access.",
+      "sourceUrl": "https://www.chicagoparkdistrict.com/parks-facilities/american-doughboy-monument"
+    },
+    {
+      "id": "obama-presidential-center",
+      "status": "open",
+      "reviewedAt": "2026-11-18",
+      "evidence": "Current visitor page labels campus Open and Free, publishes active campus/museum hours and provides current admission links. Museum requires timed ticket; free campus spaces are distinct. Older opening FAQ is not sole evidence.",
+      "sourceUrl": "https://www.obama.org/visit/"
+    }
+  ],
+  "existingStopFindings": {
+    "removedIds": [],
+    "finding": "No baseline destination was established as obsolete by the reviewed primary evidence. Broad Jackson Park and Burnham Park anchors remain explicitly documented reference points, not entrances. This conclusion is a desk audit, not a field inspection."
+  },
+  "constructionReview": {
+    "id": "obama-presidential-center",
+    "finding": "Current official visitor page supplies active admission links and hours and identifies free public campus spaces. The OSM museum footprint is a completed museum building. No exported construction feature vertices occur in the center vicinity (41.781–41.790 N, 87.591–87.582 W); the current export does not need a speculative construction overlay there.",
+    "sourceUrls": [
+      "https://www.obama.org/visit/",
+      "https://www.openstreetmap.org/way/1434240394"
+    ],
+    "olderSourceCaution": "The June 2026 grand-opening FAQ retains future-tense wording; the current visitor page is the primary status evidence.",
+    "museumReferencePointWithinExportedConstruction": false,
+    "intersectingConstructionFeatureIds": [],
+    "pointContainmentCheck": "Tested museum reference point against all 65 exported construction polygon shapes, respecting holes with even-odd containment."
+  },
+  "validation": {
+    "additionIdsUnique": true,
+    "additionIdsDoNotOverlapBaseline": true,
+    "namedOsmFeaturesDoNotOverlapBaseline": true,
+    "everyAdditionHasGeometryAudit": true,
+    "referencePointsAreNotPromisedEntrances": true
+  },
+  "artifacts": {
+    "additions": "attractions-additions-round2.json",
+    "coordinateAudit": "location-audit-round2.json"
+  },
+  "limitations": [
+    "Visitor hours, temporary artwork installations and conditional access can change. Refer to the linked operator for a planned visit.",
+    "Polygon points identify the named feature, not a guaranteed entrance or accessible route.",
+    "Historical photos, filenames, categories and photographer GPS positions alone do not prove the depicted destination; photo verification is a separate visual review."
+  ]
+}

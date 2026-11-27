@@ -1,0 +1,636 @@
+{
+  "federal-building-columns": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:20151008 Maggie Daley Park cancer garden entrance.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20151008_Maggie_Daley_Park_cancer_garden_entrance.JPG",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "TonyTheTiger",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+      "https://www.openstreetmap.org/node/4036766872"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "harris-theater": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Joan W. and Irving B. Harris Theater for Music and Dance.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joan_W._and_Irving_B._Harris_Theater_for_Music_and_Dance.jpg",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Zol87",
+    "identityReview": "Exact Randolph Street entrance. Resolved broken Commons author template {{{1}}} to original Flickr photographer Zol87 at https://www.flickr.com/photos/54499054@N00/3397140097/.",
+    "identitySourceUrls": [
+      "https://www.harristheaterchicago.org/our-story",
+      "https://www.harristheaterchicago.org/resident-companies",
+      "https://www.openstreetmap.org/way/234847962"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "jay-pritzker-pavilion": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Jay Pritzker Pavilion, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 04.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jay_Pritzker_Pavilion,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_04.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diego Delso",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/126978545"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "cloud-gate": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:The Bean and McCormick Tribune Plaza.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Bean_and_McCormick_Tribune_Plaza.jpg",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "swanksalot",
+    "identityReview": "Wide contextual view retained without focusing or cropping into the artwork. Commons file is marked De minimis and Kept in its deletion review; downloaded the original same-view Flickr source because the Commons image server returned 429. Flickr later changed its license, but Commons records the CC BY-SA 2.0 review from 2008. The original source has slightly wider framing than the Commons crop.",
+    "identitySourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/137060274"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "crown-fountain": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:20080517 Crown Fountain towers from overhead.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20080517_Crown_Fountain_towers_from_overhead.jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "www.flickr.com user jjlthree",
+    "identityReview": "Overhead view shows the exact pair of towers and pool; no projected portrait artwork is visible. Rejected two other candidates dominated by individual visitors or silhouettes.",
+    "identitySourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/relation/3154126"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "lurie-garden": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Lurie Garden in sun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lurie_Garden_in_sun.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ruhrfisch",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.luriegarden.org/about/",
+      "https://www.openstreetmap.org/way/126945427"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "chicago-stock-exchange-arch": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago Stock Exchange Arch 2020-2448.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Stock_Exchange_Arch_2020-2448.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paul R. Burley",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+      "https://www.openstreetmap.org/way/283892909"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "art-institute-lions": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Art Institute of Chicago Lion (I) (7182540371).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_Institute_of_Chicago_Lion_(I)_(7182540371).jpg",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Teemu008 from Palatine, Illinois",
+    "identityReview": "Exact Art Institute lion and recognizable facade; winter wreath visible. Not the lions at Griffin MSI.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+      "https://www.openstreetmap.org/way/210671756"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "fountain-great-lakes": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Fountain Of The Great Lakes.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fountain_Of_The_Great_Lakes.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Joe Ravi",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+      "https://www.openstreetmap.org/way/210671750"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "sir-georg-solti": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago, June 2015 - 011.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_June_2015_-_011.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+      "https://www.openstreetmap.org/node/3554700407"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "seated-lincoln": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Sitting Lincoln.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitting_Lincoln.JPG",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Alanscottwalker",
+    "identityReview": "Exact seated Grant Park Lincoln, not the standing Lincoln in Lincoln Park. Photographer Alanscottwalker verified in file history; selected the photograph CC BY-SA 3.0 license rather than the underlying sculpture public-domain flag.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+      "https://www.openstreetmap.org/way/763952137"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "bowman-and-spearman": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:The Bowman and The Spearman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Bowman_and_The_Spearman.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "TRUsmith",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+      "https://www.openstreetmap.org/way/210671755"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "spirit-of-music": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Spirit of Music.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spirit_of_Music.JPG",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Alanscottwalker",
+    "identityReview": "Exact lyre-bearing memorial. Photograph CC BY-SA 3.0 selected from wikitext; the machine Public domain label applies to the older sculpture.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+      "https://www.openstreetmap.org/way/765851953"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "logan-monument": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:General Logan Statue.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_Logan_Statue.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Joe Ravi",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+      "https://www.openstreetmap.org/way/766343991"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "rosenberg-fountain": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:1893 Hebe statue the Rosenberg Fountain Grant Park Chicago.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1893_Hebe_statue_the_Rosenberg_Fountain_Grant_Park_Chicago.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Jeff Kwapil",
+    "identityReview": "Hebe statue and fountain roof are visible; this is a detail, not a full view of the base. Corrected Commons machine metadata which named the sculptor and marked only the underlying sculpture public domain; photographer Jeff Kwapil and photo CC BY-SA 4.0 verified in wikitext.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+      "https://www.openstreetmap.org/way/1457885975"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "agora": {
+    "status": "gap-artwork-rights",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Agora - Chicago (15836505616).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agora_-_Chicago_(15836505616).jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tony Webster from Portland, Oregon, United States",
+    "identityReview": "Wide actual-site view with park and city context. Commons category carries a NoFoP-US warning for the modern artwork; photographer CC BY 2.0 is verified separately.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+      "https://www.openstreetmap.org/relation/10624440"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true,
+    "reason": "Photographer CC BY 2.0 confirmed, but Commons flags the modern sculpture under NoFoP-US. Excluded from accepted photo manifest; no substitute accepted.",
+    "excludedFromManifest": true
+  },
+  "olmec-head": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Olmec Head 8.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olmec_Head_8.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Adam sk",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+      "https://www.openstreetmap.org/node/3554682901"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "man-with-fish": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago - Shedd Aquarium - Man with Fish.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_-_Shedd_Aquarium_-_Man_with_Fish.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "HaSt",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+      "https://www.openstreetmap.org/node/3554680797"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "man-enters-cosmos": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago - Adler Planetarium Sundial & Skyline (983196683).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_-_Adler_Planetarium_Sundial_%26_Skyline_(983196683).jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "David Ohmer from Cincinnati, USA",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+      "https://www.openstreetmap.org/way/766549300"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "brachiosaurus-replica": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:FMNH Brachiosaurus.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMNH_Brachiosaurus.JPG",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "AStrangerintheAlps",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+      "https://www.openstreetmap.org/node/4426074799"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "copernicus-monument": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Estatua de Nicolás Copérnico junto al Planetario Adler, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estatua_de_Nicol%C3%A1s_Cop%C3%A9rnico_junto_al_Planetario_Adler,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diego Delso",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+      "https://www.openstreetmap.org/way/766549284"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "karel-havlicek-monument": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Estatua de Karel Havlícek Borovsky junto al Planetario Adler, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estatua_de_Karel_Havl%C3%ADcek_Borovsky_junto_al_Planetario_Adler,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diego Delso",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+      "https://www.openstreetmap.org/way/766536502"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "kosciuszko-monument": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Estatua de Tadeusz Kosciuszko, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estatua_de_Tadeusz_Kosciuszko,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_02.jpg",
+    "photoLicense": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diego Delso",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+      "https://www.openstreetmap.org/way/766536496"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "tribute-to-freedom": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Tribute to Freedom and Water Well at Soldier Field in Chicago, Illinois, photographed in September 2024 (54286856680).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribute_to_Freedom_and_Water_Well_at_Soldier_Field_in_Chicago,_Illinois,_photographed_in_September_2024_(54286856680).jpg",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Nairn McWilliams",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+      "https://www.openstreetmap.org/node/4426074801"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "huntington-bank-pavilion": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Huntington Bank Pavilion at Northerly Island.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huntington_Bank_Pavilion_at_Northerly_Island.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Wayne Ward",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+      "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+      "https://www.openstreetmap.org/way/24925806"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "gold-star-families-memorial": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago, June 2015 - 212.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago,_June_2015_-_212.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Another Believer",
+    "identityReview": "Sacrifice monument within the named Chicago police memorial; not a military Gold Star Families monument in another city.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+      "https://www.openstreetmap.org/node/3536996073"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "daphne-garden": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Winter in the Daphne Garden.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_in_the_Daphne_Garden.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Delphine Coursault",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+      "https://www.openstreetmap.org/way/766571359"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "1919-race-riot-memorial": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Commemorative plaque for the 1919 race riots in Chicago.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commemorative_plaque_for_the_1919_race_riots_in_Chicago.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "IntegrityPen",
+    "identityReview": "Plaque text and stone base visually verified. Commons description mistakenly says 2019 in one sentence; displayed caption correctly says 1919.",
+    "identitySourceUrls": [
+      "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+      "https://www.openstreetmap.org/node/5852249345"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "garden-of-the-phoenix": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Jackson Park Osaka Garden Chicago.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Park_Osaka_Garden_Chicago.jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "zooey from Chicago, Illinois USA",
+    "identityReview": "Japanese stone lantern, garden pond and arched bridge match Osaka Garden within Wooded Island; no generic Jackson Park image substituted.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+      "https://www.openstreetmap.org/way/125657819"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "jackson-harbor-station": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Jackson Harbor Station - Chicago, IL - June 2023.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Harbor_Station_-_Chicago,_IL_-_June_2023.jpg",
+    "photoLicense": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "author": "AlphaBeta135",
+    "identityReview": "Building sign and surviving historic structure visually confirmed; not the demolished 1892 station.",
+    "identitySourceUrls": [
+      "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+      "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-outer-harbor",
+      "https://www.openstreetmap.org/way/24925442"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "spiral-galaxy": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Chicago - Adler Planetarium - Spiral Galaxy - John D. Mooney 1994.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_-_Adler_Planetarium_-_Spiral_Galaxy_-_John_D._Mooney_1994.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "HaSt",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+      "https://www.openstreetmap.org/node/3536979402"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "americas-courtyard": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:America's Courtyard - Adler Planetarium Plaza - panoramio.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:America%27s_Courtyard_-_Adler_Planetarium_Plaza_-_panoramio.jpg",
+    "photoLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bohao Zhao",
+    "identityReview": "Visually inspected against the named subject and its institution or Park District description; actual matching Chicago landmark.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+      "https://www.openstreetmap.org/node/3536978767"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "south-shore-nature-sanctuary": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Nature Sanctuary at South Shore Cultural Center (24962188136).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nature_Sanctuary_at_South_Shore_Cultural_Center_(24962188136).jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Daniel X. O'Neil from USA",
+    "identityReview": "Actual sanctuary direction sign at the Cultural Center; not a photo of sanctuary habitat. Rejected unrelated Washington sanctuary results and NC-ND nature photographs.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+      "https://www.openstreetmap.org/way/274189562"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "arie-crown-theater": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:McCormick Place Lakeside Center East Building, Lake Shore Drive, Near South Side, Chicago, IL (54216798915).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:McCormick_Place_Lakeside_Center_East_Building,_Lake_Shore_Drive,_Near_South_Side,_Chicago,_IL_(54216798915).jpg",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "identityReview": "Actual Lakeside Center exterior, the building housing the theater. Does not claim to show its interior auditorium.",
+    "identitySourceUrls": [
+      "https://www.ariecrown.com/",
+      "https://www.ariecrown.com/about/history/",
+      "https://www.openstreetmap.org/way/1286946899"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "statue-of-the-republic": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Replica of the Statue of the Republic2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Replica_of_the_Statue_of_the_Republic2.jpg",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Marlin Keesler",
+    "identityReview": "Existing gilded 1918 scale replica confirmed; not a historic photo of the 1893 original.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+      "https://www.openstreetmap.org/way/575754755"
+    ],
+    "transformations": "Resized to fit 960 × 960, EXIF orientation applied and converted to WebP; no subject edits or generated elements.",
+    "visualReview": true
+  },
+  "great-northern-migration": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "Monument To The Great Northern Migration, Martin Luther King, Jr. Drive and Eastgate Place, Douglas, Chicago, IL",
+    "sourceUrl": "https://www.flickr.com/photos/59081381@N03/54505927812",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "author": "Warren LeMay",
+    "identityReview": "Actual named sculpture visually confirmed against the institutional description. Exact photographer page includes a rel=license link, verified directly.",
+    "identitySourceUrls": [
+      "https://bmrc.lib.uchicago.edu/portal/curated/south-side-chicago-neighborhoods/",
+      "https://www.openstreetmap.org/way/1190230713"
+    ],
+    "transformations": "Resized and converted to WebP without subject edits.",
+    "visualReview": true
+  },
+  "sky-landing": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "Sky Landing by Yoko Ono, North Side of Wooded Island, Jackson Park, Chicago",
+    "sourceUrl": "https://www.flickr.com/photos/raedmansour/51433836995/",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "author": "Raed Mansour",
+    "identityReview": "Actual named sculpture visually confirmed against the institutional description. Exact photographer page includes a rel=license link, verified directly.",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+      "https://www.openstreetmap.org/way/1378431774"
+    ],
+    "transformations": "Resized and converted to WebP without subject edits.",
+    "visualReview": true
+  },
+  "la-sirena": {
+    "status": "no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+    "searchAttempts": [
+      "Exact-name Commons web search",
+      "Commons API phrase and intitle queries",
+      "Openverse exact and broad queries",
+      "Flickr original page checks where candidates existed"
+    ],
+    "rejected": "Flickr Mermaid 4781253540 is a person underwater, not the sculpture; Commons results were unrelated art or boats. CPD has a correct image but no reuse license found."
+  },
+  "david-wallach-fountain": {
+    "status": "no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+    "searchAttempts": [
+      "Exact-name Commons web search",
+      "Commons API phrase and intitle queries",
+      "Openverse exact and broad queries",
+      "Flickr original page checks where candidates existed"
+    ],
+    "rejected": "Flickr Wallach Walk Drinking Fountain 15138339862 is Central Park, New York. Correct Chicago results were NC-ND or institutional pages without an explicit reuse license."
+  },
+  "south-shore-formal-garden": {
+    "status": "no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "identityReview": "No correct, reusable photograph was verified. No stand-in installed.",
+    "searchAttempts": [
+      "Exact-name Commons web search",
+      "Commons API phrase and intitle queries",
+      "Openverse exact and broad queries",
+      "Flickr original page checks where candidates existed"
+    ],
+    "rejected": "Commons and Openverse returned building exteriors, unrelated gardens, or noncommercial photos; none verified the actual formal garden with an unrestricted reuse license."
+  }
+}

@@ -1,0 +1,1588 @@
+{
+  "reviewedAt": "2026-11-18",
+  "note": "HTTP availability check, not a factual content review. Anti-bot responses and timeouts do not establish a broken public link.",
+  "results": [
+    {
+      "placeIds": [
+        "osterman-beach-dunes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-osterman-beach-dunes-natural-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-osterman-beach-dunes-natural-area",
+      "status": 200,
+      "title": "Lincoln Park - Osterman Beach Dunes Natural Area"
+    },
+    {
+      "placeIds": [
+        "ardmore-trailhead",
+        "71st-street-trailhead"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/lakefront-trail",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/lakefront-trail",
+      "status": 200,
+      "title": "Lakefront Trail | Chicago Park District"
+    },
+    {
+      "placeIds": [
+        "osterman-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/osterman-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/osterman-beach",
+      "status": 200,
+      "title": "Osterman Beach"
+    },
+    {
+      "placeIds": [
+        "come-to-light"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/come-light-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/come-light-artwork",
+      "status": 200,
+      "title": "Come to Light | Artwork"
+    },
+    {
+      "placeIds": [
+        "foster-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/foster-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/foster-beach",
+      "status": 200,
+      "title": "Foster Beach"
+    },
+    {
+      "placeIds": [
+        "foster-beach-dunes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-foster-beach-dunes",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-foster-beach-dunes",
+      "status": 200,
+      "title": "Lincoln Park - Foster Beach Dunes"
+    },
+    {
+      "placeIds": [
+        "montrose-dog-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach-dog-friendly-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach-dog-friendly-area",
+      "status": 200,
+      "title": "Montrose Beach Dog Friendly Area"
+    },
+    {
+      "placeIds": [
+        "jose-rizal-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/dr-jose-rizal-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/dr-jose-rizal-monument",
+      "status": 200,
+      "title": "Dr. Jos\u00e9 Rizal Monument"
+    },
+    {
+      "placeIds": [
+        "montrose-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach",
+      "status": 200,
+      "title": "Montrose Beach"
+    },
+    {
+      "placeIds": [
+        "montrose-beach-dunes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area",
+      "status": 200,
+      "title": "Lincoln Park - Montrose Beach Dunes Natural Area"
+    },
+    {
+      "placeIds": [
+        "cricket-hill",
+        "north-pond"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-abraham-park",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-abraham-park",
+      "status": 200,
+      "title": "Lincoln (Abraham) Park"
+    },
+    {
+      "placeIds": [
+        "montrose-point"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-point-bird-sanctuary",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-point-bird-sanctuary",
+      "status": 200,
+      "title": "Lincoln Park - Montrose Point Bird Sanctuary"
+    },
+    {
+      "placeIds": [
+        "montrose-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/montrose/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/montrose/",
+      "status": 200,
+      "title": "&raquo; Montrose"
+    },
+    {
+      "placeIds": [
+        "peace-garden"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-peace-garden",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-peace-garden",
+      "status": 200,
+      "title": "Lincoln Park - Peace Garden"
+    },
+    {
+      "placeIds": [
+        "waveland-clock-tower"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/media/35311/download?inline=",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/media/35311/download?inline=",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "kwa-ma-rolas"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/kwa-ma-rolas-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/kwa-ma-rolas-artwork",
+      "status": 200,
+      "title": "Kwa-Ma-Rolas | Artwork"
+    },
+    {
+      "placeIds": [
+        "bill-jarvis-sanctuary",
+        "bobolink-meadow"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+      "status": 200,
+      "title": "Natural Areas Community Stewardship Days | Chicago Park District"
+    },
+    {
+      "placeIds": [
+        "belmont-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/belmont/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/belmont/",
+      "status": 200,
+      "title": "&raquo; Belmont"
+    },
+    {
+      "placeIds": [
+        "sheridan-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/general-philip-henry-sheridan-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/general-philip-henry-sheridan-monument",
+      "status": 200,
+      "title": "General Philip Henry Sheridan Monument"
+    },
+    {
+      "placeIds": [
+        "aids-garden"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-aids-garden-chicago",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-aids-garden-chicago",
+      "status": 200,
+      "title": "Lincoln Park - Aids Garden Chicago"
+    },
+    {
+      "placeIds": [
+        "diversey-natural-area"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area",
+      "status": 200,
+      "title": "Lincoln Park - Diversey Natural Area"
+    },
+    {
+      "placeIds": [
+        "the-alarm"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/alarm-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/alarm-artwork",
+      "status": 200,
+      "title": "The Alarm | Artwork"
+    },
+    {
+      "placeIds": [
+        "chevron"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/chevron-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chevron-artwork",
+      "status": 200,
+      "title": "Chevron | Artwork"
+    },
+    {
+      "placeIds": [
+        "signal-of-peace"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/signal-peace-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/signal-peace-artwork",
+      "status": 200,
+      "title": "A Signal of Peace | Artwork"
+    },
+    {
+      "placeIds": [
+        "goethe-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/johann-wolfgang-von-goethe-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/johann-wolfgang-von-goethe-monument",
+      "status": 200,
+      "title": "Johann Wolfgang von Goethe Monument"
+    },
+    {
+      "placeIds": [
+        "elks-national-memorial"
+      ],
+      "url": "https://www.elks.org/memorial/",
+      "resolvedUrl": "https://www.elks.org/memorial/",
+      "status": 200,
+      "title": "Elks National Memorial"
+    },
+    {
+      "placeIds": [
+        "altgeld-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/john-peter-altgeld-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/john-peter-altgeld-monument",
+      "status": 200,
+      "title": "John Peter Altgeld Monument"
+    },
+    {
+      "placeIds": [
+        "hamilton-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/alexander-hamilton-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/alexander-hamilton-monument",
+      "status": 200,
+      "title": "Alexander Hamilton Monument"
+    },
+    {
+      "placeIds": [
+        "swedenborg-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/emanuel-swedenborg-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/emanuel-swedenborg-monument",
+      "status": 200,
+      "title": "Emanuel Swedenborg Monument"
+    },
+    {
+      "placeIds": [
+        "diversey-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/diversey/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/diversey/",
+      "status": 200,
+      "title": "&raquo; Diversey"
+    },
+    {
+      "placeIds": [
+        "oglesby-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/richard-oglesby-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/richard-oglesby-monument",
+      "status": 200,
+      "title": "Richard Oglesby Monument"
+    },
+    {
+      "placeIds": [
+        "ten-thousand-ripples"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-ten-thousand-ripples-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-ten-thousand-ripples-artwork",
+      "status": 200,
+      "title": "Lincoln Park Ten Thousand Ripples | Artwork"
+    },
+    {
+      "placeIds": [
+        "theater-on-the-lake"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/theatre-lake",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/theatre-lake",
+      "status": 200,
+      "title": "Theatre on the Lake"
+    },
+    {
+      "placeIds": [
+        "peggy-notebaert-nature-museum"
+      ],
+      "url": "https://naturemuseum.org/",
+      "resolvedUrl": "https://naturemuseum.org/",
+      "status": 200,
+      "title": "Nature Museum | Inspiring Nature Champions"
+    },
+    {
+      "placeIds": [
+        "charitas"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/charitas-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/charitas-artwork",
+      "status": 200,
+      "title": "Charitas | Artwork"
+    },
+    {
+      "placeIds": [
+        "american-bison"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/american-bison-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/american-bison-artwork",
+      "status": 200,
+      "title": "American Bison | Artwork"
+    },
+    {
+      "placeIds": [
+        "curve-xxii"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/curve-xxii-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/curve-xxii-artwork",
+      "status": 200,
+      "title": "Curve XXII | Artwork"
+    },
+    {
+      "placeIds": [
+        "caldwell-lily-pool"
+      ],
+      "url": "https://www.lincolnparkconservancy.org/projects/alfred-caldwell-lily-pool/",
+      "resolvedUrl": "https://lincolnparkconservancy.org/projects/alfred-caldwell-lily-pool/",
+      "status": 200,
+      "title": "Alfred Caldwell Lily Pool | Lincoln Park Conservancy"
+    },
+    {
+      "placeIds": [
+        "lincoln-park-conservatory"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-conservatory",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-conservatory",
+      "status": 200,
+      "title": "Lincoln Park Conservatory"
+    },
+    {
+      "placeIds": [
+        "shakespeare-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/william-shakespeare-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/william-shakespeare-monument",
+      "status": 200,
+      "title": "William Shakespeare Monument"
+    },
+    {
+      "placeIds": [
+        "grandmothers-garden"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden",
+      "status": 200,
+      "title": "Grandmother&#039;s Garden"
+    },
+    {
+      "placeIds": [
+        "eli-bates-fountain"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/eli-bates-fountain",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/eli-bates-fountain",
+      "status": 200,
+      "title": "Eli Bates Fountain"
+    },
+    {
+      "placeIds": [
+        "schiller-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/johann-christoph-friedrich-von-schiller-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/johann-christoph-friedrich-von-schiller-monument",
+      "status": 200,
+      "title": "Johann Christoph Friedrich von Schiller Monument"
+    },
+    {
+      "placeIds": [
+        "eugene-field-memorial"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-eugene-field-memorial",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-eugene-field-memorial",
+      "status": 200,
+      "title": "Lincoln Park - Eugene Field Memorial"
+    },
+    {
+      "placeIds": [
+        "lincoln-park-zoo"
+      ],
+      "url": "https://www.lpzoo.org/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "placeIds": [
+        "andersen-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/hans-christian-andersen-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/hans-christian-andersen-monument",
+      "status": 200,
+      "title": "Hans Christian Andersen Monument"
+    },
+    {
+      "placeIds": [
+        "cafe-brauer"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/cafe-brauer-cermanic-tile-murals-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/cafe-brauer-cermanic-tile-murals-artwork",
+      "status": 200,
+      "title": "Caf\u00e9 Brauer Cermanic Tile Murals | Artwork"
+    },
+    {
+      "placeIds": [
+        "city-hall-relic"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/city-hall-relic",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/city-hall-relic",
+      "status": 200,
+      "title": "City Hall Relic"
+    },
+    {
+      "placeIds": [
+        "north-avenue-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach",
+      "status": 200,
+      "title": "North Avenue Beach"
+    },
+    {
+      "placeIds": [
+        "nature-boardwalk",
+        "peoples-gas-pavilion"
+      ],
+      "url": "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "placeIds": [
+        "grant-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/ulysses-s-grant-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/ulysses-s-grant-monument",
+      "status": 200,
+      "title": "Ulysses S. Grant Monument"
+    },
+    {
+      "placeIds": [
+        "north-avenue-beach-dunes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-north-ave-beach-dunes-natural-area",
+      "status": 200,
+      "title": "Lincoln Park - North Ave. Beach Dunes Natural Area"
+    },
+    {
+      "placeIds": [
+        "franklin-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument",
+      "status": 200,
+      "title": "Benjamin Franklin Monument"
+    },
+    {
+      "placeIds": [
+        "north-avenue-beach-house"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach-house",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach-house",
+      "status": 200,
+      "title": "North Avenue Beach House"
+    },
+    {
+      "placeIds": [
+        "lasalle-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/robert-cavelier-de-lasalle-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/robert-cavelier-de-lasalle-monument",
+      "status": 200,
+      "title": "Robert Cavelier de LaSalle Monument"
+    },
+    {
+      "placeIds": [
+        "chicago-fire-relic"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+      "status": 200,
+      "title": "Chicago Fire Relic"
+    },
+    {
+      "placeIds": [
+        "couch-tomb"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/couch-tomb-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/couch-tomb-artwork",
+      "status": 200,
+      "title": "Couch Tomb | Artwork"
+    },
+    {
+      "placeIds": [
+        "standing-lincoln"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-man-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-man-monument",
+      "status": 200,
+      "title": "Abraham Lincoln: The Man | Monument"
+    },
+    {
+      "placeIds": [
+        "fountain-girl"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-girl-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-girl-artwork",
+      "status": 200,
+      "title": "Fountain Girl | Artwork"
+    },
+    {
+      "placeIds": [
+        "chicago-history-museum"
+      ],
+      "url": "https://www.chicagohistory.org/about-us/museum-history/",
+      "resolvedUrl": "https://www.chicagohistory.org/about-us/museum-history/",
+      "status": 200,
+      "title": "Museum History - Chicago History Museum"
+    },
+    {
+      "placeIds": [
+        "greene-vardiman-black"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/greene-vardiman-black-memorial",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/greene-vardiman-black-memorial",
+      "status": 200,
+      "title": "Greene Vardiman Black Memorial"
+    },
+    {
+      "placeIds": [
+        "chess-pavilion"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/chess-pavilion-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chess-pavilion-artwork",
+      "status": 200,
+      "title": "Chess Pavilion | Artwork"
+    },
+    {
+      "placeIds": [
+        "international-museum-surgical-science"
+      ],
+      "url": "https://imss.org/plan-your-visit/",
+      "resolvedUrl": "https://imss.org/plan-your-visit/",
+      "status": 200,
+      "title": "Plan Your Visit - International Museum of Surgical Science"
+    },
+    {
+      "placeIds": [
+        "oak-street-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/oak-street-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/oak-street-beach",
+      "status": 200,
+      "title": "Oak Street Beach"
+    },
+    {
+      "placeIds": [
+        "museum-contemporary-art"
+      ],
+      "url": "https://mcachicago.org/visit/",
+      "resolvedUrl": "https://mcachicago.org/visit/",
+      "status": 200,
+      "title": "Plan Your Visit - MCA Chicago"
+    },
+    {
+      "placeIds": [
+        "olive-park"
+      ],
+      "url": "https://www.choosechicago.com/listing/olive-park/",
+      "resolvedUrl": "https://www.choosechicago.com/listing/olive-park/",
+      "status": 200,
+      "title": "Olive Park in Chicago | Choose Chicago"
+    },
+    {
+      "placeIds": [
+        "ohio-street-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/ohio-street-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/ohio-street-beach",
+      "status": 200,
+      "title": "Ohio Street Beach"
+    },
+    {
+      "placeIds": [
+        "jane-addams-memorial-natural-area"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/jane-addams-memorial-natural-area",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/jane-addams-memorial-natural-area",
+      "status": 200,
+      "title": "Jane Addams Memorial Natural Area"
+    },
+    {
+      "placeIds": [
+        "butterfly-house"
+      ],
+      "url": "https://butterflyhousechicago.com/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "placeIds": [
+        "flyover-chicago"
+      ],
+      "url": "https://navypier.org/pier-locations/flyover/",
+      "resolvedUrl": "https://navypier.org/pier-locations/flyover/",
+      "status": 200,
+      "title": "Flyover | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "uss-chicago-anchor",
+        "bob-newhart-statue",
+        "crack-the-whip",
+        "captain-on-the-helm"
+      ],
+      "url": "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+      "resolvedUrl": "https://navypier.org/eat-drink-and-play/public-art-and-points-of-interest/",
+      "status": 200,
+      "title": "Chicago&#039;s Public Art &amp; Points of Interest | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "navy-pier"
+      ],
+      "url": "https://navypier.org/support-the-pier/articles/navy-pier-through-the-years/",
+      "resolvedUrl": "https://navypier.org/support-the-pier/articles/navy-pier-through-the-years/",
+      "status": 200,
+      "title": "Navy Pier Through the Years | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "centennial-wheel"
+      ],
+      "url": "https://navypier.org/pier-locations/centennial-wheel/",
+      "resolvedUrl": "https://navypier.org/pier-locations/centennial-wheel/",
+      "status": 200,
+      "title": "Centennial Wheel | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "chicago-childrens-museum"
+      ],
+      "url": "https://navypier.org/pier-locations/chicago-childrens-museum/",
+      "resolvedUrl": "https://navypier.org/pier-locations/chicago-childrens-museum/",
+      "status": 200,
+      "title": "Chicago Children&#039;s Museum | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "chicago-shakespeare-theater"
+      ],
+      "url": "https://www.chicagoshakes.com/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "placeIds": [
+        "polk-bros-park"
+      ],
+      "url": "https://navypier.org/pier-locations/polk-bros-park/",
+      "resolvedUrl": "https://navypier.org/pier-locations/polk-bros-park/",
+      "status": 200,
+      "title": "Polk Bros Park | Navy Pier"
+    },
+    {
+      "placeIds": [
+        "chicago-harbor-lighthouse"
+      ],
+      "url": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273",
+      "resolvedUrl": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273",
+      "status": 200,
+      "title": "Chicago Landmarks - Landmark Details"
+    },
+    {
+      "placeIds": [
+        "us-navy-submarine-memorial"
+      ],
+      "url": "https://crashdivebase.org/chicago-memorial/",
+      "resolvedUrl": "https://crashdivebase.org/chicago-memorial/",
+      "status": 200,
+      "title": "WWII Submarine Veterans Memorial &#8211; Crash Dive Base"
+    },
+    {
+      "placeIds": [
+        "riverwalk-gateway"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/riverwalk-gateway-murals-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/riverwalk-gateway-murals-artwork",
+      "status": 200,
+      "title": "Riverwalk Gateway Murals | Artwork"
+    },
+    {
+      "placeIds": [
+        "dusable-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/dusable/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/dusable/",
+      "status": 200,
+      "title": "&raquo; DuSable"
+    },
+    {
+      "placeIds": [
+        "federal-building-columns"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+      "status": 200,
+      "title": "Federal Building Columns"
+    },
+    {
+      "placeIds": [
+        "millennium-monument"
+      ],
+      "url": "https://www.millenniumparkfoundation.org/art-architecture/",
+      "resolvedUrl": "https://www.millenniumparkfoundation.org/art-architecture/",
+      "status": 200,
+      "title": "Art &amp; Architecture &mdash; Millennium Park Foundation"
+    },
+    {
+      "placeIds": [
+        "harris-theater"
+      ],
+      "url": "https://www.harristheaterchicago.org/our-story",
+      "resolvedUrl": "https://www.harristheaterchicago.org/our-story",
+      "status": 200,
+      "title": "Our Story | Harris Theater"
+    },
+    {
+      "placeIds": [
+        "cancer-survivors-garden"
+      ],
+      "url": "https://www.maggiedaleypark.com/things-to-do-see/cancer-survivors-garden/",
+      "resolvedUrl": "https://www.maggiedaleypark.com/things-to-do-see/cancer-survivors-garden/",
+      "status": 200,
+      "title": "Cancer Survivors' Garden | Maggie Daley Park"
+    },
+    {
+      "placeIds": [
+        "jay-pritzker-pavilion",
+        "cloud-gate",
+        "crown-fountain"
+      ],
+      "url": "https://www.millenniumparkfoundation.org/art-architecture",
+      "resolvedUrl": "https://www.millenniumparkfoundation.org/art-architecture",
+      "status": 200,
+      "title": "Art &amp; Architecture &mdash; Millennium Park Foundation"
+    },
+    {
+      "placeIds": [
+        "maggie-daley-park"
+      ],
+      "url": "https://maggiedaleypark.com/",
+      "resolvedUrl": "https://www.maggiedaleypark.com/",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "millennium-park"
+      ],
+      "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+      "resolvedUrl": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+      "status": 200,
+      "title": "City of Chicago :: Millennium Park"
+    },
+    {
+      "placeIds": [
+        "bp-pedestrian-bridge"
+      ],
+      "url": "https://www.maggiedaleypark.com/about/design/",
+      "resolvedUrl": "https://www.maggiedaleypark.com/about/design/",
+      "status": 200,
+      "title": "Design | Maggie Daley Park"
+    },
+    {
+      "placeIds": [
+        "lurie-garden"
+      ],
+      "url": "https://www.luriegarden.org/about/",
+      "resolvedUrl": "https://www.luriegarden.org/about/",
+      "status": 200,
+      "title": "About - Lurie Garden"
+    },
+    {
+      "placeIds": [
+        "nichols-bridgeway"
+      ],
+      "url": "https://archive.artic.edu/modernwing/public/",
+      "resolvedUrl": "https://archive.artic.edu/modernwing/public/",
+      "status": 200,
+      "title": "Public Spaces | The Art Institute of Chicago"
+    },
+    {
+      "placeIds": [
+        "chicago-stock-exchange-arch"
+      ],
+      "url": "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+      "resolvedUrl": "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "reading-cones"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/reading-cones-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/reading-cones-artwork",
+      "status": 200,
+      "title": "Reading Cones | Artwork"
+    },
+    {
+      "placeIds": [
+        "art-institute-lions"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+      "status": 200,
+      "title": "Lions | Artwork"
+    },
+    {
+      "placeIds": [
+        "art-institute"
+      ],
+      "url": "https://www.artic.edu/",
+      "resolvedUrl": "https://www.artic.edu/",
+      "status": 200,
+      "title": "Home | The Art Institute of Chicago"
+    },
+    {
+      "placeIds": [
+        "petrillo-music-shell"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/grant-ulysses-park",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/grant-ulysses-park",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "fountain-great-lakes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "sir-georg-solti"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "seated-lincoln"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "fountain-figures"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-figures-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-figures-artwork",
+      "status": 200,
+      "title": "Fountain Figures | Artwork"
+    },
+    {
+      "placeIds": [
+        "paris-metro-entryway"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/paris-metro-entryway-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/paris-metro-entryway-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "monroe-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/monroe/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/monroe/",
+      "status": 200,
+      "title": "&raquo; Monroe"
+    },
+    {
+      "placeIds": [
+        "bowman-and-spearman"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "buckingham-fountain"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "magdalene"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/magdalene-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/magdalene-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "magma"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/magma-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/magma-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "spirit-of-music"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "logan-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "montgomery-ward-bust"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/aaron-montgomery-ward-bust",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/aaron-montgomery-ward-bust",
+      "status": 200,
+      "title": "Aaron Montgomery Ward Bust"
+    },
+    {
+      "placeIds": [
+        "rosenberg-fountain"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "chicago-horizon"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-horizon-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-horizon-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "agora"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "shedd-aquarium"
+      ],
+      "url": "https://www.sheddaquarium.org/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "placeIds": [
+        "big-beaver-totem"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/big-beaver-totem-pole",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/big-beaver-totem-pole",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "olmec-head"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "man-with-fish"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "man-enters-cosmos"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "brachiosaurus-replica"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "doane-observatory"
+      ],
+      "url": "https://www.adlerplanetarium.org/experiences/exhibits-spaces/doane-observatory/",
+      "resolvedUrl": "https://www.adlerplanetarium.org/experiences/exhibits-spaces/doane-observatory/",
+      "status": 200,
+      "title": "Doane Observatory - Adler Planetarium"
+    },
+    {
+      "placeIds": [
+        "adler-planetarium"
+      ],
+      "url": "https://www.adlerplanetarium.org/",
+      "resolvedUrl": "https://www.adlerplanetarium.org/",
+      "status": 200,
+      "title": "Home - Adler Planetarium"
+    },
+    {
+      "placeIds": [
+        "copernicus-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "karel-havlicek-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "kosciuszko-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "field-museum"
+      ],
+      "url": "https://www.fieldmuseum.org/",
+      "resolvedUrl": "https://www.fieldmuseum.org/",
+      "status": 200,
+      "title": "Explore the World at the Field - Field Museum"
+    },
+    {
+      "placeIds": [
+        "spiral-galaxy"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "americas-courtyard"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "flame-of-hope"
+      ],
+      "url": "https://www.specialolympics.org/our-work/50th/",
+      "resolvedUrl": "https://www.specialolympics.org/our-work/50th/",
+      "status": 200,
+      "title": "Special Olympics Celebrates 50 Years!"
+    },
+    {
+      "placeIds": [
+        "tribute-to-freedom"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "12th-street-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/12th-street-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/12th-street-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "huntington-bank-pavilion"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "gold-star-families-memorial"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "soldier-field"
+      ],
+      "url": "https://www.soldierfield.com/",
+      "resolvedUrl": "https://www.soldierfield.com/",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "balbo-monument"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/balbo-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/balbo-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "american-doughboy"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/american-doughboy-monument",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/american-doughboy-monument",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "daphne-garden"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "burnham-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/burnham/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/burnham/",
+      "status": 200,
+      "title": "&raquo; Burnham"
+    },
+    {
+      "placeIds": [
+        "northerly-island"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "arie-crown-theater"
+      ],
+      "url": "https://www.ariecrown.com/",
+      "resolvedUrl": "https://www.ariecrown.com/",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "firefighter-paramedic-memorial"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-firefighter-and-paramedic-memorial",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-firefighter-and-paramedic-memorial",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "mccormick-bird-sanctuary"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-mccormick-bird-sanctuary",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-mccormick-bird-sanctuary",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "burnham-centennial-prairie"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-centennial-prairie",
+      "status": 200,
+      "title": "Burnham Wildlife Corridor - Burnham Centennial Prairie"
+    },
+    {
+      "placeIds": [
+        "great-northern-migration"
+      ],
+      "url": "https://bmrc.lib.uchicago.edu/portal/curated/south-side-chicago-neighborhoods/",
+      "resolvedUrl": "https://bmrc.lib.uchicago.edu/turnstile/challenge/?next=/portal/curated/south-side-chicago-neighborhoods/",
+      "status": 200,
+      "title": "Site Protection - Verification Required"
+    },
+    {
+      "placeIds": [
+        "caracol"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/caracol-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/caracol-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "1919-race-riot-memorial"
+      ],
+      "url": "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+      "resolvedUrl": "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+      "status": 200,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "31st-street-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/margaret-t-burroughs-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/margaret-t-burroughs-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "31st-street-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/31st-street/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/31st-street/",
+      "status": 200,
+      "title": "&raquo; 31st Street"
+    },
+    {
+      "placeIds": [
+        "la-ronda-parakata"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/la-ronda-parakata-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/la-ronda-parakata-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "35th-street-bridge",
+        "41st-street-bridge"
+      ],
+      "url": "https://chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/december/41stStreetBridgeOpening.html",
+      "resolvedUrl": "https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/december/41stStreetBridgeOpening.html",
+      "status": 200,
+      "title": "City of Chicago :: Mayor Emanuel Joins Alderman King and Bronzeville Community to Cut Ribbon on 41st Street Pedestrian and Bike Bridge"
+    },
+    {
+      "placeIds": [
+        "letter-to-bessie-coleman"
+      ],
+      "url": "https://bernardwilliamsart.com/artwork/4452526-Letter%20to%20Bessie%20Coleman.html",
+      "resolvedUrl": "https://bernardwilliamsart.com/artwork/4452526-Letter%20to%20Bessie%20Coleman.html",
+      "status": 200,
+      "title": "Bernard Williams"
+    },
+    {
+      "placeIds": [
+        "oakwood-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/oakwood-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/oakwood-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "la-sirena"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/mermaid-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/mermaid-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "sankofa-for-the-earth"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/sankofa-earth-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sankofa-earth-artwork",
+      "status": 200,
+      "title": "Sankofa for the Earth | Artwork"
+    },
+    {
+      "placeIds": [
+        "burnham-nature-sanctuary"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-nature-sanctuary",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-nature-sanctuary",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "burnham-park"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-daniel-park",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-daniel-park",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "cornell-oasis"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/cornell-garden-oasis",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/cornell-garden-oasis",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "promontory-point"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/promontory-point",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/promontory-point",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "david-wallach-fountain"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/david-wallach-memorial-fountain",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/david-wallach-memorial-fountain",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "57th-street-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/57th-street-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/57th-street-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "griffin-msi"
+      ],
+      "url": "https://www.msichicago.org/",
+      "resolvedUrl": "https://www.griffinmsi.org/",
+      "status": 200,
+      "title": "Home Page | Griffin Museum of Science and Industry"
+    },
+    {
+      "placeIds": [
+        "59th-street-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/59th-street/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/59th-street/",
+      "status": 200,
+      "title": "&raquo; 59th Street"
+    },
+    {
+      "placeIds": [
+        "garden-of-the-phoenix"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "sky-landing"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "obama-presidential-center"
+      ],
+      "url": "https://www.obama.org/visit/",
+      "resolvedUrl": "https://www.obama.org/visit/",
+      "status": 200,
+      "title": "Visit the Center | The Obama Foundation"
+    },
+    {
+      "placeIds": [
+        "jackson-park"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-andrew-park",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-andrew-park",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "63rd-street-beach-dunes"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-63rd-st-beach-dunes",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-63rd-st-beach-dunes",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "63rd-street-beach",
+        "63rd-street-beach-house"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "statue-of-the-republic"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "jackson-harbor-station"
+      ],
+      "url": "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+      "resolvedUrl": "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+      "status": 200,
+      "title": "Jackson Park Station House - U.S. Life-Saving Service Heritage Association, Dedicated to Preserving our National Life-Saving Treasures"
+    },
+    {
+      "placeIds": [
+        "jackson-park-inner-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/jackson-park-inner/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/jackson-park-inner/",
+      "status": 200,
+      "title": "&raquo; Jackson Park Inner"
+    },
+    {
+      "placeIds": [
+        "jackson-park-outer-harbor"
+      ],
+      "url": "https://www.chicagoharbors.info/harbors/jackson-park-outer/",
+      "resolvedUrl": "https://www.chicagoharbors.info/harbors/jackson-park-outer/",
+      "status": 200,
+      "title": "&raquo; Jackson Park Outer"
+    },
+    {
+      "placeIds": [
+        "south-shore-beach"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-beach",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-beach",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "south-shore-cultural-center"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-cultural-centerfieldhouse",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-cultural-centerfieldhouse",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "south-shore-nature-sanctuary"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "paul-robeson-theater"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-paul-robeson-theatre",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-paul-robeson-theatre",
+      "status": 202,
+      "title": ""
+    },
+    {
+      "placeIds": [
+        "south-shore-formal-garden"
+      ],
+      "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-formal-garden",
+      "resolvedUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-formal-garden",
+      "status": 202,
+      "title": ""
+    }
+  ],
+  "summary": {
+    "checkedUniqueUrls": 174,
+    "statusCounts": {
+      "200": 113,
+      "403": 5,
+      "202": 56
+    },
+    "brokenHttpLinks": [],
+    "limitation": "HTTP 202 challenge pages and HTTP 403 responses prevent automated availability confirmation for those sources; they are not recorded as dead links."
+  }
+}

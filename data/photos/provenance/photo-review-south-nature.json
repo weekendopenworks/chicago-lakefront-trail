@@ -1,0 +1,169 @@
+{
+  "mccormick-bird-sanctuary": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "A view to the southwest from the McCormick Bird Sanctuary.",
+    "sourceUrl": "https://www.flickr.com/photos/7173677@N05/36508319324",
+    "photoLicense": "CC BY-ND 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/2.0/deed.en",
+    "author": "Richard Bartlaga",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-mccormick-bird-sanctuary",
+      "https://www.openstreetmap.org/way/347369045"
+    ],
+    "identityReview": "Actual named Chicago site verified from exact source title/description and visual review.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "McCormick Bird Sanctuary, looking southwest · 2017",
+    "downloadUrl": "https://live.staticflickr.com/4380/36508319324_be1b9a2bdf_b.jpg",
+    "sourceFileSha256": "4ae158289eb0418fd4ce519267a6eac8ffad5aaf61b006cfb7644a682bb7a6e3",
+    "assetSha256": "4ae158289eb0418fd4ce519267a6eac8ffad5aaf61b006cfb7644a682bb7a6e3",
+    "changes": "None. Original downloaded JPEG preserved byte-for-byte; display with object-fit: contain, no crop, filters or overlays."
+  },
+  "cornell-oasis": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "20130608 81 Cornell Oasis",
+    "sourceUrl": "https://www.flickr.com/photos/32693718@N07/10645289414",
+    "photoLicense": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "author": "David Wilson",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/cornell-garden-oasis",
+      "https://www.openstreetmap.org/way/349614608"
+    ],
+    "identityReview": "Actual named Chicago site verified from exact source title/description and visual review.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "Cornell Garden Oasis · 2013",
+    "downloadUrl": "https://live.staticflickr.com/3685/10645289414_eee9a3a6a4_b.jpg",
+    "sourceFileSha256": "a27cfd1cc62d04b0a1fd4ed2b6c0e60baba43b595424f7534d68014c3b75aa83",
+    "assetSha256": "4d29ca46396a694dbc6df1693cff73d741e23f576652c7181e3f7a1295ce4262",
+    "changes": "Resized proportionally to at most 960 pixels and encoded as WebP; no crop, subject replacement or generative edits."
+  },
+  "bobolink-meadow": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:Aerial view of Jackson Park, Chicago, Illinois, US (PPL1-Corrected) julesvernex2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jackson_Park,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg",
+    "photoLicense": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jules Verne Times Two / julesvernex2.com",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+      "https://www.chicagoparkdistrict.com/media/35326/download?inline=",
+      "https://www.openstreetmap.org/relation/18995874"
+    ],
+    "identityReview": "Camera at 41.7872786,-87.5835892 faces south. Meadow is the narrow habitat strip along left/east lagoon bank between water and sports fields, across from Wooded Island. Independently checked by city_geometry against OSM relation/18995874; do not identify the sports fields as meadow.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "Bobolink Meadow on the east (left) bank of Jackson Park’s lagoon · aerial view, 2022",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_view_of_Jackson_Park%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg/960px-Aerial_view_of_Jackson_Park%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg",
+    "sourceFileSha256": "3d010fd58b96b024d12fc35680ed1f004ddba140edfb11401b4ecb754cb63811",
+    "assetSha256": "5c72764a1405aac68e5fe68fe3c8b9d0b0490c7cbc5e914e644e2aa6c7e73cfe",
+    "changes": "Resized proportionally to at most 960 pixels and encoded as WebP; no crop, subject replacement or generative edits."
+  },
+  "63rd-street-beach-dunes": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "63rd Street Beach",
+    "sourceUrl": "https://www.flickr.com/photos/99012110@N00/9394511065",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "author": "Natalia Wilson",
+    "identitySourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-63rd-st-beach-dunes",
+      "https://www.openstreetmap.org/relation/20660684"
+    ],
+    "identityReview": "Exact Flickr title identifies 63rd Street Beach, Chicago. In the wide beach view, planted dune strip is visible at right next to the swimming beach and breakwater. Caption identifies this contextual view, rather than a close-up of dunes.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "The beach and planted dunes at right · 63rd Street Beach, 2013",
+    "downloadUrl": "https://live.staticflickr.com/5342/9394511065_72afa53ce3_b.jpg",
+    "sourceFileSha256": "33eddfe8708694bce0d2ce6e5fe06eb03dfc93023c1cd736a4f52a4b3496979f",
+    "assetSha256": "4d5319c1f4bdeae1c2180332ef2a4f1e885be56cf1bd3ee59588cc4a42c2b00e",
+    "changes": "Resized proportionally to at most 960 pixels and encoded as WebP; no crop, subject replacement or generative edits."
+  },
+  "jackson-park-outer-harbor": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "Jackson Park Outer Harbor",
+    "sourceUrl": "https://www.flickr.com/photos/71861129@N00/1325729108",
+    "photoLicense": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "author": "David B. Gleason",
+    "identitySourceUrls": [
+      "https://www.chicagoharbors.info/harbors/jackson-park-outer/",
+      "https://www.openstreetmap.org/relation/17779624"
+    ],
+    "identityReview": "Actual named Chicago site verified from exact source title/description and visual review.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "Jackson Park Outer Harbor · 2007",
+    "downloadUrl": "https://live.staticflickr.com/1045/1325729108_7c41eab09b_b.jpg",
+    "sourceFileSha256": "234e8462935bd633d53bf56cc9eb749084bd9cd99e1108a79090f152d3806d28",
+    "assetSha256": "23ae65a797d4ebf7be6f14d48785c2949557b2889a29ca5962ebbcada5036fd2",
+    "changes": "Resized proportionally to at most 960 pixels and encoded as WebP; no crop, subject replacement or generative edits."
+  },
+  "59th-street-harbor": {
+    "status": "verified-photo",
+    "reviewedAt": "2026-11-18",
+    "title": "File:HARBOR VIEW, WEST FRONT - North Inlet Bridge, Spaning North Inlet from Lake Michigan to Fifty-ninth Street Marina (5900S), Chicago, Cook County, IL HAER ILL, 16-CHIG, 149-8.tif",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HARBOR_VIEW,_WEST_FRONT_-_North_Inlet_Bridge,_Spaning_North_Inlet_from_Lake_Michigan_to_Fifty-ninth_Street_Marina_(5900S),_Chicago,_Cook_County,_IL_HAER_ILL,_16-CHIG,_149-8.tif",
+    "photoLicense": "Public domain",
+    "licenseUrl": "https://www.loc.gov/pictures/collection/hh/rights.html",
+    "author": "Historic American Engineering Record / Library of Congress",
+    "identitySourceUrls": [
+      "https://www.chicagoharbors.info/harbors/59th-street/",
+      "https://www.openstreetmap.org/way/24826325"
+    ],
+    "identityReview": "Library of Congress HAER IL-120-8 identifies harbor-side west front of North Inlet Bridge at Fifty-ninth Street Marina. Visually reviewed inlet/bridge context. Historic photograph is explicitly labeled; Commons bulk-imported coordinate is inaccurate and is not used for the map pin.",
+    "visualReview": "Inspected downloaded full photo; candidate contactsheets [temporary review image; not retained] and [temporary review image; not retained], plus individual aerial and historic bridge views.",
+    "caption": "Historic view of the harbor’s North Inlet Bridge · Library of Congress",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HARBOR_VIEW%2C_WEST_FRONT_-_North_Inlet_Bridge%2C_Spaning_North_Inlet_from_Lake_Michigan_to_Fifty-ninth_Street_Marina_%285900S%29%2C_Chicago%2C_Cook_County%2C_IL_HAER_ILL%2C_16-CHIG%2C_149-8.tif/lossy-page1-960px-thumbnail.tif.jpg",
+    "sourceFileSha256": "9b5ce301f79fcdd0e863f582dc22f0e6ee6d41f1ddf9bb01ca057e860a95a495",
+    "assetSha256": "ec9179324710938448c18966d84b3c26fb9cc42a84fc17b117b8b978ca710e84",
+    "changes": "Resized proportionally to at most 960 pixels and encoded as WebP; no crop, subject replacement or generative edits.",
+    "additionalSourceUrls": [
+      "https://www.loc.gov/pictures/item/il0716.photos.043167p/",
+      "https://www.loc.gov/pictures/collection/hh/rights.html"
+    ]
+  },
+  "burnham-nature-sanctuary": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "reason": "No clearly licensed reusable image with confirmed identity found. Official Park District, design firm and news images identify the site but do not give a reusable photo license. Broader searches mostly returned unrelated churches or Burnham Beeches.",
+    "searchQueries": [
+      "\"Burnham Nature Sanctuary\"",
+      "\"Burnham\" sanctuary Chicago",
+      "\"Burnham\" \"nature\""
+    ],
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor-burnham-nature-sanctuary",
+      "https://www.thinkconfluence.com/what-we-do/sustainable-strategies/burnham-nature-sanctuary"
+    ]
+  },
+  "south-shore-beach": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "reason": "Exact Chicago beach photos found primarily under CC BY-NC-ND; a CC BY-ND candidate title says \"I THINK\" the location is South Shore and was rejected for uncertain identity. Commons same-name beaches are in Milwaukee and apartment-building photos are not the beach.",
+    "searchQueries": [
+      "\"South Shore Beach\" Chicago",
+      "\"South Shore Cultural Center\" beach",
+      "\"South Shore\" Chicago beach licensed"
+    ],
+    "sourceUrls": [
+      "https://www.flickr.com/photos/reallyboring/13809865423/",
+      "https://www.flickr.com/photos/92432360@N00/1405406588"
+    ]
+  },
+  "jackson-park-inner-harbor": {
+    "status": "gap-no-verified-reusable-photo",
+    "reviewedAt": "2026-11-18",
+    "reason": "No suitable reusable close or medium-wide photograph confirmed. Exact harbor images found under noncommercial licenses; licensed Jackson Park aerial shows the inner harbor only as a small distant background feature and was not substituted as the harbor photo.",
+    "searchQueries": [
+      "\"Jackson Park Inner Harbor\"",
+      "\"Jackson Park\" \"inner\"",
+      "\"Jackson Park\" harbor"
+    ],
+    "sourceUrls": [
+      "https://www.flickr.com/photos/reallyboring/4355667314/",
+      "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jackson_Park,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg"
+    ]
+  }
+}

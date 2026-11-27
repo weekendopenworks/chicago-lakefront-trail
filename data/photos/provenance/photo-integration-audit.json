@@ -1,0 +1,34 @@
+{
+  "reviewedAt": "2026-11-18",
+  "discoveryCount": 169,
+  "acceptedPhotoCount": 144,
+  "locationHeaderCount": 25,
+  "northAccepted": 45,
+  "northReviewedPlaces": 56,
+  "finalNorthFixes": [
+    "Finished the correct Eugene Field Memorial photo and applied the photographer-specific CC BY-SA 3.0 license.",
+    "Finished the exact Jarvis Bird Sanctuary habitat photo and CC BY-SA 3.0 attribution.",
+    "Retained the correct Peace Garden sign replacement; rejected earlier unrelated sculpture/garden candidate, with visible context caption.",
+    "Saved exact Flickr license anchors in metadata and changed unfinished statuses to explicit gaps."
+  ],
+  "validation": [
+    "All 144 referenced files exist and have valid image dimensions.",
+    "Every accepted north photo has matching accepted review and original-source metadata.",
+    "All 25 gaps have per-place research evidence.",
+    "All 169 discoveries retained."
+  ],
+  "prunedAssets": [
+    {
+      "asset": "/assets/photos/firefighter-paramedic-memorial.webp",
+      "bytes": 90832,
+      "sha256": "4a32cb5b62d2acc5fa1dd9fa6c41ed523a7d58ed7018f8d5b61c8510ff4af584",
+      "reason": "Not referenced by final accepted photo manifest; excluded candidate or superseded asset."
+    },
+    {
+      "asset": "/assets/photos/agora.webp",
+      "bytes": 93392,
+      "sha256": "bbbe80744c5d4cbb2a293f1b32fdc6a3748455eb443275b8addf196d50393369",
+      "reason": "Not referenced by final accepted photo manifest; excluded candidate or superseded asset."
+    }
+  ]
+}

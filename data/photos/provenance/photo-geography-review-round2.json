@@ -1,0 +1,314 @@
+{
+  "reviewedAt": "2026-11-18",
+  "reviewer": "independent geographic and subject review",
+  "scope": "Root candidate contact sheets 2, 4 and 5; full-size priority harbor/beach photos; one requested Bobolink contextual aerial. This is a photo subject/location audit, not a complete licensing audit.",
+  "method": "Compared visible shore shapes, landmarks, viewpoint direction, harbor mooring layouts and named feature geometry. Source titles and photographer GPS were supporting evidence, never substitutes for visual assessment.",
+  "pinCoordinates": "All discovery pins remain based on independently audited named OSM feature geometry. Supplied photograph coordinates are not imported.",
+  "records": [
+    {
+      "id": "montrose-harbor",
+      "sourceTitle": "File:2006-06-03 3020x1700 chicago montrose harbor.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2006-06-03_3020x1700_chicago_montrose_harbor.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Protected harbor water, sailboats, wooded harbor entrance and the downtown skyline to the south are consistent with Montrose Harbor.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "ohio-street-beach",
+      "sourceTitle": "File:20170702 04 Ohio Street Beach (44178773272).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20170702_04_Ohio_Street_Beach_(44178773272).jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "The north-facing beach cove, inland trees, Jardine perimeter fence and visible plant chimney match Ohio Street Beach. Photographer location is consistent with the sand area.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.893564,
+        "lon": -87.612351
+      }
+    },
+    {
+      "id": "dusable-harbor",
+      "sourceTitle": "File:DuSable Harbor (35292890240).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DuSable_Harbor_(35292890240).jpg",
+      "decision": "accept-with-geotag-correction",
+      "geographicConfidence": "moderate",
+      "visualEvidence": "Image depicts numbered finger slips visibly marked Dock C, consistent with DuSable’s dock layout and the supplied source name. The Illinois boating guide maps Dock C in DuSable. The image has no unique skyline or building anchor, so this remains moderate independent visual confidence. Supplied GPS is in the Monroe waterfront vicinity and must not be treated as verified camera position or used for the discovery pin.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.882119,
+        "lon": -87.616378
+      },
+      "suppliedCameraLocationStatus": "inconsistent with DuSable Harbor; lies in Monroe waterfront vicinity",
+      "supportingSources": [
+        "https://www.chicagoharbors.info/harbors/dusable/",
+        "https://www.illinois.gov/content/dam/soi/en/web/dnr/safety/documents/chicagoboatoperationsguide.pdf"
+      ],
+      "supportingSourceDetail": "2025 Chicago Boat Operations guide, page 39, maps DuSable docks including Dock C. Acceptance uses source identification and visible layout, not the inconsistent GPS.",
+      "discoveryPinPolicy": "Pin retains independently audited named OSM feature coordinates; no photo geotag is imported."
+    },
+    {
+      "id": "maggie-daley-park",
+      "sourceTitle": "File:Maggie Daley Park (35830551826).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maggie_Daley_Park_(35830551826).jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Elevated play-garden suspension walkway and distinctive climbing/play structures identify Maggie Daley Park.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "monroe-harbor",
+      "sourceTitle": "File:Chicago Boats at Monroe Harbor.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Boats_at_Monroe_Harbor.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "View shows boats on free moorings across the broad open basin at dawn, consistent with Monroe Harbor; this is not the previously rejected finger-slip photo. The supplied west-shore position and eastward dawn view are consistent.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.878611,
+        "lon": -87.616389
+      }
+    },
+    {
+      "id": "burnham-harbor",
+      "sourceTitle": "File:Soldier Field east side and marina.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soldier_Field_east_side_and_marina.JPG",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Marina basin immediately east of Soldier Field’s recognizable east colonnade establishes Burnham Harbor directly.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "northerly-island",
+      "sourceTitle": "File:Northerly Island Park 2022.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northerly_Island_Park_2022.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Long peninsula, restored pond and winding nature paths with Burnham Harbor and McCormick Place on the west establish Northerly Island.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.861073,
+        "lon": -87.607995
+      }
+    },
+    {
+      "id": "71st-street-trailhead",
+      "sourceTitle": "File:Southern terminus of the Lakefront Trail - Chicago, IL - June 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_terminus_of_the_Lakefront_Trail_-_Chicago,_IL_-_June_2023.jpg",
+      "decision": "accept",
+      "geographicConfidence": "moderate",
+      "visualEvidence": "Photo depicts the trail/street terminus context in South Shore, consistent with the source identification. No contradictory geographic feature was found, but the view lacks an independently legible street-name anchor.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "bp-pedestrian-bridge",
+      "sourceTitle": "File:Bp bridge.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bp_bridge.JPG",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Distinctive serpentine metal bridge over Columbus Drive with Millennium Park lawn establishes BP Pedestrian Bridge.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "nichols-bridgeway",
+      "sourceTitle": "File:Nichols Bridgeway 090516.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nichols_Bridgeway_090516.JPG",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Straight elevated bridge adjoining the Art Institute’s Modern Wing identifies Nichols Bridgeway.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "art-institute",
+      "sourceTitle": "File:Art Institute of Chicago, Illinois, Estados Unidos, 2012-10-20, DD 03.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_Institute_of_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_03.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Michigan Avenue Beaux-Arts facade and frontage identify the Art Institute main building.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "cancer-survivors-garden",
+      "sourceTitle": "File:Cancer Survivors Garden.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cancer_Survivors_Garden.jpg",
+      "decision": "accept",
+      "geographicConfidence": "moderate",
+      "visualEvidence": "Formal planted garden beds and adjacent downtown buildings are consistent with the named garden. Full scene is a garden view rather than a monument close-up.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "petrillo-music-shell",
+      "sourceTitle": "File:200807 Petrillo Music Shell.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:200807_Petrillo_Music_Shell.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Rectangular bandshell and outdoor seating layout match Petrillo Music Shell.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "captain-on-the-helm",
+      "sourceTitle": "File:Chicago - Navy Pier 1 - Captain on the Helm.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_-_Navy_Pier_1_-_Captain_on_the_Helm.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Captain sculpture at a ship’s wheel on its distinctive plinth identifies Captain on the Helm.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "35th-street-bridge",
+      "sourceTitle": "File:35th St Pedestrian Bridge at Lakefront Trail - Chicago, IL - April 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:35th_St_Pedestrian_Bridge_at_Lakefront_Trail_-_Chicago,_IL_-_April_2023.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Sweeping concrete approach and south-lakefront setting match the 35th Street pedestrian bridge.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "41st-street-bridge",
+      "sourceTitle": "File:41st St Pedestrian Bridge (1) - Chicago, IL - April 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:41st_St_Pedestrian_Bridge_(1)_-_Chicago,_IL_-_April_2023.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Distinctive blue arched bridge and railings identify the 41st Street pedestrian bridge.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "12th-street-beach",
+      "sourceTitle": "File:Northerly Island Beach - Chicago, Illinois.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northerly_Island_Beach_-_Chicago,_Illinois.JPG",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Small protected sand cove with Adler’s dome behind it and the low beach building at left identifies 12th Street Beach.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "63rd-street-beach-house",
+      "sourceTitle": "File:20070602 Jackson Park Beach (6).JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070602_Jackson_Park_Beach_(6).JPG",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Broad historic beach-house facade, twin tower forms and beachward view identify the 63rd Street Beach House.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "31st-street-beach",
+      "sourceTitle": "File:Sand Solitude (115308541).jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sand_Solitude_(115308541).jpeg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Northward curved beach and protective edge, McCormick Place and Chicago skyline orientation match 31st Street Beach; source description independently names the same location.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "31st-street-harbor",
+      "sourceTitle": "File:2014 Chicago Loop aerial 02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Chicago_Loop_aerial_02.jpg",
+      "decision": "reject",
+      "geographicConfidence": "high",
+      "visualEvidence": "Whole-city aerial does not provide a recognizable view of the harbor discovery. A category mentioning the harbor is insufficient when the subject is too distant.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "57th-street-beach",
+      "sourceTitle": "File:57th Street Beach Beach House Chicago 2021-3130.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:57th_Street_Beach_Beach_House_Chicago_2021-3130.jpg",
+      "decision": "accept-as-beach-facility-view",
+      "geographicConfidence": "high",
+      "visualEvidence": "Actual 57th Street Beach house is visible with its lakeside edge. Caption should identify the beach-house/facility view, not imply this is a broad view of the sand.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.792727,
+        "lon": -87.579427
+      }
+    },
+    {
+      "id": "burnham-park",
+      "sourceTitle": "File:Waterfront at Burnham Park, near McCormick Place Bird Sanctuary, Chicago, 2025.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waterfront_at_Burnham_Park,_near_McCormick_Place_Bird_Sanctuary,_Chicago,_2025.jpg",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Stepped shoreline, southward lakefront curve and McCormick Bird Sanctuary context match this section of Burnham Park. This broad park destination is represented by one documented shoreline segment, not the whole park.",
+      "reviewedAt": "2026-11-18",
+      "suppliedCameraLocation": {
+        "lat": 41.849489,
+        "lon": -87.609598
+      }
+    },
+    {
+      "id": "oakwood-beach",
+      "sourceUrl": "https://www.flickr.com/photos/32606375@N04/5162071720",
+      "decision": "reject",
+      "geographicConfidence": "high",
+      "visualEvidence": "Wave close-up cannot identify the beach or its geography; title saying near the beach does not resolve the pictured subject.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "la-ronda-parakata",
+      "sourceUrl": "https://www.flickr.com/photos/32693718@N07/50059986596",
+      "decision": "accept",
+      "geographicConfidence": "high",
+      "visualEvidence": "Characteristic branch arches, stump seating, native planting and gathering-circle arrangement match La Ronda Parakata.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "firefighter-paramedic-memorial",
+      "sourceUrl": "https://www.flickr.com/photos/7173677@N05/36508142754",
+      "decision": "accept-as-memorial-grounds",
+      "geographicConfidence": "moderate",
+      "visualEvidence": "Three-flag plaza and landscaping are consistent with the actual memorial grounds. Illinois State Fire Marshal November 2024 newsletter page 3 independently documents the same US-center, commemorative-left, Chicago-right arrangement. Photo does not itself show readable memorial inscriptions or bronze elements.",
+      "reviewedAt": "2026-11-18",
+      "supportingSources": [
+        "https://sfm.illinois.gov/content/dam/soi/en/web/sfm/sfmdocuments/documents/publications/newsletters/marshalmatters-newsletter-2024-11.pdf",
+        "https://www.cfdgoldbadgesociety.org/memorial-park",
+        "https://www.chicagoparkdistrict.com/parks-facilities/chicago-firefighter-and-paramedic-memorial"
+      ],
+      "compositionNote": "Source declares CC BY-ND 2.0; root retains the complete composition. Licensing implementation is tracked separately."
+    },
+    {
+      "id": "cricket-hill",
+      "sourceUrl": "https://www.flickr.com/photos/16226024@N00/4021372260",
+      "decision": "accept",
+      "geographicConfidence": "moderate",
+      "visualEvidence": "Low grassy hill and Uptown buildings are consistent with Cricket Hill.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "31st-street-harbor",
+      "sourceUrl": "https://www.flickr.com/photos/196861787@N08/55472811681",
+      "decision": "reject",
+      "geographicConfidence": "high",
+      "visualEvidence": "Concrete lakeside seating is the primary subject. Harbor basin and recognizable harbor infrastructure are absent, so this does not adequately represent 31st Street Harbor.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "31st-street-harbor-alternate",
+      "sourceUrl": "https://www.flickr.com/photos/196861787@N08/55473212525",
+      "decision": "reject",
+      "geographicConfidence": "high",
+      "visualEvidence": "Concrete lakeside seating is the primary subject. Harbor basin and recognizable harbor infrastructure are absent, so this does not adequately represent 31st Street Harbor.",
+      "reviewedAt": "2026-11-18"
+    },
+    {
+      "id": "bobolink-meadow",
+      "sourceTitle": "File:Aerial view of Jackson Park, Chicago, Illinois, US (PPL1-Corrected) julesvernex2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jackson_Park,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg",
+      "decision": "accept-as-contextual-aerial",
+      "geographicConfidence": "high",
+      "visualEvidence": "Southward view establishes Garden of Phoenix in the lower right and Wooded Island on the right. Mapped Bobolink Meadow is the narrow habitat band along the lagoon’s left/east bank between water and sports fields, consistent with relation 18995874. The sports fields and entire left half are not the meadow.",
+      "captionRecommendation": "Bobolink Meadow on the east (left) bank of Jackson Park’s lagoon · aerial view, 2022",
+      "supportingSources": [
+        "https://www.openstreetmap.org/relation/18995874",
+        "https://www.chicagoparkdistrict.com/media/35326/download?inline="
+      ],
+      "reviewedAt": "2026-11-18"
+    }
+  ],
+  "remainingGap": "No suitable recognizable 31st Street Harbor photo among these candidates.",
+  "moderateConfidenceIds": [
+    "71st-street-trailhead",
+    "cancer-survivors-garden",
+    "cricket-hill",
+    "dusable-harbor",
+    "firefighter-paramedic-memorial"
+  ]
+}

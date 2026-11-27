@@ -1,0 +1,118 @@
+{
+  "reviewed_on": "2026-11-18",
+  "scope": "Chicago lakefront from Ardmore Avenue to 71st Street, north-up aerial reference for illustrated map correction",
+  "sources": [
+    {
+      "provider": "Cook County GIS",
+      "service": "https://img.cookcountyil.gov/arcgis/rest/services/CookOrtho2025/ImageServer",
+      "item": "https://www.arcgis.com/home/item.html?id=779996bcf5e24559817e296203acc8aa",
+      "files": "0*-cook2025.jpg",
+      "note": "Preferred built-feature reference. Item title says 2025 while description says flown in 2026; exact acquisition year was not resolved. White areas offshore are imagery coverage gaps, not land. Leaf-off imagery makes roads and lawns clear."
+    },
+    {
+      "provider": "USGS / USDA, The National Map",
+      "service": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "files": "0*.jpg excluding cook2025",
+      "note": "2019 NAIP leaf-on imagery. Good for distinguishing tree canopy from lawn. Downtown catalog acquisition date is 2019-08-02. This is a baseline, not current conditions."
+    }
+  ],
+  "panels": [
+    {
+      "name": "01-edgewater-uptown",
+      "bbox_wgs84": [
+        -87.668,
+        41.952,
+        -87.627,
+        41.993
+      ],
+      "findings": [
+        "Dense rectilinear city blocks immediately west of the lakefront park and Lake Shore Drive.",
+        "Ardmore/Osterman is a beach and narrow lawn strip, backed by high-rises; no broad woodland.",
+        "Foster Beach is a small sandy scallop north of the wide Montrose peninsula.",
+        "Montrose peninsula contains open recreation fields, a running track, beach, roads and parking. Its more concentrated canopy is at Montrose Point / bird sanctuary on the southeast tip.",
+        "Montrose Harbor lies south of the beach, has its own distinctive crescent basin and dock pattern."
+      ]
+    },
+    {
+      "name": "02-lincoln-park-gold-coast",
+      "bbox_wgs84": [
+        -87.655,
+        41.901,
+        -87.616,
+        41.956
+      ],
+      "findings": [
+        "Lakeview and Lincoln Park neighborhoods are a dense street/building grid west of the park boundary.",
+        "Belmont and Diversey harbors are distinct elongated basins; their shapes should come from geometry rather than repeated pictorial harbor stamps.",
+        "Lincoln Park contains open sports fields, ponds and lagoons, zoo structures, formal grounds, lawns and scattered groves. Canopy is not a continuous belt.",
+        "North Avenue Beach is a large crescent with long sandy shore; nearby fields and parking are open.",
+        "South of North Avenue to Oak Street, Gold Coast buildings approach Lake Shore Drive directly. Do not paint a forest over these blocks."
+      ]
+    },
+    {
+      "name": "03-downtown-museum-campus",
+      "bbox_wgs84": [
+        -87.644,
+        41.855,
+        -87.589,
+        41.91
+      ],
+      "findings": [
+        "Streeterville is dense city blocks with high-rise buildings, Chicago River flowing west-east, and only small landscaped patches.",
+        "Navy Pier projects due east. Its long rectangular roof/boardwalk is south of the separate broad rectangular water-filtration-plant peninsula.",
+        "Ohio Street Beach lies west/northwest of Navy Pier, near its landward root.",
+        "Grant Park is a formal rectangle of lawns, promenades, fields and tree rows; Buckingham Fountain is a circular landmark within open formal grounds.",
+        "Museum Campus has distinct buildings separated by lawns/plazas: Field Museum western/southern block, Shedd north/east of Field, Adler at the eastern tip along Solidarity Drive.",
+        "Soldier Field is south of Field Museum. Burnham Harbor is east of Soldier Field and west of Northerly Island."
+      ]
+    },
+    {
+      "name": "04-burnham-hyde-park",
+      "bbox_wgs84": [
+        -87.627,
+        41.795,
+        -87.571,
+        41.857
+      ],
+      "findings": [
+        "McCormick Place is a very large built complex, visibly unlike a park or grove.",
+        "31st Street Harbor is a large oval/crescent man-made harbor south of its beach.",
+        "Most Burnham lakefront is an open grass ribbon with sparse trees between shoreline and the road/rail corridor.",
+        "Bronzeville and Kenwood show residential street blocks west of the highway/rail corridor.",
+        "Hyde Park has dense city fabric and waterfront apartment towers. Promontory Point is a recognizable eastward peninsula with open central lawn and trees near the perimeter."
+      ]
+    },
+    {
+      "name": "05-jackson-south-shore",
+      "bbox_wgs84": [
+        -87.602,
+        41.759,
+        -87.548,
+        41.801
+      ],
+      "findings": [
+        "Griffin Museum of Science and Industry is a large building at the north of Jackson Park with formal open grounds.",
+        "Wooded Island and lagoon margins carry concentrated canopy. Large golf and recreation areas to the south are open lawn with tree rows.",
+        "63rd Street Beach and its small beach house are east of Lake Shore Drive. The building should not obscure the beach's true extent.",
+        "Jackson Park inner and outer harbors have separate identifiable basins and are not interchangeable with the northern harbor illustrations.",
+        "South Shore Cultural Center is a small estate/campus within a coastal lawn and golf landscape; neighborhood city blocks lie immediately west.",
+        "Recent construction footprint west of the Jackson Park lagoons differs from the older 2019 survey; use current map geometry and recent Cook imagery here."
+      ]
+    }
+  ],
+  "rendering_corrections": [
+    "Remove random forest stamps distributed continuously by shoreline Y; place canopy only in real known green areas, retaining lawns, sports fields, sand and pavement.",
+    "Preserve enough city width west of the shoreline to show dense buildings, streets, rail and Lake Shore Drive; avoid the left-edge washout erasing the urban landscape.",
+    "Anchor each attraction at its exact coordinate with a small marker and optionally a thin leader to its illustration; scale pictorial art so it does not conceal adjacent attractions or imply a kilometer-wide building.",
+    "Use actual harbor and pier geometry as the main depiction, not repeated generic harbor pictures.",
+    "Place Lake Michigan text east of the local shoreline at the label's Y, not at a fixed global X; include text width in the offshore clearance check.",
+    "North is up and east/lake is right; the shoreline's longitude changes substantially down the route, so camera and label placement must follow it."
+  ],
+  "comparison_of_surveys": [
+    "The major shoreline, beach, harbor, street-grid and landmark relationships are consistent between the 2019 USGS and newer Cook County panels.",
+    "The newer Cook County panel shows a major construction footprint west of the Jackson Park lagoons, replacing open grounds visible in 2019. Do not recreate the older lawn footprint as a current feature.",
+    "The newer Cook County survey is substantially leaf-off. Reduced visible canopy relative to the summer 2019 survey should not be interpreted as tree removal. Use 2019 leaf-on imagery for canopy/lawn distinction and newer imagery for built footprints.",
+    "Beach width and exposed sand differ between surveys; preserve mapped current shoreline geometry rather than tracing transient waterline color from a single aerial date.",
+    "White rectangles over Lake Michigan in Cook imagery and black offshore gaps in portions of USGS imagery indicate no-data coverage gaps, not geography."
+  ]
+}

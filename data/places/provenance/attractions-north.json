@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "theater-on-the-lake",
+    "name": "Theater on the Lake",
+    "lat": 41.9270834,
+    "lon": -87.6306705,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "On the trail",
+    "description": "A Prairie-style lakefront building at Fullerton, with a terrace looking out across Lake Michigan.",
+    "fact": "Dwight Perkins designed the building; the Park District converted it into a theater in 1953.",
+    "practical": "Check the venue’s current performance and restaurant information before planning an indoor visit.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/theatre-lake",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/theatre-lake"
+    ],
+    "related": [
+      "north-avenue-beach",
+      "peggy-notebaert-nature-museum"
+    ],
+    "coordinateSource": "OpenStreetMap way/23989552; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Theatre on the Lake",
+      "Lakefront Restaurant"
+    ]
+  },
+  {
+    "id": "lincoln-park-conservatory",
+    "name": "Lincoln Park Conservatory",
+    "lat": 41.9244017,
+    "lon": -87.6347993,
+    "category": "nature",
+    "subtype": "conservatory",
+    "access": "Nearby detour",
+    "description": "Step under glass into palms, ferns and changing flower displays in the middle of Lincoln Park.",
+    "fact": "The conservatory was built in stages from 1890 to 1895 and contains four display houses.",
+    "practical": "Check current reservations and opening hours before visiting the indoor gardens.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-conservatory",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-conservatory"
+    ],
+    "related": [
+      "caldwell-lily-pool",
+      "grandmothers-garden",
+      "eli-bates-fountain"
+    ],
+    "coordinateSource": "OpenStreetMap way/23986733; building footprint center; reviewed 2026-11-18"
+  },
+  {
+    "id": "peggy-notebaert-nature-museum",
+    "name": "Peggy Notebaert Nature Museum",
+    "lat": 41.9267245,
+    "lon": -87.6352308,
+    "category": "landmark",
+    "subtype": "museum",
+    "access": "Nearby detour",
+    "description": "A nature and science stop beside the park’s ponds, with exhibits connecting Chicago to the living world around it.",
+    "fact": "The museum is part of the Chicago Academy of Sciences and combines public exhibits with conservation research.",
+    "practical": "Check current admission, exhibits and hours on the museum’s website.",
+    "officialUrl": "https://naturemuseum.org/",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://naturemuseum.org/",
+      "https://www.chicagoparkdistrict.com/parks-facilities/peggy-notebaert-nature-museum"
+    ],
+    "related": [
+      "north-pond",
+      "theater-on-the-lake"
+    ],
+    "coordinateSource": "OpenStreetMap way/23986958; building footprint center; reviewed 2026-11-18"
+  },
+  {
+    "id": "nature-boardwalk",
+    "name": "South Pond · Nature Boardwalk",
+    "lat": 41.9182184,
+    "lon": -87.6331069,
+    "category": "nature",
+    "subtype": "natural-area",
+    "access": "Nearby detour",
+    "description": "A boardwalk circuit through prairie and wetland planting, with the city skyline reflected in South Pond.",
+    "fact": "Lincoln Park Zoo opened the restored Nature Boardwalk habitat in 2010.",
+    "practical": "Follow the boardwalk and park paths; keep wildlife and shoreline planting undisturbed.",
+    "officialUrl": "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-south-pond-natural-area"
+    ],
+    "related": [
+      "lincoln-park-zoo",
+      "peoples-gas-pavilion",
+      "cafe-brauer"
+    ],
+    "coordinateSource": "OpenStreetMap way/758462743; named boardwalk bridge midpoint; reviewed 2026-11-18",
+    "aliases": [
+      "South Pond",
+      "Nature Boardwalk",
+      "Lester E. Fisher Bridge"
+    ]
+  },
+  {
+    "id": "cafe-brauer",
+    "name": "Café Brauer",
+    "lat": 41.9191125,
+    "lon": -87.6338995,
+    "category": "landmark",
+    "subtype": "architecture venue",
+    "access": "Nearby detour",
+    "description": "A richly detailed Prairie-style building overlooking South Pond, with brick, tile and tall windows.",
+    "fact": "Dwight Perkins designed the 1908 South Pond Refectory, now commonly called Café Brauer.",
+    "practical": "Enjoy the exterior from the pond paths; indoor access depends on events and venue operations.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/cafe-brauer-cermanic-tile-murals-artwork",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/cafe-brauer-cermanic-tile-murals-artwork",
+      "https://www.lpzoo.org/private-events/"
+    ],
+    "related": [
+      "nature-boardwalk",
+      "lincoln-park-zoo"
+    ],
+    "coordinateSource": "OpenStreetMap way/24826112; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Cafe Brauer",
+      "South Pond Refectory"
+    ]
+  },
+  {
+    "id": "standing-lincoln",
+    "name": "Abraham Lincoln: The Man",
+    "lat": 41.9126287,
+    "lon": -87.6302569,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A thoughtful standing Lincoln in a landscaped setting beside the Chicago History Museum.",
+    "fact": "Augustus Saint-Gaudens created this Lincoln monument, installed in Lincoln Park in 1887.",
+    "practical": "Approach on the park paths east of the museum and leave the monument’s base clear.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-man-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-man-monument"
+    ],
+    "related": [
+      "chicago-history-museum",
+      "couch-tomb",
+      "fountain-girl"
+    ],
+    "coordinateSource": "OpenStreetMap way/1428865096; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Standing Lincoln",
+      "Abraham Lincoln statue",
+      "Lincoln Monument"
+    ]
+  },
+  {
+    "id": "couch-tomb",
+    "name": "Couch Tomb",
+    "lat": 41.9129277,
+    "lon": -87.6314229,
+    "category": "landmark",
+    "subtype": "historic-site",
+    "access": "Nearby detour",
+    "description": "A small stone mausoleum offers an unexpected reminder of what this park once was.",
+    "fact": "The 1858 tomb is the last above-ground reminder of Lincoln Park’s former public cemetery.",
+    "practical": "View the tomb from outside its ornamental fence.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/couch-tomb-artwork",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/couch-tomb-artwork"
+    ],
+    "related": [
+      "chicago-history-museum",
+      "chicago-fire-relic",
+      "standing-lincoln"
+    ],
+    "coordinateSource": "OpenStreetMap way/1398715844; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Ira Couch Tomb"
+    ]
+  },
+  {
+    "id": "grant-monument",
+    "name": "Ulysses S. Grant Monument",
+    "lat": 41.9175454,
+    "lon": -87.6308243,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze rider rises above a broad stone arch near the park’s southern lagoon.",
+    "fact": "Louis T. Rebisso’s equestrian Grant monument was dedicated in 1891.",
+    "practical": "Use the surrounding park paths to see both the sculpture and its arched base.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/ulysses-s-grant-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/ulysses-s-grant-monument"
+    ],
+    "related": [
+      "nature-boardwalk",
+      "north-avenue-beach"
+    ],
+    "coordinateSource": "OpenStreetMap way/210686228; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Grant statue",
+      "Grant Memorial"
+    ]
+  },
+  {
+    "id": "goethe-monument",
+    "name": "Goethe Monument",
+    "lat": 41.9326031,
+    "lon": -87.6386173,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "An enormous figure and eagle stand in a garden setting near Diversey and Stockton.",
+    "fact": "Herman Hahn’s 1913 monument represents Goethe’s creative spirit rather than a literal portrait of the writer.",
+    "practical": "Walk in from the neighboring park paths to inspect the figure and relief panels.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/johann-wolfgang-von-goethe-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/johann-wolfgang-von-goethe-monument"
+    ],
+    "related": [
+      "hamilton-monument",
+      "altgeld-monument",
+      "north-pond"
+    ],
+    "coordinateSource": "OpenStreetMap node/589510009; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Johann Wolfgang von Goethe Monument",
+      "Goethe statue"
+    ]
+  },
+  {
+    "id": "schiller-monument",
+    "name": "Schiller Monument",
+    "lat": 41.922011,
+    "lon": -87.6351902,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A standing bronze poet marks the southern approach to the conservatory’s formal garden.",
+    "fact": "Chicago’s German community helped fund this Schiller monument, unveiled in 1886.",
+    "practical": "Combine a stop here with the nearby fountain and conservatory gardens.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/johann-christoph-friedrich-von-schiller-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/johann-christoph-friedrich-von-schiller-monument"
+    ],
+    "related": [
+      "eli-bates-fountain",
+      "lincoln-park-conservatory"
+    ],
+    "coordinateSource": "OpenStreetMap way/210686587; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Johann Christoph Friedrich von Schiller Monument",
+      "Friedrich Schiller",
+      "Schiller statue"
+    ]
+  },
+  {
+    "id": "shakespeare-monument",
+    "name": "William Shakespeare Monument",
+    "lat": 41.9238241,
+    "lon": -87.6362139,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A seated Shakespeare looks across the garden paths near Stockton Drive.",
+    "fact": "William Ordway Partridge’s bronze sculpture was unveiled in Lincoln Park in 1894.",
+    "practical": "Look for the monument beside Grandmother’s Garden; this is separate from the Shakespeare bust on Navy Pier.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/william-shakespeare-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/william-shakespeare-monument"
+    ],
+    "related": [
+      "grandmothers-garden",
+      "lincoln-park-conservatory"
+    ],
+    "coordinateSource": "OpenStreetMap way/316772307; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Shakespeare statue"
+    ]
+  },
+  {
+    "id": "hamilton-monument",
+    "name": "Alexander Hamilton Monument",
+    "lat": 41.931713,
+    "lon": -87.6384365,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A tall standing bronze surrounded by planting, just south of Diversey Parkway.",
+    "fact": "Kate Sturges Buckingham commissioned John Angel’s statue of Alexander Hamilton for Lincoln Park.",
+    "practical": "Approach through the park paths around the garden and read the monument’s inscriptions.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/alexander-hamilton-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/alexander-hamilton-monument"
+    ],
+    "related": [
+      "goethe-monument",
+      "altgeld-monument",
+      "north-pond"
+    ],
+    "coordinateSource": "OpenStreetMap way/1433718663; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Hamilton statue",
+      "Hamilton Garden"
+    ]
+  },
+  {
+    "id": "franklin-monument",
+    "name": "Benjamin Franklin Monument",
+    "lat": 41.913803,
+    "lon": -87.6310961,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze Franklin stands within a circular lawn in the southern part of Lincoln Park.",
+    "fact": "Richard Henry Park created this monument with support from newspaper publisher Joseph Medill and Chicago printers.",
+    "practical": "Reach the circular setting from nearby park paths, north of the Chicago History Museum.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument"
+    ],
+    "related": [
+      "couch-tomb",
+      "lasalle-monument",
+      "chicago-history-museum"
+    ],
+    "coordinateSource": "OpenStreetMap way/608421763; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Benjamin Franklin statue"
+    ]
+  },
+  {
+    "id": "andersen-monument",
+    "name": "Hans Christian Andersen Monument",
+    "lat": 41.9196016,
+    "lon": -87.634664,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A storyteller in bronze brings a literary pause to the paths west of the zoo.",
+    "fact": "Johannes Gelert’s monument to the Danish author was installed in 1896.",
+    "practical": "Use the park path near Stockton Drive; leave space for people continuing toward the zoo.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/hans-christian-andersen-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/hans-christian-andersen-monument"
+    ],
+    "related": [
+      "cafe-brauer",
+      "lincoln-park-zoo"
+    ],
+    "coordinateSource": "OpenStreetMap node/3229514445; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Hans Christian Andersen statue",
+      "Andersen statue"
+    ]
+  },
+  {
+    "id": "lasalle-monument",
+    "name": "Robert Cavelier de La Salle Monument",
+    "lat": 41.9133732,
+    "lon": -87.6327488,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze explorer stands near Clark Street at the southwest edge of Lincoln Park.",
+    "fact": "Belgian sculptor Count Jacques de La Laing cast the monument in Belgium before it was shipped to Chicago.",
+    "practical": "Approach from the park side using established crossings at nearby streets.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/robert-cavelier-de-lasalle-monument",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/robert-cavelier-de-lasalle-monument"
+    ],
+    "related": [
+      "franklin-monument",
+      "couch-tomb",
+      "chicago-history-museum"
+    ],
+    "coordinateSource": "OpenStreetMap way/1396668783; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "LaSalle Monument",
+      "La Salle statue",
+      "Robert Cavalier de LaSalle"
+    ]
+  },
+  {
+    "id": "altgeld-monument",
+    "name": "John Peter Altgeld Monument",
+    "lat": 41.9321934,
+    "lon": -87.63753,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A sculptural tribute to an Illinois governor among the paths near North Pond.",
+    "fact": "Gutzon Borglum created the Altgeld monument, installed in 1915.",
+    "practical": "Follow the park paths south of Diversey Parkway to the sculpture.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/john-peter-altgeld-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/john-peter-altgeld-monument"
+    ],
+    "related": [
+      "goethe-monument",
+      "hamilton-monument",
+      "oglesby-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/1433718665; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Altgeld statue",
+      "John Peter Altgeld Momument"
+    ]
+  },
+  {
+    "id": "oglesby-monument",
+    "name": "Richard Oglesby Monument",
+    "lat": 41.9301485,
+    "lon": -87.6370807,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A standing bronze on a gentle rise east of North Pond, with space to look back across the park.",
+    "fact": "Leonard Crunelle’s 1919 sculpture stands on Mount Prospect, a manmade hill in Lincoln Park.",
+    "practical": "Approach on park paths; the monument’s setting rises above the surrounding lawn.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/richard-oglesby-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/richard-oglesby-monument"
+    ],
+    "related": [
+      "north-pond",
+      "altgeld-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/1433718651; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Oglesby statue",
+      "Mount Prospect"
+    ]
+  },
+  {
+    "id": "sheridan-monument",
+    "name": "General Philip Sheridan Monument",
+    "lat": 41.9404649,
+    "lon": -87.6392416,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "An equestrian bronze marks the park edge at Belmont Avenue.",
+    "fact": "Gutzon Borglum’s Sheridan monument was installed here in 1923.",
+    "practical": "Use marked crossings and the park-side paths around Belmont and DuSable Lake Shore Drive.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/general-philip-henry-sheridan-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/general-philip-henry-sheridan-monument"
+    ],
+    "related": [
+      "belmont-harbor",
+      "aids-garden"
+    ],
+    "coordinateSource": "OpenStreetMap way/1288462337; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "General Philip Henry Sheridan Monument",
+      "Sheridan statue"
+    ]
+  },
+  {
+    "id": "greene-vardiman-black",
+    "name": "Greene Vardiman Black Memorial",
+    "lat": 41.9113982,
+    "lon": -87.6276843,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A seated bronze figure with a book occupies a quieter corner near North Avenue.",
+    "fact": "The National Dental Association donated Frederick Cleveland Hibbard’s 1918 memorial to dentist G. V. Black.",
+    "practical": "Reach the memorial by the park paths west of DuSable Lake Shore Drive.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/greene-vardiman-black-memorial",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/greene-vardiman-black-memorial"
+    ],
+    "related": [
+      "standing-lincoln",
+      "chess-pavilion",
+      "north-avenue-beach-house"
+    ],
+    "coordinateSource": "OpenStreetMap way/1398715934; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "G. V. Black Memorial",
+      "Black statue"
+    ]
+  },
+  {
+    "id": "swedenborg-monument",
+    "name": "Emanuel Swedenborg Monument",
+    "lat": 41.9314708,
+    "lon": -87.6316845,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A small portrait monument near the lakefront recalls the Swedish scientist and religious thinker.",
+    "fact": "The original monument was installed in 1924; its missing bust was recreated in 2012.",
+    "practical": "Find it along the park paths east of the harbor area, and keep the adjacent trail clear.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/emanuel-swedenborg-monument",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/emanuel-swedenborg-monument"
+    ],
+    "related": [
+      "signal-of-peace",
+      "diversey-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554719291; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Swedenborg bust",
+      "Swedenborg statue"
+    ]
+  },
+  {
+    "id": "jose-rizal-monument",
+    "name": "Dr. José Rizal Monument",
+    "lat": 41.9671409,
+    "lon": -87.6482031,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze memorial beside Marine Drive honors the Filipino writer, physician and independence figure.",
+    "fact": "Antonio T. Mondejar’s Chicago sculpture was unveiled in 1999 as a replica of his monument in Dapitan, Philippines.",
+    "practical": "This is west of DuSable Lake Shore Drive near Leland Avenue; use park paths and marked crossings.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/dr-jose-rizal-monument",
+    "region": 0,
+    "regionName": "Edgewater & Montrose",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/dr-jose-rizal-monument"
+    ],
+    "related": [
+      "montrose-beach",
+      "foster-beach"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554723291; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Jose Rizal",
+      "Doctor José Rizal Monument",
+      "Rizal statue"
+    ]
+  },
+  {
+    "id": "the-alarm",
+    "name": "The Alarm",
+    "lat": 41.9362619,
+    "lon": -87.6325293,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A detailed bronze family group beside the lakefront rewards a closer look at its figures and reliefs.",
+    "fact": "John J. Boyle created the sculpture, and it was moved to its current lakefront setting in 1974.",
+    "practical": "Use the linked Park District history for context while looking at the sculpture.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/alarm-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/alarm-artwork"
+    ],
+    "related": [
+      "signal-of-peace",
+      "diversey-natural-area"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554716802; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "The Alarm sculpture",
+      "The Alarm monument"
+    ]
+  },
+  {
+    "id": "signal-of-peace",
+    "name": "A Signal of Peace",
+    "lat": 41.9331913,
+    "lon": -87.6314027,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze rider holding a feathered staff stands in the lakeside park near Diversey.",
+    "fact": "Cyrus Edwin Dallin’s sculpture appeared at the 1893 World’s Columbian Exposition before moving to Lincoln Park.",
+    "practical": "View the rider and pedestal from the adjoining park paths.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/signal-peace-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/signal-peace-artwork"
+    ],
+    "related": [
+      "the-alarm",
+      "swedenborg-monument",
+      "diversey-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap node/667225235; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Signal of Peace",
+      "Signal of Peace statue"
+    ]
+  },
+  {
+    "id": "diversey-natural-area",
+    "name": "Diversey Natural Area",
+    "lat": 41.9371841,
+    "lon": -87.6353075,
+    "category": "nature",
+    "subtype": "natural-area",
+    "access": "Nearby detour",
+    "description": "Native grasses and wetland plants fill a pocket of habitat just north of Diversey Harbor.",
+    "fact": "The Park District converted this often-flooded lawn into prairie, savanna and wetland habitat that also retains stormwater.",
+    "practical": "Use the paved path along the west side and respect posted habitat boundaries.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area"
+    ],
+    "related": [
+      "diversey-harbor",
+      "the-alarm"
+    ],
+    "coordinateSource": "OpenStreetMap way/1159730456; area label point inside mapped boundary; reviewed 2026-11-18"
+  },
+  {
+    "id": "bill-jarvis-sanctuary",
+    "name": "Bill Jarvis Migratory Bird Sanctuary",
+    "lat": 41.9489063,
+    "lon": -87.640682,
+    "category": "nature",
+    "subtype": "natural-area",
+    "access": "Nearby detour",
+    "description": "A protected bird habitat between Belmont Harbor and the Waveland playing fields.",
+    "fact": "The sanctuary is one of the Park District sites where volunteers monitor purple martin nesting towers.",
+    "practical": "Use surrounding public paths and respect the sanctuary’s posted habitat boundaries.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+      "https://www.chicagoparkdistrict.com/community-science",
+      "https://assets.chicagoparkdistrict.com/s3fs-public/documents/stewardship/map-NAStewardship-11x17-20240618.pdf"
+    ],
+    "related": [
+      "belmont-harbor",
+      "waveland-clock-tower"
+    ],
+    "coordinateSource": "OpenStreetMap relation/19825133; interior label point in assembled sanctuary polygon; reviewed 2026-11-18",
+    "aliases": [
+      "Jarvis Bird Sanctuary",
+      "Bill Jarvis"
+    ]
+  },
+  {
+    "id": "waveland-clock-tower",
+    "name": "Waveland Clock Tower",
+    "lat": 41.9518818,
+    "lon": -87.6411055,
+    "category": "landmark",
+    "subtype": "architecture",
+    "access": "On the trail",
+    "description": "A distinctive clock tower gives the open north lakefront a recognizable meeting point.",
+    "fact": "The Park District’s Lincoln Park map locates the tower beside Sydney R. Marovitz Golf Course.",
+    "practical": "Meet on the public paths around the building; stay outside the active golf course.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/media/35311/download?inline=",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/media/35311/download?inline="
+    ],
+    "related": [
+      "bill-jarvis-sanctuary",
+      "peace-garden",
+      "montrose-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap way/53582240; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Waveland Clocktower",
+      "Clock Tower"
+    ]
+  },
+  {
+    "id": "peace-garden",
+    "name": "Lincoln Park Peace Garden",
+    "lat": 41.9586588,
+    "lon": -87.6455393,
+    "category": "nature",
+    "subtype": "garden",
+    "access": "Nearby detour",
+    "description": "A small garden of native plants offers a quiet break near the Buena Park lakefront.",
+    "fact": "The Park District, Greenpeace Great Lakes and Uptown residents renovated this former rock garden in the mid-1980s.",
+    "practical": "Explore on the garden paths without stepping into the native planting beds.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-peace-garden",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-peace-garden"
+    ],
+    "related": [
+      "waveland-clock-tower",
+      "montrose-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap way/1387134566; area label point inside mapped boundary; reviewed 2026-11-18",
+    "aliases": [
+      "Peace Garden"
+    ]
+  },
+  {
+    "id": "montrose-beach-dunes",
+    "name": "Montrose Beach Dunes",
+    "lat": 41.9656122,
+    "lon": -87.6333271,
+    "category": "nature",
+    "subtype": "natural-area",
+    "access": "Nearby detour",
+    "description": "Dunes and low wetland habitat occupy the eastern end of Montrose Beach, beyond the open recreational sand.",
+    "fact": "The Park District stopped grooming this area in 2001, allowing dune and rare panne habitat to develop.",
+    "practical": "Follow posted protection zones; the paths are sandy, with paved viewing routes along the south edge and pier.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area"
+    ],
+    "related": [
+      "montrose-beach",
+      "montrose-point"
+    ],
+    "coordinateSource": "OpenStreetMap way/238689193; area label point inside mapped boundary; reviewed 2026-11-18",
+    "aliases": [
+      "Montrose Beach Dunes Natural Area"
+    ]
+  },
+  {
+    "id": "chess-pavilion",
+    "name": "Chess Pavilion",
+    "lat": 41.911312,
+    "lon": -87.6250015,
+    "category": "landmark",
+    "subtype": "architecture public art",
+    "access": "On the trail",
+    "description": "Chess boards and carved pieces sit beneath a wing-like lakeside shelter near North Avenue.",
+    "fact": "The 1957 pavilion combines architect Maurice Webster’s design with sculptural work by Boris Gilbertson.",
+    "practical": "Bring a chess set if you want to play, and keep the neighboring trail open for passing walkers and cyclists.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chess-pavilion-artwork",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/chess-pavilion-artwork"
+    ],
+    "related": [
+      "north-avenue-beach",
+      "north-avenue-beach-house",
+      "oak-street-beach"
+    ],
+    "coordinateSource": "OpenStreetMap way/210686258; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Lincoln Park Chess Pavilion",
+      "North Avenue Chess Pavilion"
+    ]
+  },
+  {
+    "id": "eli-bates-fountain",
+    "name": "Eli Bates Fountain",
+    "lat": 41.9227619,
+    "lon": -87.6352143,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "Playful bronze birds and fountain figures form the centerpiece of the formal conservatory garden.",
+    "fact": "Augustus Saint-Gaudens and Frederick MacMonnies collaborated on this 1887 fountain, also called Storks at Play.",
+    "practical": "View the sculpture from the formal garden paths south of the conservatory.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/eli-bates-fountain",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/eli-bates-fountain"
+    ],
+    "related": [
+      "lincoln-park-conservatory",
+      "schiller-monument",
+      "grandmothers-garden"
+    ],
+    "coordinateSource": "OpenStreetMap way/210686594; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Storks at Play",
+      "Bates Fountain"
+    ]
+  },
+  {
+    "id": "fountain-girl",
+    "name": "Fountain Girl",
+    "lat": 41.912163,
+    "lon": -87.6294241,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "A small bronze girl and basin bring an intimate scale to the park near the Chicago History Museum.",
+    "fact": "George Wade designed the figure for a temperance fountain displayed at the 1893 World’s Columbian Exposition.",
+    "practical": "Look for the figure just south of LaSalle Drive, east of the Chicago History Museum.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-girl-artwork",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/fountain-girl-artwork"
+    ],
+    "related": [
+      "standing-lincoln",
+      "chicago-history-museum"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554705512; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "Little Cold Water Girl",
+      "Frances Willard Fountain",
+      "Standing Girl"
+    ]
+  },
+  {
+    "id": "grandmothers-garden",
+    "name": "Grandmother’s Garden",
+    "lat": 41.922954,
+    "lon": -87.6362668,
+    "category": "nature",
+    "subtype": "garden",
+    "access": "Nearby detour",
+    "description": "A long garden border along Stockton Drive invites a slower walk beside the conservatory grounds.",
+    "fact": "The Park District identifies this garden at Stockton Drive and Webster Avenue, extending across three blocks.",
+    "practical": "Stay on the garden paths and allow room for other visitors stopping to look at the planting.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden"
+    ],
+    "related": [
+      "shakespeare-monument",
+      "lincoln-park-conservatory",
+      "eli-bates-fountain"
+    ],
+    "coordinateSource": "OpenStreetMap relation/19585859; interior label point in largest garden polygon; reviewed 2026-11-18",
+    "aliases": [
+      "Grandmother's Garden"
+    ]
+  },
+  {
+    "id": "aids-garden",
+    "name": "AIDS Garden Chicago",
+    "lat": 41.9389641,
+    "lon": -87.6347622,
+    "category": "nature",
+    "subtype": "garden public art",
+    "access": "On the trail",
+    "description": "A lakefront garden of remembrance south of Belmont Harbor, marked by Keith Haring’s vivid green Self-Portrait.",
+    "fact": "The garden occupies the former Belmont Rocks gathering place and honors those affected by Chicago’s HIV epidemic.",
+    "practical": "Walk through the garden on its paths and give people space for quiet reflection.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-aids-garden-chicago",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-aids-garden-chicago",
+      "https://www.chicagoparkdistrict.com/parks-facilities/self-portrait-artwork"
+    ],
+    "related": [
+      "belmont-harbor",
+      "sheridan-monument"
+    ],
+    "coordinateSource": "OpenStreetMap node/11948584298; mapped feature point; reviewed 2026-11-18",
+    "aliases": [
+      "AIDS Garden",
+      "Belmont Rocks",
+      "Keith Haring",
+      "Self-Portrait",
+      "Self Portrait"
+    ]
+  },
+  {
+    "id": "chicago-fire-relic",
+    "name": "Chicago Fire Relic",
+    "lat": 41.9129422,
+    "lon": -87.6323251,
+    "category": "landmark",
+    "subtype": "historic-site",
+    "access": "Nearby detour",
+    "description": "A fused mass of metal, brick and stone makes the force of the Great Chicago Fire tangible.",
+    "fact": "Workers found the relic in 1890 while excavating the site of a new Masonic Temple at State and Randolph.",
+    "practical": "Find it outdoors near the Chicago History Museum’s Jaffee History Trail.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+      "https://www.chicagohistory.org/exhibition/jaffee-history-trail/"
+    ],
+    "related": [
+      "couch-tomb",
+      "chicago-history-museum"
+    ],
+    "coordinateSource": "OpenStreetMap way/1398715857; artwork footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Great Chicago Fire Relic",
+      "Jaffee History Trail"
+    ]
+  },
+  {
+    "id": "peoples-gas-pavilion",
+    "name": "Peoples Gas Education Pavilion",
+    "lat": 41.9178353,
+    "lon": -87.6323666,
+    "category": "landmark",
+    "subtype": "architecture education venue",
+    "access": "Nearby detour",
+    "description": "A curved, open lattice shelter frames the skyline beside South Pond.",
+    "fact": "Studio Gang designed the pavilion as part of Lincoln Park Zoo’s Nature Boardwalk.",
+    "practical": "Follow Nature Boardwalk to the pavilion; it may be in use for classes or private events.",
+    "officialUrl": "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+      "https://www.lpzoo.org/private-events/"
+    ],
+    "related": [
+      "nature-boardwalk",
+      "cafe-brauer"
+    ],
+    "coordinateSource": "OpenStreetMap way/186667195; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "People's Gas Educational Pavilion",
+      "Honeycomb Pavilion",
+      "Studio Gang Pavilion"
+    ]
+  },
+  {
+    "id": "olive-park",
+    "name": "Milton Lee Olive Park",
+    "lat": 41.8943773,
+    "lon": -87.6104169,
+    "category": "nature",
+    "subtype": "park",
+    "access": "Nearby detour",
+    "description": "Lakeside lawns and paths north of Navy Pier offer a broad view back toward Chicago’s towers.",
+    "fact": "The park is named in honor of Milton Lee Olive, a Chicago-born Medal of Honor recipient.",
+    "practical": "Enter from the Ohio Street Beach side and check posted gate hours.",
+    "officialUrl": "https://www.choosechicago.com/listing/olive-park/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://www.choosechicago.com/listing/olive-park/"
+    ],
+    "related": [
+      "ohio-street-beach",
+      "navy-pier"
+    ],
+    "coordinateSource": "OpenStreetMap way/211039472; area label point inside mapped boundary; reviewed 2026-11-18",
+    "aliases": [
+      "Olive Park",
+      "PFC Milton Lee Olive III Park"
+    ]
+  },
+  {
+    "id": "polk-bros-park",
+    "name": "Polk Bros Park",
+    "lat": 41.8910077,
+    "lon": -87.6110143,
+    "category": "nature",
+    "subtype": "park",
+    "access": "On the trail",
+    "description": "Lawns, paths and a fountain form Navy Pier’s green front door.",
+    "fact": "This 13-acre public space includes outdoor performance lawns and was transformed through the Polk family’s 2014 gift.",
+    "practical": "Check Navy Pier’s current program and fountain information when planning a visit.",
+    "officialUrl": "https://navypier.org/pier-locations/polk-bros-park/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://navypier.org/pier-locations/polk-bros-park/"
+    ],
+    "related": [
+      "navy-pier",
+      "chicago-shakespeare-theater",
+      "ohio-street-beach"
+    ],
+    "coordinateSource": "OpenStreetMap way/273203457; area label point inside mapped boundary; reviewed 2026-11-18",
+    "aliases": [
+      "Polk Brothers Park",
+      "Gateway Park"
+    ]
+  },
+  {
+    "id": "chicago-shakespeare-theater",
+    "name": "Chicago Shakespeare Theater",
+    "lat": 41.8913149,
+    "lon": -87.6057335,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "Nearby detour",
+    "description": "A working theater on Navy Pier adds an evening destination to the lakefront walk.",
+    "fact": "The company’s Navy Pier address is 800 East Grand Avenue, with Shakespeare and other productions on its stages.",
+    "practical": "Check performance times, ticket availability and accessibility information before visiting.",
+    "officialUrl": "https://www.chicagoshakes.com/",
+    "region": 4,
+    "regionName": "Streeterville & Navy Pier",
+    "sourceUrls": [
+      "https://www.chicagoshakes.com/"
+    ],
+    "related": [
+      "navy-pier",
+      "polk-bros-park"
+    ],
+    "coordinateSource": "OpenStreetMap way/753474606; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Chicago Shakespeare Theatre",
+      "CST"
+    ]
+  },
+  {
+    "id": "chicago-history-museum",
+    "name": "Chicago History Museum",
+    "lat": 41.9120055,
+    "lon": -87.6315215,
+    "category": "landmark",
+    "subtype": "museum",
+    "access": "Nearby detour",
+    "description": "A red-brick museum at the south end of Lincoln Park explores the city behind the skyline.",
+    "fact": "The museum’s building at Clark Street and North Avenue opened in 1932.",
+    "practical": "Check current admission and hours; the outdoor history trail is a separate way to explore the grounds.",
+    "officialUrl": "https://www.chicagohistory.org/about-us/museum-history/",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagohistory.org/about-us/museum-history/",
+      "https://www.chicagohistory.org/contact/",
+      "https://www.chicagohistory.org/exhibition/jaffee-history-trail/"
+    ],
+    "related": [
+      "couch-tomb",
+      "standing-lincoln",
+      "chicago-fire-relic"
+    ],
+    "coordinateSource": "OpenStreetMap way/23987046; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "Chicago Historical Society"
+    ]
+  },
+  {
+    "id": "north-avenue-beach-house",
+    "name": "North Avenue Beach House",
+    "lat": 41.9134844,
+    "lon": -87.6241902,
+    "category": "landmark",
+    "subtype": "architecture",
+    "access": "On the trail",
+    "description": "A blue-and-white building shaped like an ocean liner appears permanently docked beside the sand.",
+    "fact": "The present beach house was dedicated in 2000 and echoes the ship-like design of the earlier 1940 building.",
+    "practical": "Check seasonal beach-house facilities and concessions before relying on them during a visit.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach-house",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach-house",
+      "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach"
+    ],
+    "related": [
+      "north-avenue-beach",
+      "chess-pavilion"
+    ],
+    "coordinateSource": "OpenStreetMap way/417380833; building footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "North Avenue Boathouse",
+      "Castaways Beach House"
+    ]
+  },
+  {
+    "id": "kwa-ma-rolas",
+    "name": "Kwa-Ma-Rolas · Kwanusila",
+    "lat": 41.9489802,
+    "lon": -87.6424356,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A carved cedar totem pole stands beside the park paths west of the Bill Jarvis bird sanctuary.",
+    "fact": "Tony Hunt carved the replica after the original pole was returned to British Columbia.",
+    "practical": "View the pole from the neighboring park paths east of DuSable Lake Shore Drive.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/kwa-ma-rolas-artwork",
+    "region": 1,
+    "regionName": "Harbors of Lincoln Park",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/kwa-ma-rolas-artwork"
+    ],
+    "related": [
+      "bill-jarvis-sanctuary",
+      "waveland-clock-tower"
+    ],
+    "coordinateSource": "OpenStreetMap node/589512469; mapped sculpture point; reviewed 2026-11-18",
+    "aliases": [
+      "Kwanusila",
+      "Kwa Ma Rolas",
+      "Lincoln Park Totem Pole",
+      "Tony Hunt"
+    ]
+  },
+  {
+    "id": "eugene-field-memorial",
+    "name": "Eugene Field Memorial",
+    "lat": 41.9211449,
+    "lon": -87.6321326,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze dream lady hovers over sleeping children in a memorial inspired by Eugene Field’s poems.",
+    "fact": "Edward McCartan’s memorial was installed in 1922; scenes and lines from Field’s writing appear on its stone base.",
+    "practical": "Look northeast of the Helen Brach Primate House inside Lincoln Park Zoo; check the zoo’s current visiting hours.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-eugene-field-memorial",
+    "region": 2,
+    "regionName": "Lincoln Park & North Avenue",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-eugene-field-memorial"
+    ],
+    "related": [
+      "lincoln-park-zoo",
+      "andersen-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/210686593; sculpture footprint center; reviewed 2026-11-18",
+    "aliases": [
+      "The Dream Lady",
+      "Dream Lady",
+      "Eugene Field"
+    ]
+  }
+]

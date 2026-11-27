@@ -1,0 +1,40 @@
+name: Validate website
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: check-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        node: [20, 22, 24]
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm ci --ignore-scripts --offline
+      - run: npm run check
+      - run: npm test
+      - name: Python syntax (no downloads or cache writes)
+        run: python3 -c "import ast,pathlib; [ast.parse(p.read_text()) for p in pathlib.Path('scripts').rglob('*.py')]"
+      - run: npm run check:publication
+      - name: Verify clean allowlisted export
+        shell: bash
+        run: |
+          candidate_dir="$RUNNER_TEMP/lakefront-source"
+          npm run export -- "$candidate_dir"
+          cd "$candidate_dir"
+          npm ci --ignore-scripts --offline
+          npm run check
+          npm test
+      - name: Validation leaves the committed website unchanged
+        run: git diff --exit-code -- public data scripts

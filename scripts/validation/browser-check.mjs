@@ -1,0 +1,38 @@
+const base=process.env.LAKEFRONT_TEST_URL||'http://127.0.0.1:4179';
+import {execFileSync} from 'node:child_process';import assert from 'node:assert/strict';import fs from 'node:fs';
+fs.mkdirSync('.cache/reports',{recursive:true});
+const session='lakefront-check';const report=[];const placeCount=JSON.parse(fs.readFileSync('data/places/places.json')).length;const photoCount=Object.keys(JSON.parse(fs.readFileSync('data/photos/photos.json'))).length;
+function b(...args){const r=JSON.parse(execFileSync('agent-browser',['--session',session,'--json',...args],{encoding:'utf8',timeout:60000}));assert(r.success,JSON.stringify(r));return r.data}
+const ev=code=>b('eval',code).result;
+const visibleTiles="[...document.querySelectorAll('.map-tile')].filter(e=>{const r=e.getBoundingClientRect();return r.right>0&&r.left<document.documentElement.clientWidth&&r.bottom>80&&r.top<innerHeight}).every(e=>e.dataset.loaded==='true')";
+try{
+b('set','media','light','reduced-motion');
+for(const [w,h] of [[1440,1000],[390,844],[320,740]]){
+ console.log('Checking viewport',w,h);b('set','viewport',String(w),String(h));b('open',base+'/');b('wait','--fn',"document.querySelector('#atlas')?.dataset.ready==='true'");b('wait','--fn',visibleTiles);
+ const openingY=ev('scrollY'),mobileControls=ev("matchMedia('(max-width:700px), (hover:none) and (pointer:coarse)').matches");
+ assert.equal(ev('document.querySelector(".overview").getClientRects().length>0'),!mobileControls,'Trail overview is desktop-only');
+ if(w===1440){
+  const initialPhotos=ev('[...performance.getEntriesByType("resource")].filter(r=>r.name.includes("/assets/photos/")).length');assert.equal(initialPhotos,0,"Map must not preload discovery photos");report.push({flow:"Map photo loading",status:"pass",initialPhotographRequests:initialPhotos});
+  // Inspect every card without issuing hundreds of browser-history navigations in one
+  // task. Normal user navigation and shareable URLs are tested below.
+  const result=ev(`(async()=>{const data=await fetch('/places-data.json').then(r=>r.json()),failures=[],push=history.pushState,replace=history.replaceState;history.pushState=()=>{};history.replaceState=()=>{};try{for(const p of data){document.querySelector('[data-place="'+p.id+'"]').click();const img=document.querySelector('#card-content img');if(p.photo?img?.getAttribute('src')!==p.photo.src:!!img)failures.push(p.id);document.querySelector('#place-card').close()}await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));return {checked:data.length,failures}}finally{history.pushState=push;history.replaceState=replace}})()`);
+  assert.equal(result.checked,placeCount);assert.deepEqual(result.failures,[]);report.push({flow:"Attraction card image identity",status:"pass",checkedPlaces:placeCount,verifiedPhotoCards:photoCount,locationHeaders:placeCount-photoCount});
+ }
+ assert.equal(ev('document.querySelectorAll("h1").length'),1);assert.equal(ev('document.querySelectorAll(".map-marker").length'),placeCount);assert(!ev('document.documentElement.scrollWidth>innerWidth'));assert.equal(ev('getComputedStyle(document.documentElement).scrollBehavior'),'auto');
+ ev(`history.pushState(null,'','/?place=theater-on-the-lake');dispatchEvent(new PopStateEvent('popstate'))`);assert.equal(ev('document.querySelector("#card-title").textContent'),'Theater on the Lake');assert(ev('document.querySelector(".card-location-source a").href.includes("openstreetmap.org/way/23989552")'));b('wait','--fn',"document.querySelector('.card-photo')?.complete && document.querySelector('.card-photo')?.naturalWidth>0");b('press','Escape');
+ ev(`history.pushState(null,'','/?place=bp-pedestrian-bridge');dispatchEvent(new PopStateEvent('popstate'))`);b('wait','--fn',"document.querySelector('.card-photo')?.complete && document.querySelector('.card-photo')?.naturalWidth>0");assert.equal(ev('document.querySelector("#card-title").textContent'),'BP Pedestrian Bridge');b('press','Escape');
+ b('click','#zoom-in');assert.equal(ev('document.querySelector("#zoom-level").textContent'),'1.5×');b('click','#zoom-out');
+ b('click','#filter-toggle');b('click','[data-filter="art"]');assert(ev('Number(document.querySelector("#filter-count").textContent)>40'));b('click','#filter-toggle');b('click','[data-filter="all"]');
+  ev(`history.pushState(null,'','/?place=promontory-point');dispatchEvent(new PopStateEvent('popstate'))`);b('wait','--fn',visibleTiles);assert.equal(ev('document.querySelector("#card-title").textContent'),'Promontory Point');assert(ev('location.search.includes("place=promontory-point")'));assert(ev('document.querySelector("#place-card").open'));
+ const pos=ev('scrollY');const card=ev('document.querySelector("#place-card").getBoundingClientRect().toJSON()');assert(card.left>=0&&card.right<=w);assert(ev(`document.querySelector('#place-card').matches(':modal')===matchMedia('(max-width:700px), (hover:none) and (pointer:coarse)').matches`),'Details use the expected responsive presentation');b('press','Escape');assert(!ev('document.querySelector("#place-card").open'));assert(Math.abs(ev('scrollY')-pos)<3,'closing card changed position');
+ b('click','#filter-toggle');b('click','[data-filter="beach"]');assert(ev('[...document.querySelectorAll(".map-marker:not(.hidden)")].every(e=>e.classList.contains("beach"))'));b('click','#filter-toggle');b('click','[data-filter="all"]');assert.equal(ev('document.querySelectorAll(".map-marker:not(.hidden)").length'),placeCount);
+ if(mobileControls)ev("scrollTo({top:document.documentElement.scrollHeight,behavior:'instant'})");else b('click','#south-jump');
+ b('wait','--fn',"document.querySelector('#progress-text').textContent==='JACKSON PARK & SOUTH SHORE'");b('wait','--fn','(()=>{const y=scrollY,still=window.__lastY===y;window.__lastY=y;return still})()');b('wait','--fn',visibleTiles);assert.equal(ev('document.querySelector("#progress-text").textContent'),'JACKSON PARK & SOUTH SHORE');
+ if(mobileControls)ev(`scrollTo({top:${openingY},behavior:'instant'})`);else{ev("scrollBy({top:-innerHeight,behavior:'instant'})");b('wait','--fn','!document.querySelector(".overview").inert');b('click','#north-jump')}
+ b('wait','--fn',`Math.abs(scrollY-${openingY})<2`);assert(Math.abs(ev('scrollY')-openingY)<2,'Returning north reaches the opening view');b('screenshot',`.cache/reports/lakefront-final-${w}.png`);
+ b('open',base+'/places/promontory-point/');assert(ev('document.querySelector("h1").textContent.includes("Promontory")'));assert(!ev('document.documentElement.scrollWidth>innerWidth'));b('click','.back-link');b('wait','--fn','document.querySelector("#place-card").open');assert.equal(ev('document.querySelector("#card-title").textContent'),'Promontory Point');
+ report.push({viewport:`${w}x${h}`,status:'pass',checks:['render','no horizontal overflow',`${placeCount} coordinate markers`,'lazy tiles','shareable place URL','responsive details and Escape','position preserved','category filter',mobileControls?'native scrolling without trail overview':'north/south trailhead controls','return from destination','reduced motion','Theater on the Lake link/source','zoom controls','art category filter']});
+}
+for(const route of ['/places/','/credits/']){b('open',base+route);assert(!ev('document.documentElement.scrollWidth>innerWidth'));assert.equal(ev('document.querySelectorAll("h1").length'),1);b('wait','--fn','[...document.images].filter(i=>i.getBoundingClientRect().top<innerHeight).every(i=>i.complete&&i.naturalWidth>0)');report.push({route,status:'pass'})}
+fs.writeFileSync('.cache/reports/browser-verification.json',JSON.stringify({tested:new Date().toISOString().slice(0,10),report},null,2));console.log(JSON.stringify(report,null,2));
+}finally{b('close')}

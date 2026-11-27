@@ -1,0 +1,28 @@
+[
+  {
+    "asset": "south-shore-v2",
+    "outputOriginal": "data/artwork/south-shore-v2.png",
+    "outputWeb": "public/assets/south-shore-v2.webp",
+    "referenceAuthor": "Zol87 from Chicago, IL, USA",
+    "referenceUrl": "https://commons.wikimedia.org/wiki/File:South_Shore_Cultural_Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "referenceFiles": [
+      "public/assets/photos/south-shore-cultural-center.webp"
+    ],
+    "modifications": "Architectural illustration adapted from the reference photograph, with background removed and details simplified."
+  },
+  {
+    "asset": "beach-house-v2",
+    "outputOriginal": "data/artwork/beach-house-v2.png",
+    "outputWeb": "public/assets/beach-house-v2.webp",
+    "referenceAuthor": "User:TonyTheTiger",
+    "referenceUrl": "https://commons.wikimedia.org/wiki/File:20070602_Jackson_Park_Beach_(6).JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "referenceFiles": [
+      "public/assets/photos/63rd-street-beach.webp"
+    ],
+    "modifications": "Architectural illustration adapted from the reference photograph, with background removed and details simplified."
+  }
+]

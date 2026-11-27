@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "federal-building-columns",
+    "name": "Federal Building Columns",
+    "lat": 41.8841912,
+    "lon": -87.6174201,
+    "category": "landmark",
+    "subtype": "architecture",
+    "access": "Nearby detour",
+    "description": "Two monumental columns mark the north entrance to the Cancer Survivors’ Garden beside Maggie Daley Park.",
+    "fact": "The columns were salvaged from Chicago’s 1905 Federal Building and installed here in 1996.",
+    "practical": "Approach from Randolph Street or the garden’s walking paths.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+      "https://www.openstreetmap.org/node/4036766872"
+    ],
+    "related": [
+      "maggie-daley-park",
+      "harris-theater",
+      "dusable-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap node/4036766872; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "harris-theater",
+    "name": "Harris Theater for Music and Dance",
+    "lat": 41.8839033,
+    "lon": -87.6218984,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "Nearby detour",
+    "description": "An indoor performance venue tucked into the north edge of Millennium Park, with a life that continues after a lakefront walk.",
+    "fact": "The Harris opened in 2003 as a shared home for Chicago performing arts organizations.",
+    "practical": "Use the theater’s Randolph Street entrance information; performances and tickets are separate from park access.",
+    "officialUrl": "https://www.harristheaterchicago.org/our-story",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.harristheaterchicago.org/our-story",
+      "https://www.harristheaterchicago.org/resident-companies",
+      "https://www.openstreetmap.org/way/234847962"
+    ],
+    "related": [
+      "jay-pritzker-pavilion",
+      "millennium-park",
+      "cloud-gate"
+    ],
+    "coordinateSource": "OpenStreetMap way/234847962; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "jay-pritzker-pavilion",
+    "name": "Jay Pritzker Pavilion",
+    "lat": 41.8835123,
+    "lon": -87.6218923,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "Nearby detour",
+    "description": "A sculptural canopy and sweeping trellis make a dramatic outdoor room for music, films, and a pause on the lawn.",
+    "fact": "Frank Gehry designed the pavilion, a central venue for Millennium Park performances.",
+    "practical": "Consult the official event calendar for admission, lawn access, and event-specific rules.",
+    "officialUrl": "https://www.millenniumparkfoundation.org/art-architecture",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/126978545"
+    ],
+    "related": [
+      "millennium-park",
+      "harris-theater",
+      "lurie-garden"
+    ],
+    "coordinateSource": "OpenStreetMap way/126978545; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "cloud-gate",
+    "name": "Cloud Gate · The Bean",
+    "lat": 41.8826865,
+    "lon": -87.6233394,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "The skyline bends around a polished steel surface, with a second, stranger city reflected beneath the arch.",
+    "fact": "Anish Kapoor created Cloud Gate, the Millennium Park sculpture widely known as The Bean.",
+    "practical": "Reach the plaza through Millennium Park; check park notices for access changes.",
+    "officialUrl": "https://www.millenniumparkfoundation.org/art-architecture",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/137060274"
+    ],
+    "related": [
+      "millennium-park",
+      "crown-fountain",
+      "lurie-garden"
+    ],
+    "coordinateSource": "OpenStreetMap way/137060274; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "crown-fountain",
+    "name": "Crown Fountain",
+    "lat": 41.8814878,
+    "lon": -87.6237515,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "Two glass towers face one another across a shallow plaza, bringing faces, light, and seasonal water into the park.",
+    "fact": "Jaume Plensa designed Crown Fountain with water, light, and glass as central elements.",
+    "practical": "Water operation is seasonal; follow posted plaza rules and keep the surrounding paths clear.",
+    "officialUrl": "https://www.millenniumparkfoundation.org/art-architecture",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/relation/3154126"
+    ],
+    "related": [
+      "cloud-gate",
+      "lurie-garden",
+      "millennium-park"
+    ],
+    "coordinateSource": "OpenStreetMap relation/3154126; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "lurie-garden",
+    "name": "Lurie Garden",
+    "lat": 41.8814282,
+    "lon": -87.6217059,
+    "category": "nature",
+    "subtype": "garden",
+    "access": "Nearby detour",
+    "description": "Perennial flowers, grasses, and a sheltering hedge create a quieter garden beneath the downtown skyline.",
+    "fact": "The garden uses naturalistic planting and ecologically sensitive maintenance to support urban wildlife.",
+    "practical": "Remain on garden paths and check current notices for walkway closures.",
+    "officialUrl": "https://www.luriegarden.org/about/",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.luriegarden.org/about/",
+      "https://www.openstreetmap.org/way/126945427"
+    ],
+    "related": [
+      "jay-pritzker-pavilion",
+      "crown-fountain",
+      "millennium-park"
+    ],
+    "coordinateSource": "OpenStreetMap way/126945427; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "chicago-stock-exchange-arch",
+    "name": "Chicago Stock Exchange Arch",
+    "lat": 41.8806735,
+    "lon": -87.6211747,
+    "category": "landmark",
+    "subtype": "architecture",
+    "access": "Nearby detour",
+    "description": "An ornate stone arch stands near Columbus Drive, preserving a fragment of one of Chicago’s lost buildings.",
+    "fact": "The entrance arch from Adler and Sullivan’s Stock Exchange was installed in the Art Institute’s East Garden in 1977.",
+    "practical": "Find the freestanding arch near Monroe Street and Columbus Drive; it is separate from the indoor Trading Room.",
+    "officialUrl": "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+      "https://www.openstreetmap.org/way/283892909"
+    ],
+    "related": [
+      "art-institute-lions",
+      "lurie-garden",
+      "maggie-daley-park"
+    ],
+    "coordinateSource": "OpenStreetMap way/283892909; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "art-institute-lions",
+    "name": "The Art Institute Lions",
+    "lat": 41.8797267,
+    "lon": -87.6241509,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "The familiar bronze guardians flank the museum’s Michigan Avenue steps, each with a different stance.",
+    "fact": "Edward Kemeys created the lions, which were installed at the Art Institute in 1894.",
+    "practical": "View them from the public entrance plaza; museum admission is a separate visit.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+      "https://www.openstreetmap.org/way/210671756"
+    ],
+    "related": [
+      "fountain-great-lakes",
+      "chicago-stock-exchange-arch",
+      "millennium-park"
+    ],
+    "coordinateSource": "OpenStreetMap way/210671756; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "fountain-great-lakes",
+    "name": "Fountain of the Great Lakes",
+    "lat": 41.8788038,
+    "lon": -87.6234058,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "Five bronze figures pass water from one shell to the next in the Art Institute’s South Garden.",
+    "fact": "Lorado Taft’s 1913 fountain represents the connected flow of the five Great Lakes.",
+    "practical": "Enter through the garden’s posted access points; fountain operation and garden access may vary.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+      "https://www.openstreetmap.org/way/210671750"
+    ],
+    "related": [
+      "art-institute-lions",
+      "sir-georg-solti",
+      "seated-lincoln"
+    ],
+    "coordinateSource": "OpenStreetMap way/210671750; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "sir-georg-solti",
+    "name": "Sir Georg Solti Bust & Garden",
+    "lat": 41.8778676,
+    "lon": -87.6236335,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A small portrait of the conductor makes an easily missed musical stop just off Michigan Avenue.",
+    "fact": "Dame Elisabeth Frink’s bronze bust moved to its Grant Park garden setting in 2006.",
+    "practical": "Use the garden paths south of Jackson Drive and east of Michigan Avenue.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+      "https://www.openstreetmap.org/node/3554700407"
+    ],
+    "related": [
+      "spirit-of-music",
+      "fountain-great-lakes",
+      "seated-lincoln"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554700407; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "seated-lincoln",
+    "name": "Abraham Lincoln · Head of State",
+    "lat": 41.8772931,
+    "lon": -87.6215429,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Nearby detour",
+    "description": "A seated Lincoln looks out from a broad stone setting in the quieter interior of Grant Park.",
+    "fact": "Augustus Saint-Gaudens’ bronze figure was installed here in 1926, in the north Court of Presidents.",
+    "practical": "Reach the monument by park paths west of Columbus Drive; use marked crossings at nearby roads.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+      "https://www.openstreetmap.org/way/763952137"
+    ],
+    "related": [
+      "buckingham-fountain",
+      "sir-georg-solti",
+      "bowman-and-spearman"
+    ],
+    "coordinateSource": "OpenStreetMap way/763952137; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "bowman-and-spearman",
+    "name": "The Bowman & The Spearman",
+    "lat": 41.8759782,
+    "lon": -87.6235076,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "Two monumental riders frame Congress Plaza at the Michigan Avenue entrance to Grant Park.",
+    "fact": "Ivan Meštrović intentionally omitted the bow and spear from his 1928 sculptures; the missing weapons were never part of them.",
+    "practical": "View the sculptures from the plaza sidewalks and use marked crossings between the two sides.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+      "https://www.openstreetmap.org/way/210671755"
+    ],
+    "related": [
+      "seated-lincoln",
+      "spirit-of-music",
+      "buckingham-fountain"
+    ],
+    "coordinateSource": "OpenStreetMap way/210671755; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "spirit-of-music",
+    "name": "Spirit of Music & Garden",
+    "lat": 41.8733974,
+    "lon": -87.6235221,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A bronze muse holding a lyre stands before a carved orchestral backdrop, near a garden used for dance events.",
+    "fact": "Albin Polasek’s sculpture honors Theodore Thomas, the first conductor of the Chicago Symphony Orchestra.",
+    "practical": "Find it just north of Balbo Drive; check city event listings before planning a dance or concert visit.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+      "https://www.openstreetmap.org/way/765851953"
+    ],
+    "related": [
+      "sir-georg-solti",
+      "bowman-and-spearman",
+      "logan-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/765851953; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "logan-monument",
+    "name": "John Alexander Logan Monument",
+    "lat": 41.87062,
+    "lon": -87.6234633,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Nearby detour",
+    "description": "An equestrian figure rises above a grassy mound along Grant Park’s Michigan Avenue edge.",
+    "fact": "Augustus Saint-Gaudens sculpted Logan and Alexander Phimister Proctor created the horse for the 1897 monument.",
+    "practical": "Approach on the park paths near 9th Street; the monument is inland from the lakefront route.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+      "https://www.openstreetmap.org/way/766343991"
+    ],
+    "related": [
+      "spirit-of-music",
+      "rosenberg-fountain",
+      "agora"
+    ],
+    "coordinateSource": "OpenStreetMap way/766343991; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "rosenberg-fountain",
+    "name": "Joseph Rosenberg Fountain",
+    "lat": 41.8686932,
+    "lon": -87.6238089,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Nearby detour",
+    "description": "A small classical pavilion supports a bronze figure of Hebe, with a story rooted in a newsboy’s thirst.",
+    "fact": "Joseph Rosenberg funded the ornamental fountain so others could obtain water; it no longer supplies drinking water.",
+    "practical": "Treat this as an artwork stop, not a drinking-water refill point.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+      "https://www.openstreetmap.org/way/1457885975"
+    ],
+    "related": [
+      "logan-monument",
+      "agora",
+      "spirit-of-music"
+    ],
+    "coordinateSource": "OpenStreetMap way/1457885975; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "agora",
+    "name": "Agora",
+    "lat": 41.86821,
+    "lon": -87.6234,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "Walk beside a crowd of towering cast-iron figures, each seeming to pause or move independently of the others.",
+    "fact": "Magdalena Abakanowicz’s installation comprises 106 headless figures and was installed in 2006.",
+    "practical": "Use the surrounding walkways near Michigan Avenue and Roosevelt Road; event fencing can alter access.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+    "region": 5,
+    "regionName": "The downtown lakefront",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+      "https://www.openstreetmap.org/relation/10624440"
+    ],
+    "related": [
+      "rosenberg-fountain",
+      "logan-monument",
+      "field-museum"
+    ],
+    "coordinateSource": "OpenStreetMap relation/10624440; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "olmec-head",
+    "name": "Olmec Head",
+    "lat": 41.8671514,
+    "lon": -87.6157214,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "A monumental carved head brings a quiet outdoor encounter with Mexican cultural history beside the Field Museum.",
+    "fact": "Ignacio Perez Solano made this replica of Olmec Head Number 8; Veracruz presented it to Chicago in 2000.",
+    "practical": "Look along the museum’s eastern grounds; this outdoor replica is separate from indoor exhibits.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+      "https://www.openstreetmap.org/node/3554682901"
+    ],
+    "related": [
+      "field-museum",
+      "brachiosaurus-replica",
+      "man-with-fish"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554682901; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "man-with-fish",
+    "name": "Man with Fish",
+    "lat": 41.8671371,
+    "lon": -87.6146694,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "Via a connector",
+    "description": "A painted bronze man wraps his arms around an enormous fish outside Shedd Aquarium.",
+    "fact": "Stephan Balkenhol’s playful sculptural fountain was installed at Shedd in 2001.",
+    "practical": "Look near the aquarium entrance paths and check posted access; water operation is not guaranteed.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+      "https://www.openstreetmap.org/node/3554680797"
+    ],
+    "related": [
+      "shedd-aquarium",
+      "olmec-head",
+      "kosciuszko-monument"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554680797; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "man-enters-cosmos",
+    "name": "Man Enters the Cosmos",
+    "lat": 41.8667661,
+    "lon": -87.6071237,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "A bronze sundial turns sunlight and shadow into another way of looking at the sky beside Adler Planetarium.",
+    "fact": "Henry Moore created this equatorial sundial in 1980.",
+    "practical": "Use the outdoor plaza northwest of the planetarium; museum entry is a separate visit.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+      "https://www.openstreetmap.org/way/766549300"
+    ],
+    "related": [
+      "adler-planetarium",
+      "copernicus-monument",
+      "spiral-galaxy"
+    ],
+    "coordinateSource": "OpenStreetMap way/766549300; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "brachiosaurus-replica",
+    "name": "Brachiosaurus Replica",
+    "lat": 41.8666577,
+    "lon": -87.6184708,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "A dinosaur skeleton rises over the Field Museum’s west terrace, visible before you ever step inside.",
+    "fact": "The Field Museum installed its all-weather Brachiosaurus replica on the terrace in 1999.",
+    "practical": "Use the museum grounds and terraces; the pin marks the outdoor replica, not SUE inside the museum.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+      "https://www.openstreetmap.org/node/4426074799"
+    ],
+    "related": [
+      "field-museum",
+      "olmec-head",
+      "soldier-field"
+    ],
+    "coordinateSource": "OpenStreetMap node/4426074799; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "copernicus-monument",
+    "name": "Nicolaus Copernicus Monument",
+    "lat": 41.8663516,
+    "lon": -87.6078024,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Via a connector",
+    "description": "The astronomer sits with instruments in hand on the approach to Adler Planetarium.",
+    "fact": "The monument was dedicated in 1973 to mark the 500th anniversary of Copernicus’ birth.",
+    "practical": "Use marked crossings around Solidarity Drive; the monument stands in its landscaped median.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+      "https://www.openstreetmap.org/way/766549284"
+    ],
+    "related": [
+      "adler-planetarium",
+      "man-enters-cosmos",
+      "karel-havlicek-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/766549284; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "karel-havlicek-monument",
+    "name": "Karel Havlíček Monument",
+    "lat": 41.8663119,
+    "lon": -87.6104688,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Via a connector",
+    "description": "A bronze speaker extends his arm toward the museum approach, recalling Chicago’s Czech community.",
+    "fact": "The monument to journalist and poet Karel Havlíček moved from Douglas Park to Solidarity Drive in 1983.",
+    "practical": "Use marked crossings around Solidarity Drive; the monument is in the median.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+      "https://www.openstreetmap.org/way/766536502"
+    ],
+    "related": [
+      "copernicus-monument",
+      "kosciuszko-monument",
+      "adler-planetarium"
+    ],
+    "coordinateSource": "OpenStreetMap way/766536502; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "kosciuszko-monument",
+    "name": "Tadeusz Kościuszko Monument",
+    "lat": 41.8662824,
+    "lon": -87.6125181,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Via a connector",
+    "description": "An equestrian monument occupies the western part of Solidarity Drive, southeast of Shedd Aquarium.",
+    "fact": "The 1904 monument honors the Polish engineer and American Revolution officer; it moved here in 1978.",
+    "practical": "Use marked crossings to reach the median and keep clear of moving traffic.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+      "https://www.openstreetmap.org/way/766536496"
+    ],
+    "related": [
+      "karel-havlicek-monument",
+      "shedd-aquarium",
+      "copernicus-monument"
+    ],
+    "coordinateSource": "OpenStreetMap way/766536496; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "spiral-galaxy",
+    "name": "Spiral Galaxy",
+    "lat": 41.8660023,
+    "lon": -87.6071706,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "Curving stainless steel suggests a galaxy in motion on the lawn just south of Adler Planetarium.",
+    "fact": "John David Mooney’s sculpture was installed at Adler in 2005 for the planetarium’s 75th anniversary.",
+    "practical": "Explore on the outdoor paths south of Adler; exposed lakefront weather can be strong here.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+      "https://www.openstreetmap.org/node/3536979402"
+    ],
+    "related": [
+      "adler-planetarium",
+      "americas-courtyard",
+      "man-enters-cosmos"
+    ],
+    "coordinateSource": "OpenStreetMap node/3536979402; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "americas-courtyard",
+    "name": "Americas Courtyard",
+    "lat": 41.8656406,
+    "lon": -87.6065703,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "Stone blocks form a gathering place beneath the open sky just south of the planetarium.",
+    "fact": "Denise Milan and Ary Perez arranged 56 granite blocks around four marble pieces; the work moved here in 2000.",
+    "practical": "Approach along the public paths south of Adler and leave room for other visitors.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+      "https://www.openstreetmap.org/node/3536978767"
+    ],
+    "related": [
+      "spiral-galaxy",
+      "adler-planetarium",
+      "northerly-island"
+    ],
+    "coordinateSource": "OpenStreetMap node/3536978767; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "tribute-to-freedom",
+    "name": "Tribute to Freedom & Water Wall",
+    "lat": 41.864864,
+    "lon": -87.6169538,
+    "category": "landmark",
+    "subtype": "memorial",
+    "access": "Via a connector",
+    "description": "A large bronze relief at Soldier Field’s north entrance depicts service members and families along Chicago’s shoreline.",
+    "fact": "Anna Koh Varilla and Jeffrey Hanson Varilla created the work, dedicated on Veterans Day in 2003.",
+    "practical": "Check stadium event restrictions before entering the north plaza; the pin marks the relief.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+      "https://www.openstreetmap.org/node/4426074801"
+    ],
+    "related": [
+      "soldier-field",
+      "gold-star-families-memorial",
+      "field-museum"
+    ],
+    "coordinateSource": "OpenStreetMap node/4426074801; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "huntington-bank-pavilion",
+    "name": "Huntington Bank Pavilion",
+    "lat": 41.8631195,
+    "lon": -87.6086082,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "Via a connector",
+    "description": "An outdoor concert venue brings a different kind of energy to the northern end of Northerly Island.",
+    "fact": "The pavilion is a dedicated concert venue within Northerly Island Park.",
+    "practical": "Check the event operator for tickets and entry instructions; nearby island access can change around events.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+      "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+      "https://www.openstreetmap.org/way/24925806"
+    ],
+    "related": [
+      "northerly-island",
+      "daphne-garden",
+      "adler-planetarium"
+    ],
+    "coordinateSource": "OpenStreetMap way/24925806; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "gold-star-families-memorial",
+    "name": "Gold Star Families Memorial & Park",
+    "lat": 41.8624399,
+    "lon": -87.6141036,
+    "category": "landmark",
+    "subtype": "memorial",
+    "access": "On the trail",
+    "description": "A sequence of paths and memorial spaces beside Burnham Harbor offers a quieter stop east of Soldier Field.",
+    "fact": "Dedicated in 2006, the memorial honors Chicago police officers killed or injured in the line of duty.",
+    "practical": "Visit respectfully, follow the memorial paths, and keep ceremonial areas clear.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+      "https://www.openstreetmap.org/node/3536996073"
+    ],
+    "related": [
+      "soldier-field",
+      "tribute-to-freedom",
+      "burnham-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap node/3536996073; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "daphne-garden",
+    "name": "Daphne Garden",
+    "lat": 41.860768,
+    "lon": -87.6079937,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Via a connector",
+    "description": "Three figures with leaf-like arms emerge among plants north of the Northerly Island visitor center.",
+    "fact": "Dessa Kirk made the figures from welded automobile parts; the installation moved here in 2006.",
+    "practical": "Use the island’s walking paths and stay out of planted areas.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+      "https://www.openstreetmap.org/way/766571359"
+    ],
+    "related": [
+      "northerly-island",
+      "huntington-bank-pavilion",
+      "burnham-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap way/766571359; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "arie-crown-theater",
+    "name": "Arie Crown Theater",
+    "lat": 41.8519011,
+    "lon": -87.6117906,
+    "category": "landmark",
+    "subtype": "performance",
+    "access": "Nearby detour",
+    "description": "The lakefront side of McCormick Place contains a long-running indoor home for concerts, dance, and large stage events.",
+    "fact": "Arie Crown Theater’s history includes performances by artists ranging from Duke Ellington to major ballet companies.",
+    "practical": "This is an indoor, event-based destination; use the theater’s directions rather than assuming entry from the trail.",
+    "officialUrl": "https://www.ariecrown.com/",
+    "region": 6,
+    "regionName": "Museum Campus",
+    "sourceUrls": [
+      "https://www.ariecrown.com/",
+      "https://www.ariecrown.com/about/history/",
+      "https://www.openstreetmap.org/way/1286946899"
+    ],
+    "related": [
+      "burnham-harbor",
+      "31st-street-beach",
+      "great-northern-migration"
+    ],
+    "coordinateSource": "OpenStreetMap way/1286946899; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "great-northern-migration",
+    "name": "Monument to the Great Northern Migration",
+    "lat": 41.8468697,
+    "lon": -87.6175097,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Nearby detour",
+    "description": "A figure carrying a suitcase welcomes visitors to Bronzeville on King Drive, inland from the lake.",
+    "fact": "Alison Saar created the monument at Dr. Martin Luther King Jr. Drive and 26th Place.",
+    "practical": "Plan this as an inland detour using designated street crossings; it is not directly on the Lakefront Trail.",
+    "officialUrl": "https://bmrc.lib.uchicago.edu/portal/curated/south-side-chicago-neighborhoods/",
+    "region": 7,
+    "regionName": "The southern harbors",
+    "sourceUrls": [
+      "https://bmrc.lib.uchicago.edu/portal/curated/south-side-chicago-neighborhoods/",
+      "https://www.openstreetmap.org/way/1190230713"
+    ],
+    "related": [
+      "1919-race-riot-memorial",
+      "31st-street-beach",
+      "arie-crown-theater"
+    ],
+    "coordinateSource": "OpenStreetMap way/1190230713; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "1919-race-riot-memorial",
+    "name": "1919 Race Riot Memorial Plaque",
+    "lat": 41.8424955,
+    "lon": -87.6089284,
+    "category": "landmark",
+    "subtype": "memorial",
+    "access": "On the trail",
+    "description": "A small plaque near the lake asks visitors to remember the victims of Chicago’s 1919 racial violence.",
+    "fact": "Students at York High School sponsored the plaque, placed along the lakefront near 29th Street.",
+    "practical": "Pause clear of the trail to read the memorial; the marker identifies a place of remembrance, not the historic shoreline itself.",
+    "officialUrl": "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+    "region": 7,
+    "regionName": "The southern harbors",
+    "sourceUrls": [
+      "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+      "https://www.openstreetmap.org/node/5852249345"
+    ],
+    "related": [
+      "great-northern-migration",
+      "31st-street-beach",
+      "31st-street-harbor"
+    ],
+    "coordinateSource": "OpenStreetMap node/5852249345; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "la-sirena",
+    "name": "Mermaid · La Sirena",
+    "lat": 41.8200395,
+    "lon": -87.5950783,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "On the trail",
+    "description": "A reclining mermaid carved into limestone rests near 41st Street, with Lake Michigan behind her.",
+    "fact": "Chicago artists carved the figure into lakefront stone in 1986; it moved to this landscaped setting in 2010.",
+    "practical": "Find the artwork from the paved lakefront paths; avoid climbing the sculpture.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/mermaid-artwork",
+    "region": 7,
+    "regionName": "The southern harbors",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/mermaid-artwork",
+      "https://www.openstreetmap.org/node/3554667214"
+    ],
+    "related": [
+      "oakwood-beach",
+      "31st-street-harbor",
+      "burnham-park"
+    ],
+    "coordinateSource": "OpenStreetMap node/3554667214; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "david-wallach-fountain",
+    "name": "David Wallach Memorial Fountain",
+    "lat": 41.7956351,
+    "lon": -87.5785594,
+    "category": "landmark",
+    "subtype": "fountain",
+    "access": "On the trail",
+    "description": "A small bronze fawn rests above a polished stone fountain at the approach to Promontory Point.",
+    "fact": "Elisabeth Haseltine Hibbard sculpted the fawn and Frederick Hibbard designed the fountain, installed in 1939.",
+    "practical": "Look east of the 55th Street underpass; do not rely on the fountain for drinking water without checking it on site.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/david-wallach-memorial-fountain",
+    "region": 8,
+    "regionName": "Burnham Park & the Point",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/david-wallach-memorial-fountain",
+      "https://www.openstreetmap.org/node/512737856"
+    ],
+    "related": [
+      "promontory-point",
+      "57th-street-beach",
+      "burnham-park"
+    ],
+    "coordinateSource": "OpenStreetMap node/512737856; exact named node; reviewed 2026-11-18"
+  },
+  {
+    "id": "garden-of-the-phoenix",
+    "name": "Osaka Garden · Garden of the Phoenix",
+    "lat": 41.7863757,
+    "lon": -87.5827359,
+    "category": "nature",
+    "subtype": "garden",
+    "access": "Nearby detour",
+    "description": "A Japanese garden on Wooded Island brings stone, water, trees, and carefully framed views into a small space.",
+    "fact": "The garden’s story is connected to Japan’s presence at the 1893 World’s Columbian Exposition.",
+    "practical": "Check the Park District’s current garden hours; leave bicycles outside and remain on the paths.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+      "https://www.openstreetmap.org/way/125657819"
+    ],
+    "related": [
+      "jackson-park",
+      "sky-landing",
+      "griffin-msi"
+    ],
+    "coordinateSource": "OpenStreetMap way/125657819; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "sky-landing",
+    "name": "Sky Landing",
+    "lat": 41.7862775,
+    "lon": -87.583126,
+    "category": "landmark",
+    "subtype": "sculpture",
+    "access": "Nearby detour",
+    "description": "A cluster of silver lotus petals rises from the lawn near the Japanese garden on Wooded Island.",
+    "fact": "Yoko Ono installed this twelve-petal sculpture in 2016 as a symbol of peace.",
+    "practical": "Reach it on Wooded Island’s paths using designated bridges and road crossings.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+      "https://www.openstreetmap.org/way/1378431774"
+    ],
+    "related": [
+      "garden-of-the-phoenix",
+      "jackson-park",
+      "griffin-msi"
+    ],
+    "coordinateSource": "OpenStreetMap way/1378431774; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "statue-of-the-republic",
+    "name": "Statue of the Republic",
+    "lat": 41.7796061,
+    "lon": -87.5799028,
+    "category": "landmark",
+    "subtype": "monument",
+    "access": "Nearby detour",
+    "description": "The gilded figure known as the Golden Lady stands at Hayes and Richards Drives in Jackson Park.",
+    "fact": "Daniel Chester French’s 1918 statue is a smaller commemorative version of the one made for the 1893 exposition.",
+    "practical": "Use designated crossings to approach the monument; the pin is on the statue itself.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+      "https://www.openstreetmap.org/way/575754755"
+    ],
+    "related": [
+      "jackson-park",
+      "63rd-street-beach",
+      "jackson-harbor-station"
+    ],
+    "coordinateSource": "OpenStreetMap way/575754755; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "jackson-harbor-station",
+    "name": "Jackson Harbor Station",
+    "lat": 41.7786313,
+    "lon": -87.5751895,
+    "category": "landmark",
+    "subtype": "architecture",
+    "access": "Via a connector",
+    "description": "A historic lifesaving station survives beside Jackson Park’s outer harbor, a small reminder of the lake’s working past.",
+    "fact": "The surviving station house was built in 1908 to a design by Victor Mindeleff.",
+    "practical": "View the exterior from public harbor paths; check current building access before entering.",
+    "officialUrl": "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+      "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-outer-harbor",
+      "https://www.openstreetmap.org/way/24925442"
+    ],
+    "related": [
+      "63rd-street-beach",
+      "statue-of-the-republic",
+      "south-shore-cultural-center"
+    ],
+    "coordinateSource": "OpenStreetMap way/24925442; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "south-shore-nature-sanctuary",
+    "name": "South Shore Nature Sanctuary",
+    "lat": 41.7681,
+    "lon": -87.560372,
+    "category": "nature",
+    "subtype": "nature-sanctuary",
+    "access": "Via a connector",
+    "description": "A small peninsula gathers dunes, wetland, woodland, and prairie into a final quiet lakeside detour.",
+    "fact": "The sanctuary opened in 2002 and includes more than six acres of varied native habitats.",
+    "practical": "Stay on the designated paths, which include pavement, boardwalk, and crushed gravel.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+      "https://www.openstreetmap.org/way/274189562"
+    ],
+    "related": [
+      "south-shore-cultural-center",
+      "south-shore-formal-garden",
+      "71st-street-trailhead"
+    ],
+    "coordinateSource": "OpenStreetMap way/274189562; representative point within mapped feature; reviewed 2026-11-18"
+  },
+  {
+    "id": "south-shore-formal-garden",
+    "name": "South Shore Formal Garden",
+    "lat": 41.7677456,
+    "lon": -87.5645956,
+    "category": "nature",
+    "subtype": "garden",
+    "access": "Nearby detour",
+    "description": "Ordered beds and a formal approach lead toward the cultural center, offering a different landscape from the nearby sanctuary.",
+    "fact": "The formal garden occupies the boulevard entrance in front of the South Shore Cultural Center’s main building.",
+    "practical": "Use the garden paths at the main approach and respect event arrangements.",
+    "officialUrl": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-formal-garden",
+    "region": 9,
+    "regionName": "Jackson Park & South Shore",
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-formal-garden",
+      "https://www.openstreetmap.org/way/1447224078"
+    ],
+    "related": [
+      "south-shore-cultural-center",
+      "south-shore-nature-sanctuary",
+      "71st-street-trailhead"
+    ],
+    "coordinateSource": "OpenStreetMap way/1447224078; representative point within mapped feature; reviewed 2026-11-18"
+  }
+]

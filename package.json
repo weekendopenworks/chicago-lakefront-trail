@@ -1,0 +1,27 @@
+{
+  "name": "chicago-lakefront-trail",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "description": "An independent illustrated guide to Chicago’s Lakefront Trail.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/validation/check-source.mjs && node scripts/pages/update-pages.mjs --check && node scripts/validation/check-site.mjs && node scripts/validation/check-seo.mjs && node scripts/validation/check-geography.mjs && node scripts/validation/check-trail-geometry.mjs && node scripts/validation/check-secrets.mjs",
+    "test": "node --test",
+    "check:browser": "node scripts/validation/browser-check.mjs && node scripts/validation/check-site-chrome.mjs && node scripts/validation/check-map-interactions.mjs && node scripts/validation/check-hotspots.mjs",
+    "check:zoom": "node --experimental-websocket scripts/validation/check-map-zoom.mjs",
+    "check:engines": "node scripts/validation/check-cross-browser.mjs",
+    "check:motion": "node scripts/validation/check-map-motion.mjs",
+    "check:popups": "node scripts/validation/check-map-popups.mjs",
+    "check:performance": "node scripts/validation/check-map-performance.mjs",
+    "check:publication": "node scripts/publication.mjs check",
+    "manifest": "node scripts/publication.mjs manifest",
+    "export": "node scripts/publication.mjs export",
+    "update:pages": "node scripts/pages/update-pages.mjs",
+    "map:generate": "node scripts/map/regenerate-map.mjs"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sourceBytes": 30988677,
+  "displayBytes": 3224316,
+  "tileWidth": 1300,
+  "tileHeight": 690,
+  "pixelRatio": 1.5,
+  "tiles": 40,
+  "rendering": "Geographic SVG pre-rendered to WebP; only nearby tiles loaded by the client."
+}

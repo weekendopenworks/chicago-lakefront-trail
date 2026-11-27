@@ -1,0 +1,93 @@
+{
+  "grandmothers-garden": {
+    "src": "/assets/photos/grandmothers-garden-round3.webp",
+    "alt": "Flower beds in Grandmother’s Garden, with Lincoln Park Conservatory visible across Stockton Drive",
+    "caption": "Grandmother’s Garden, looking across Stockton Drive toward the conservatory · 2019",
+    "title": "190907 015 Lincoln Park Chicago - Grandmother's Flower Garden, Conservatory, Macleaya microcarpa Plume Poppy",
+    "author": "cultivar413",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://www.flickr.com/photos/131880272@N06/48756934542",
+    "width": 960,
+    "height": 540,
+    "fit": "contain"
+  },
+  "montgomery-ward-bust": {
+    "src": "/assets/photos/montgomery-ward-bust-round3.webp",
+    "alt": "Aaron Montgomery Ward’s bronze bust and inscribed pedestal in its Grant Park flower garden",
+    "caption": "Aaron Montgomery Ward Bust in Grant Park · 2026",
+    "title": "File:Bust-Aaron-Montgomery-Ward-Chicago-Grant-Park-Aug2026.jpg",
+    "author": "NameNotUsed20",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust-Aaron-Montgomery-Ward-Chicago-Grant-Park-Aug2026.jpg",
+    "width": 720,
+    "height": 960,
+    "fit": "contain"
+  },
+  "chicago-harbor-lighthouse": {
+    "src": "/assets/photos/chicago-harbor-lighthouse-round3.webp",
+    "alt": "Chicago Harbor Lighthouse at dusk with the north Chicago skyline behind it",
+    "caption": "Chicago Harbor Lighthouse at dusk · 2025",
+    "title": "File:Chicago Harbor Lighthouse July 2025.jpg",
+    "author": "Dicklyon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Harbor_Lighthouse_July_2025.jpg",
+    "width": 960,
+    "height": 696,
+    "fit": "contain"
+  },
+  "us-navy-submarine-memorial": {
+    "src": "/assets/photos/us-navy-submarine-memorial-round3.webp",
+    "alt": "The U.S. Navy Submarine Memorial’s representative bulkhead, hatch and dedication plaque beside the Chicago River",
+    "caption": "U.S. Navy Submarine Memorial beside the Chicago River · 2024",
+    "title": "File:US Navy Submarine Memorial in Chicago, Illinois.jpg",
+    "author": "Aschbren",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_Submarine_Memorial_in_Chicago,_Illinois.jpg",
+    "width": 720,
+    "height": 960,
+    "fit": "contain"
+  },
+  "charitas": {
+    "src": "/assets/photos/charitas-round3.webp",
+    "alt": "Historic stereograph of Charitas in its original fountain setting in Lincoln Park, with children in the surrounding pool",
+    "caption": "Historic view: Charitas in its original fountain setting · c. 1930",
+    "title": "Charitas, Lincoln Park, Chicago",
+    "author": "Keystone View Company / Library of Congress",
+    "license": "No known restrictions on publication",
+    "licenseUrl": "https://www.loc.gov/item/2018649372/",
+    "sourceUrl": "https://www.loc.gov/item/2018649372/",
+    "width": 960,
+    "height": 503,
+    "fit": "contain"
+  },
+  "uss-chicago-anchor": {
+    "src": "/assets/photos/uss-chicago-anchor-round3.webp",
+    "alt": "USS Chicago’s anchor on its Navy Pier pedestal, photographed against Lake Michigan in winter",
+    "caption": "USS Chicago Anchor at Navy Pier · winter 2010",
+    "title": "File:U.S.S. Chicago Anchor.jpg",
+    "author": "Zol87",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:U.S.S._Chicago_Anchor.jpg",
+    "width": 960,
+    "height": 720,
+    "fit": "contain"
+  },
+  "ten-thousand-ripples": {
+    "src": "/assets/photos/ten-thousand-ripples-round3.webp",
+    "alt": "An artistic lens-ball reflection of a Ten Thousand Ripples Buddha head near North Pond, with the actual head visible behind",
+    "caption": "Lens-ball view of Ten Thousand Ripples near North Pond · 2021",
+    "title": "File:Buddha in the Ball at Ten Thousand Ripples (50803412077).jpg",
+    "author": "Joseph Gage",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddha_in_the_Ball_at_Ten_Thousand_Ripples_(50803412077).jpg",
+    "width": 960,
+    "height": 960,
+    "fit": "contain"
+  }
+}

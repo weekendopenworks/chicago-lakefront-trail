@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ardmore-trailhead",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/lakefront-trail",
+    "title": "Lakefront Trail | Chicago Park District"
+  },
+  {
+    "id": "osterman-beach",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/osterman-kathy-beach"
+  },
+  {
+    "id": "foster-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/foster-beach",
+    "title": "Foster Beach"
+  },
+  {
+    "id": "cricket-hill",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park"
+  },
+  {
+    "id": "montrose-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/montrose-beach",
+    "title": "Montrose Beach"
+  },
+  {
+    "id": "montrose-point",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-point-bird-sanctuary",
+    "title": "Lincoln Park - Montrose Point Bird Sanctuary"
+  },
+  {
+    "id": "montrose-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/montrose/",
+    "title": "\n    &raquo; Montrose  "
+  },
+  {
+    "id": "belmont-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/belmont/",
+    "title": "\n    &raquo; Belmont  "
+  },
+  {
+    "id": "diversey-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/diversey/",
+    "title": "\n    &raquo; Diversey  "
+  },
+  {
+    "id": "north-pond",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park"
+  },
+  {
+    "id": "caldwell-lily-pool",
+    "status": 200,
+    "url": "https://lincolnparkconservancy.org/projects/alfred-caldwell-lily-pool/",
+    "title": "Alfred Caldwell Lily Pool | Lincoln Park Conservancy"
+  },
+  {
+    "id": "lincoln-park-zoo",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.lpzoo.org/"
+  },
+  {
+    "id": "north-avenue-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach",
+    "title": "North Avenue Beach"
+  },
+  {
+    "id": "oak-street-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/oak-street-beach",
+    "title": "Oak Street Beach"
+  },
+  {
+    "id": "ohio-street-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/ohio-street-beach",
+    "title": "Ohio Street Beach"
+  },
+  {
+    "id": "navy-pier",
+    "status": 200,
+    "url": "https://navypier.org/support-the-pier/articles/navy-pier-through-the-years/",
+    "title": "Navy Pier Through the Years | Navy Pier"
+  },
+  {
+    "id": "dusable-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/dusable/",
+    "title": "\n    &raquo; DuSable  "
+  },
+  {
+    "id": "millennium-park",
+    "status": 200,
+    "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+    "title": "\n    City of Chicago :: Millennium Park\n"
+  },
+  {
+    "id": "maggie-daley-park",
+    "status": 200,
+    "url": "https://www.maggiedaleypark.com/",
+    "title": ""
+  },
+  {
+    "id": "monroe-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/monroe/",
+    "title": "\n    &raquo; Monroe  "
+  },
+  {
+    "id": "buckingham-fountain",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/buckingham-fountain"
+  },
+  {
+    "id": "field-museum",
+    "status": 200,
+    "url": "https://www.fieldmuseum.org/",
+    "title": "Explore the World at the Field - Field Museum"
+  },
+  {
+    "id": "shedd-aquarium",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.sheddaquarium.org/"
+  },
+  {
+    "id": "adler-planetarium",
+    "status": 200,
+    "url": "https://www.adlerplanetarium.org/",
+    "title": "Home - Adler Planetarium"
+  },
+  {
+    "id": "soldier-field",
+    "status": 200,
+    "url": "https://www.soldierfield.com/",
+    "title": ""
+  },
+  {
+    "id": "northerly-island",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+    "title": "Northerly Island Park"
+  },
+  {
+    "id": "burnham-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/burnham/",
+    "title": "\n    &raquo; Burnham  "
+  },
+  {
+    "id": "31st-street-beach",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/31st-street-beach"
+  },
+  {
+    "id": "31st-street-harbor",
+    "status": 200,
+    "url": "https://www.chicagoharbors.info/harbors/31st-street/",
+    "title": "\n    &raquo; 31st Street  "
+  },
+  {
+    "id": "oakwood-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/oakwood-beach",
+    "title": "Oakwood Beach"
+  },
+  {
+    "id": "burnham-park",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/burnham-park"
+  },
+  {
+    "id": "promontory-point",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/promontory-point",
+    "title": "Promontory Point"
+  },
+  {
+    "id": "57th-street-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/57th-street-beach",
+    "title": "57th Street Beach"
+  },
+  {
+    "id": "griffin-msi",
+    "status": 200,
+    "url": "https://www.griffinmsi.org/",
+    "title": "Home Page | Griffin Museum of Science and Industry"
+  },
+  {
+    "id": "jackson-park",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/jackson-andrew-park",
+    "title": "Jackson (Andrew) Park"
+  },
+  {
+    "id": "63rd-street-beach",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach",
+    "title": "63rd Street Beach"
+  },
+  {
+    "id": "south-shore-cultural-center",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-cultural-centerfieldhouse",
+    "title": "South Shore Cultural Center/Fieldhouse"
+  },
+  {
+    "id": "71st-street-trailhead",
+    "status": 200,
+    "url": "https://www.chicagoparkdistrict.com/lakefront-trail",
+    "title": "Lakefront Trail | Chicago Park District"
+  }
+]

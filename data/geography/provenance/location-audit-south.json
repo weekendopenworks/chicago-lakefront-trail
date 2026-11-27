@@ -1,0 +1,606 @@
+[
+  {
+    "id": "federal-building-columns",
+    "lat": 41.8841912,
+    "lon": -87.6174201,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/federal-building-columns",
+      "https://www.openstreetmap.org/node/4036766872"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin uses the eastern of the two individually mapped columns at the garden’s north entrance; the paired western column is OSM node/6379083795. Official identity/source reviewed alongside Federal Building Columns (node/4036766872).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "4036766872",
+    "osmName": "Federal Building Columns"
+  },
+  {
+    "id": "harris-theater",
+    "lat": 41.8839033,
+    "lon": -87.6218984,
+    "sourceUrls": [
+      "https://www.harristheaterchicago.org/our-story",
+      "https://www.harristheaterchicago.org/resident-companies",
+      "https://www.openstreetmap.org/way/234847962"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the performance itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Joan W. and Irving B. Harris Theater for Music and Dance (way/234847962).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "234847962",
+    "osmName": "Joan W. and Irving B. Harris Theater for Music and Dance"
+  },
+  {
+    "id": "jay-pritzker-pavilion",
+    "lat": 41.8835123,
+    "lon": -87.6218923,
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/126978545"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the performance itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Jay Pritzker Pavilion (way/126978545).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "126978545",
+    "osmName": "Jay Pritzker Pavilion"
+  },
+  {
+    "id": "cloud-gate",
+    "lat": 41.8826865,
+    "lon": -87.6233394,
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/way/137060274"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Cloud Gate (way/137060274).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "137060274",
+    "osmName": "Cloud Gate"
+  },
+  {
+    "id": "crown-fountain",
+    "lat": 41.8814878,
+    "lon": -87.6237515,
+    "sourceUrls": [
+      "https://www.millenniumparkfoundation.org/art-architecture",
+      "https://www.openstreetmap.org/relation/3154126"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin is the centroid of the mapped reflecting-pool outline between the two towers. It is an artwork reference point, not a walking-route instruction. Official identity/source reviewed alongside Crown Fountain (relation/3154126).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "relation",
+    "osmId": "3154126",
+    "osmName": "Crown Fountain"
+  },
+  {
+    "id": "lurie-garden",
+    "lat": 41.8814282,
+    "lon": -87.6217059,
+    "sourceUrls": [
+      "https://www.luriegarden.org/about/",
+      "https://www.openstreetmap.org/way/126945427"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the garden itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Lurie Garden (way/126945427).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "126945427",
+    "osmName": "Lurie Garden"
+  },
+  {
+    "id": "chicago-stock-exchange-arch",
+    "lat": 41.8806735,
+    "lon": -87.6211747,
+    "sourceUrls": [
+      "https://www.artic.edu/files/1d601e15-af7f-4dc2-8aaf-f82030261b59/AIC_MuseumStudies_14-1_UPDF.pdf",
+      "https://www.openstreetmap.org/way/283892909"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the architecture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Chicago Stock Exchange Arch (way/283892909).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "283892909",
+    "osmName": "Chicago Stock Exchange Arch"
+  },
+  {
+    "id": "art-institute-lions",
+    "lat": 41.8797267,
+    "lon": -87.6241509,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/lions-artwork",
+      "https://www.openstreetmap.org/way/210671756"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin anchors the pair to the mapped north lion, rather than the road between the statues. The south lion is OSM way/210671752. Official identity/source reviewed alongside Lion \"on the prowl\" (way/210671756).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "210671756",
+    "osmName": "Lion \"on the prowl\""
+  },
+  {
+    "id": "fountain-great-lakes",
+    "lat": 41.8788038,
+    "lon": -87.6234058,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/fountain-great-lakes-artwork",
+      "https://www.openstreetmap.org/way/210671750"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the fountain itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Fountain of the Great Lakes (way/210671750).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "210671750",
+    "osmName": "Fountain of the Great Lakes"
+  },
+  {
+    "id": "sir-georg-solti",
+    "lat": 41.8778676,
+    "lon": -87.6236335,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sir-georg-solti-bust",
+      "https://www.openstreetmap.org/node/3554700407"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Sir Georg Solti Bust (node/3554700407).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3554700407",
+    "osmName": "Sir Georg Solti Bust"
+  },
+  {
+    "id": "seated-lincoln",
+    "lat": 41.8772931,
+    "lon": -87.6215429,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-head-state-monument",
+      "https://www.openstreetmap.org/way/763952137"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Abraham Lincoln: The Head of State (way/763952137).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "763952137",
+    "osmName": "Abraham Lincoln: The Head of State"
+  },
+  {
+    "id": "bowman-and-spearman",
+    "lat": 41.8759782,
+    "lon": -87.6235076,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/equestrian-indians-artwork",
+      "https://www.openstreetmap.org/way/210671755"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "The pair is anchored to the mapped Bowman footprint north of the road, not to the roadway midpoint. The Spearman is OSM way/210671749. Official identity/source reviewed alongside Equestrian Indians (The Bowman) (way/210671755).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "210671755",
+    "osmName": "Equestrian Indians (The Bowman)"
+  },
+  {
+    "id": "spirit-of-music",
+    "lat": 41.8733974,
+    "lon": -87.6235221,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spirit-music-artwork",
+      "https://www.openstreetmap.org/way/765851953"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Spirit of Music (Theodore Thomas Memorial) (way/765851953).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "765851953",
+    "osmName": "Spirit of Music (Theodore Thomas Memorial)"
+  },
+  {
+    "id": "logan-monument",
+    "lat": 41.87062,
+    "lon": -87.6234633,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/john-alexander-logan-monument",
+      "https://www.openstreetmap.org/way/766343991"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside John Alexander Logan Monument (way/766343991).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766343991",
+    "osmName": "John Alexander Logan Monument"
+  },
+  {
+    "id": "rosenberg-fountain",
+    "lat": 41.8686932,
+    "lon": -87.6238089,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/joseph-rosenberg-fountain",
+      "https://www.openstreetmap.org/way/1457885975"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the fountain itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Rosenberg Fountain (Hebe) (way/1457885975).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "1457885975",
+    "osmName": "Rosenberg Fountain (Hebe)"
+  },
+  {
+    "id": "agora",
+    "lat": 41.86821,
+    "lon": -87.6234,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/agora-artwork",
+      "https://www.openstreetmap.org/relation/10624440"
+    ],
+    "pointKind": "reviewed-feature-interior",
+    "notes": "Reviewed interior point in the principal mapped sculpture footprint of the multi-part Agora installation; not an average of all disconnected polygon vertices. Official identity/source reviewed alongside Agora (relation/10624440).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "relation",
+    "osmId": "10624440",
+    "osmName": "Agora"
+  },
+  {
+    "id": "olmec-head",
+    "lat": 41.8671514,
+    "lon": -87.6157214,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/olmec-head-artwork",
+      "https://www.openstreetmap.org/node/3554682901"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Olmec Head (node/3554682901).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3554682901",
+    "osmName": "Olmec Head"
+  },
+  {
+    "id": "man-with-fish",
+    "lat": 41.8671371,
+    "lon": -87.6146694,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-fish-artwork",
+      "https://www.openstreetmap.org/node/3554680797"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the fountain itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Man with Fish (node/3554680797).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3554680797",
+    "osmName": "Man with Fish"
+  },
+  {
+    "id": "man-enters-cosmos",
+    "lat": 41.8667661,
+    "lon": -87.6071237,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/man-enters-cosmos-artwork",
+      "https://www.openstreetmap.org/way/766549300"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Man Enters The Cosmos (way/766549300).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766549300",
+    "osmName": "Man Enters The Cosmos"
+  },
+  {
+    "id": "brachiosaurus-replica",
+    "lat": 41.8666577,
+    "lon": -87.6184708,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/brachiosaurus-replica-artwork",
+      "https://www.openstreetmap.org/node/4426074799"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Brachiosaurus Replica (node/4426074799).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "4426074799",
+    "osmName": "Brachiosaurus Replica"
+  },
+  {
+    "id": "copernicus-monument",
+    "lat": 41.8663516,
+    "lon": -87.6078024,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument",
+      "https://www.openstreetmap.org/way/766549284"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Nicolaus Copernicus Monument (way/766549284).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766549284",
+    "osmName": "Nicolaus Copernicus Monument"
+  },
+  {
+    "id": "karel-havlicek-monument",
+    "lat": 41.8663119,
+    "lon": -87.6104688,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/karel-havlicek-monument",
+      "https://www.openstreetmap.org/way/766536502"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Karel Havlíček Monument (way/766536502).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766536502",
+    "osmName": "Karel Havlíček Monument"
+  },
+  {
+    "id": "kosciuszko-monument",
+    "lat": 41.8662824,
+    "lon": -87.6125181,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/thaddeus-kosciuszko-monument",
+      "https://www.openstreetmap.org/way/766536496"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Tadeusz Kościuszko Monument (way/766536496).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766536496",
+    "osmName": "Tadeusz Kościuszko Monument"
+  },
+  {
+    "id": "spiral-galaxy",
+    "lat": 41.8660023,
+    "lon": -87.6071706,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/spiral-galaxy-artwork",
+      "https://www.openstreetmap.org/node/3536979402"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Spiral Galaxy (node/3536979402).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3536979402",
+    "osmName": "Spiral Galaxy"
+  },
+  {
+    "id": "americas-courtyard",
+    "lat": 41.8656406,
+    "lon": -87.6065703,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/americas-courtyard-artwork",
+      "https://www.openstreetmap.org/node/3536978767"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside America's Courtyard (node/3536978767).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3536978767",
+    "osmName": "America's Courtyard"
+  },
+  {
+    "id": "tribute-to-freedom",
+    "lat": 41.864864,
+    "lon": -87.6169538,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/tribute-freedom-and-water-wall-artwork",
+      "https://www.openstreetmap.org/node/4426074801"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the memorial itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Tribute to Freedom (node/4426074801).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "4426074801",
+    "osmName": "Tribute to Freedom"
+  },
+  {
+    "id": "huntington-bank-pavilion",
+    "lat": 41.8631195,
+    "lon": -87.6086082,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/huntington-bank-pavilion-northerly-island",
+      "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
+      "https://www.openstreetmap.org/way/24925806"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the performance itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Huntington Bank Pavilion at Northerly Island (way/24925806).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "24925806",
+    "osmName": "Huntington Bank Pavilion at Northerly Island"
+  },
+  {
+    "id": "gold-star-families-memorial",
+    "lat": 41.8624399,
+    "lon": -87.6141036,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/gold-star-family-memorial",
+      "https://www.openstreetmap.org/node/3536996073"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the memorial itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Gold Star Families Memorial (node/3536996073).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3536996073",
+    "osmName": "Gold Star Families Memorial"
+  },
+  {
+    "id": "daphne-garden",
+    "lat": 41.860768,
+    "lon": -87.6079937,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/daphne-garden-artwork",
+      "https://www.openstreetmap.org/way/766571359"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Daphne Garden (way/766571359).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "766571359",
+    "osmName": "Daphne Garden"
+  },
+  {
+    "id": "arie-crown-theater",
+    "lat": 41.8519011,
+    "lon": -87.6117906,
+    "sourceUrls": [
+      "https://www.ariecrown.com/",
+      "https://www.ariecrown.com/about/history/",
+      "https://www.openstreetmap.org/way/1286946899"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the performance itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Arie Crown Theater (way/1286946899).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "1286946899",
+    "osmName": "Arie Crown Theater"
+  },
+  {
+    "id": "great-northern-migration",
+    "lat": 41.8468697,
+    "lon": -87.6175097,
+    "sourceUrls": [
+      "https://bmrc.lib.uchicago.edu/portal/curated/south-side-chicago-neighborhoods/",
+      "https://www.openstreetmap.org/way/1190230713"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin uses the mapped sculpture footprint. A separate named OSM node farther north appears to identify accompanying interpretive material; it is not used for the statue location. Official identity/source reviewed alongside Monument to Great Northern Migration (way/1190230713).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "1190230713",
+    "osmName": "Monument to Great Northern Migration"
+  },
+  {
+    "id": "1919-race-riot-memorial",
+    "lat": 41.8424955,
+    "lon": -87.6089284,
+    "sourceUrls": [
+      "https://library.isgs.illinois.edu/Pubs/pdfs/walkingguide/burnham-park.pdf",
+      "https://www.openstreetmap.org/node/5852249345"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Exact named OSM plaque node beside the present-day trail. Historic shoreline position differs from today’s filled lakefront; do not label the pin as the precise 1919 drowning location. Official identity/source reviewed alongside 1919 Race Riot Plaque (node/5852249345).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "5852249345",
+    "osmName": "1919 Race Riot Plaque"
+  },
+  {
+    "id": "la-sirena",
+    "lat": 41.8200395,
+    "lon": -87.5950783,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/mermaid-artwork",
+      "https://www.openstreetmap.org/node/3554667214"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Mermaid (La Sirena) (node/3554667214).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "3554667214",
+    "osmName": "Mermaid (La Sirena)"
+  },
+  {
+    "id": "david-wallach-fountain",
+    "lat": 41.7956351,
+    "lon": -87.5785594,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/david-wallach-memorial-fountain",
+      "https://www.openstreetmap.org/node/512737856"
+    ],
+    "pointKind": "mapped-point",
+    "notes": "Pin identifies the fountain itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside David Wallach Memorial Fountain (node/512737856).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "node",
+    "osmId": "512737856",
+    "osmName": "David Wallach Memorial Fountain"
+  },
+  {
+    "id": "garden-of-the-phoenix",
+    "lat": 41.7863757,
+    "lon": -87.5827359,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/osaka-garden",
+      "https://www.openstreetmap.org/way/125657819"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin is within the mapped Japanese garden footprint on northeastern Wooded Island, not the broader Jackson Park center or a street address. Official identity/source reviewed alongside Japanese Garden (way/125657819).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "125657819",
+    "osmName": "Japanese Garden"
+  },
+  {
+    "id": "sky-landing",
+    "lat": 41.7862775,
+    "lon": -87.583126,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/sky-landing-artwork",
+      "https://www.openstreetmap.org/way/1378431774"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the sculpture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Sky Landing (way/1378431774).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "1378431774",
+    "osmName": "Sky Landing"
+  },
+  {
+    "id": "statue-of-the-republic",
+    "lat": 41.7796061,
+    "lon": -87.5799028,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/statue-republic",
+      "https://www.openstreetmap.org/way/575754755"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the monument itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Statue of the Republic (way/575754755).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "575754755",
+    "osmName": "Statue of the Republic"
+  },
+  {
+    "id": "jackson-harbor-station",
+    "lat": 41.7786313,
+    "lon": -87.5751895,
+    "sourceUrls": [
+      "https://uslife-savingservice.org/station-buildings/jackson-park-station-house-2/",
+      "https://www.chicagoparkdistrict.com/parks-facilities/jackson-park-outer-harbor",
+      "https://www.openstreetmap.org/way/24925442"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the architecture itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside Jackson Harbor Station (way/24925442).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "24925442",
+    "osmName": "Jackson Harbor Station"
+  },
+  {
+    "id": "south-shore-nature-sanctuary",
+    "lat": 41.7681,
+    "lon": -87.560372,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-nature-sanctuary",
+      "https://www.openstreetmap.org/way/274189562"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the nature-sanctuary itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside South Shore Nature Sanctuary (way/274189562).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "274189562",
+    "osmName": "South Shore Nature Sanctuary"
+  },
+  {
+    "id": "south-shore-formal-garden",
+    "lat": 41.7677456,
+    "lon": -87.5645956,
+    "sourceUrls": [
+      "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-formal-garden",
+      "https://www.openstreetmap.org/way/1447224078"
+    ],
+    "pointKind": "mapped-footprint-centroid",
+    "notes": "Pin identifies the garden itself from the named OpenStreetMap feature, not a street address or navigation entrance. Official identity/source reviewed alongside South Shore Formal Garden (way/1447224078).",
+    "verifiedAt": "2026-11-18",
+    "osmType": "way",
+    "osmId": "1447224078",
+    "osmName": "South Shore Formal Garden"
+  }
+]

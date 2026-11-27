@@ -1,0 +1,1517 @@
+{
+  "reviewedAt": "2026-11-18",
+  "scope": "New attractions north of the Chicago River; no duplicates of existing38",
+  "count": 42,
+  "records": [
+    {
+      "id": "theater-on-the-lake",
+      "name": "Theater on the Lake",
+      "lat": 41.9270834,
+      "lon": -87.6306705,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "23989552",
+        "name": "Theater on the Lake",
+        "url": "https://www.openstreetmap.org/way/23989552",
+        "bbox": [
+          -87.6310686,
+          41.9267371,
+          -87.6302334,
+          41.9274519
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/theatre-lake"
+      ],
+      "verifiedFact": "Dwight Perkins designed the building; the Park District converted it into a theater in 1953.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "lincoln-park-conservatory",
+      "name": "Lincoln Park Conservatory",
+      "lat": 41.9244017,
+      "lon": -87.6347993,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "23986733",
+        "name": "Lincoln Park Conservatory",
+        "url": "https://www.openstreetmap.org/way/23986733",
+        "bbox": [
+          -87.6355917,
+          41.9238274,
+          -87.634505,
+          41.9249759
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-conservatory"
+      ],
+      "verifiedFact": "The conservatory was built in stages from 1890 to 1895 and contains four display houses.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "peggy-notebaert-nature-museum",
+      "name": "Peggy Notebaert Nature Museum",
+      "lat": 41.9267245,
+      "lon": -87.6352308,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "23986958",
+        "name": "The Peggy Notebaert Nature Museum",
+        "url": "https://www.openstreetmap.org/way/23986958",
+        "bbox": [
+          -87.6357522,
+          41.9262491,
+          -87.6346365,
+          41.9273242
+        ]
+      },
+      "primarySources": [
+        "https://naturemuseum.org/",
+        "https://www.chicagoparkdistrict.com/parks-facilities/peggy-notebaert-nature-museum"
+      ],
+      "verifiedFact": "The museum is part of the Chicago Academy of Sciences and combines public exhibits with conservation research.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "nature-boardwalk",
+      "name": "South Pond · Nature Boardwalk",
+      "lat": 41.9182184,
+      "lon": -87.6331069,
+      "pointKind": "named boardwalk bridge midpoint",
+      "osmFeature": {
+        "type": "way",
+        "id": "758462743",
+        "name": "Bridge Over South Pond",
+        "url": "https://www.openstreetmap.org/way/758462743",
+        "bbox": [
+          -87.6333835,
+          41.9181211,
+          -87.6328304,
+          41.9183158
+        ]
+      },
+      "primarySources": [
+        "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-south-pond-natural-area"
+      ],
+      "verifiedFact": "Lincoln Park Zoo opened the restored Nature Boardwalk habitat in 2010.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "Anchor is on the named pedestrian bridge within Nature Boardwalk, not in the middle of South Pond. The official zoo page identifies the bridge as a Boardwalk feature.",
+      "geometryValidation": {
+        "onNamedBridge": true,
+        "lineMidpoint": true,
+        "nodeCount": 2
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "cafe-brauer",
+      "name": "Café Brauer",
+      "lat": 41.9191125,
+      "lon": -87.6338995,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "24826112",
+        "name": "Café Brauer (South Pond Refectory)",
+        "url": "https://www.openstreetmap.org/way/24826112",
+        "bbox": [
+          -87.6341516,
+          41.9187879,
+          -87.6336285,
+          41.9194058
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/cafe-brauer-cermanic-tile-murals-artwork",
+        "https://www.lpzoo.org/private-events/"
+      ],
+      "verifiedFact": "Dwight Perkins designed the 1908 South Pond Refectory, now commonly called Café Brauer.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "standing-lincoln",
+      "name": "Abraham Lincoln: The Man",
+      "lat": 41.9126287,
+      "lon": -87.6302569,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1428865096",
+        "name": "Abraham Lincoln: The Man",
+        "url": "https://www.openstreetmap.org/way/1428865096",
+        "bbox": [
+          -87.6302873,
+          41.9126124,
+          -87.6302266,
+          41.912645
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/abraham-lincoln-man-monument"
+      ],
+      "verifiedFact": "Augustus Saint-Gaudens created this Lincoln monument, installed in Lincoln Park in 1887.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "couch-tomb",
+      "name": "Couch Tomb",
+      "lat": 41.9129277,
+      "lon": -87.6314229,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1398715844",
+        "name": "Couch Tomb",
+        "url": "https://www.openstreetmap.org/way/1398715844",
+        "bbox": [
+          -87.6314485,
+          41.9129021,
+          -87.6313973,
+          41.9129533
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/couch-tomb-artwork"
+      ],
+      "verifiedFact": "The 1858 tomb is the last above-ground reminder of Lincoln Park’s former public cemetery.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "grant-monument",
+      "name": "Ulysses S. Grant Monument",
+      "lat": 41.9175454,
+      "lon": -87.6308243,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "210686228",
+        "name": "Ulysses S. Grant Monument",
+        "url": "https://www.openstreetmap.org/way/210686228",
+        "bbox": [
+          -87.6308874,
+          41.9174726,
+          -87.6307663,
+          41.9176174
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/ulysses-s-grant-monument"
+      ],
+      "verifiedFact": "Louis T. Rebisso’s equestrian Grant monument was dedicated in 1891.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "goethe-monument",
+      "name": "Goethe Monument",
+      "lat": 41.9326031,
+      "lon": -87.6386173,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "589510009",
+        "name": "Johann Wolfgang von Goethe Monument",
+        "url": "https://www.openstreetmap.org/node/589510009",
+        "bbox": [
+          -87.6386173,
+          41.9326031,
+          -87.6386173,
+          41.9326031
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/johann-wolfgang-von-goethe-monument"
+      ],
+      "verifiedFact": "Herman Hahn’s 1913 monument represents Goethe’s creative spirit rather than a literal portrait of the writer.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "schiller-monument",
+      "name": "Schiller Monument",
+      "lat": 41.922011,
+      "lon": -87.6351902,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "210686587",
+        "name": "Johann Christoph Friedrich von Schiller Monument",
+        "url": "https://www.openstreetmap.org/way/210686587",
+        "bbox": [
+          -87.6352279,
+          41.9219799,
+          -87.6351525,
+          41.9220421
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/johann-christoph-friedrich-von-schiller-monument"
+      ],
+      "verifiedFact": "Chicago’s German community helped fund this Schiller monument, unveiled in 1886.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "shakespeare-monument",
+      "name": "William Shakespeare Monument",
+      "lat": 41.9238241,
+      "lon": -87.6362139,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "316772307",
+        "name": "William Shakespeare Monument",
+        "url": "https://www.openstreetmap.org/way/316772307",
+        "bbox": [
+          -87.6362374,
+          41.9238047,
+          -87.6361904,
+          41.9238435
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/william-shakespeare-monument"
+      ],
+      "verifiedFact": "William Ordway Partridge’s bronze sculpture was unveiled in Lincoln Park in 1894.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "hamilton-monument",
+      "name": "Alexander Hamilton Monument",
+      "lat": 41.931713,
+      "lon": -87.6384365,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1433718663",
+        "name": "Alexander Hamilton Monument",
+        "url": "https://www.openstreetmap.org/way/1433718663",
+        "bbox": [
+          -87.6384497,
+          41.9317021,
+          -87.6384234,
+          41.9317238
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/alexander-hamilton-monument"
+      ],
+      "verifiedFact": "Kate Sturges Buckingham commissioned John Angel’s statue of Alexander Hamilton for Lincoln Park.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "franklin-monument",
+      "name": "Benjamin Franklin Monument",
+      "lat": 41.913803,
+      "lon": -87.6310961,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "608421763",
+        "name": "Benjamin Franklin",
+        "url": "https://www.openstreetmap.org/way/608421763",
+        "bbox": [
+          -87.6311224,
+          41.9137825,
+          -87.6310694,
+          41.9138225
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument"
+      ],
+      "verifiedFact": "Richard Henry Park created this monument with support from newspaper publisher Joseph Medill and Chicago printers.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "andersen-monument",
+      "name": "Hans Christian Andersen Monument",
+      "lat": 41.9196016,
+      "lon": -87.634664,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "3229514445",
+        "name": "Hans Christian Andersen Monument",
+        "url": "https://www.openstreetmap.org/node/3229514445",
+        "bbox": [
+          -87.634664,
+          41.9196016,
+          -87.634664,
+          41.9196016
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/hans-christian-andersen-monument"
+      ],
+      "verifiedFact": "Johannes Gelert’s monument to the Danish author was installed in 1896.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "lasalle-monument",
+      "name": "Robert Cavelier de La Salle Monument",
+      "lat": 41.9133732,
+      "lon": -87.6327488,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1396668783",
+        "name": "Robert Cavalier de LaSalle",
+        "url": "https://www.openstreetmap.org/way/1396668783",
+        "bbox": [
+          -87.632762,
+          41.9133633,
+          -87.6327355,
+          41.9133831
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/robert-cavelier-de-lasalle-monument"
+      ],
+      "verifiedFact": "Belgian sculptor Count Jacques de La Laing cast the monument in Belgium before it was shipped to Chicago.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "altgeld-monument",
+      "name": "John Peter Altgeld Monument",
+      "lat": 41.9321934,
+      "lon": -87.63753,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1433718665",
+        "name": "John Peter Altgeld Momument",
+        "url": "https://www.openstreetmap.org/way/1433718665",
+        "bbox": [
+          -87.6375976,
+          41.9321431,
+          -87.637462,
+          41.9322442
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/john-peter-altgeld-monument"
+      ],
+      "verifiedFact": "Gutzon Borglum created the Altgeld monument, installed in 1915.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "oglesby-monument",
+      "name": "Richard Oglesby Monument",
+      "lat": 41.9301485,
+      "lon": -87.6370807,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1433718651",
+        "name": "Richard Oglesby Monument",
+        "url": "https://www.openstreetmap.org/way/1433718651",
+        "bbox": [
+          -87.6371232,
+          41.930118,
+          -87.6370383,
+          41.930179
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/richard-oglesby-monument"
+      ],
+      "verifiedFact": "Leonard Crunelle’s 1919 sculpture stands on Mount Prospect, a manmade hill in Lincoln Park.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "sheridan-monument",
+      "name": "General Philip Sheridan Monument",
+      "lat": 41.9404649,
+      "lon": -87.6392416,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1288462337",
+        "name": "General Philip Henry Sheridan Monument",
+        "url": "https://www.openstreetmap.org/way/1288462337",
+        "bbox": [
+          -87.6392968,
+          41.9404242,
+          -87.6391864,
+          41.9405061
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/general-philip-henry-sheridan-monument"
+      ],
+      "verifiedFact": "Gutzon Borglum’s Sheridan monument was installed here in 1923.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "greene-vardiman-black",
+      "name": "Greene Vardiman Black Memorial",
+      "lat": 41.9113982,
+      "lon": -87.6276843,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1398715934",
+        "name": "Greene Vardiman Black",
+        "url": "https://www.openstreetmap.org/way/1398715934",
+        "bbox": [
+          -87.6277024,
+          41.9113894,
+          -87.6276661,
+          41.9114071
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/greene-vardiman-black-memorial"
+      ],
+      "verifiedFact": "The National Dental Association donated Frederick Cleveland Hibbard’s 1918 memorial to dentist G. V. Black.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "swedenborg-monument",
+      "name": "Emanuel Swedenborg Monument",
+      "lat": 41.9314708,
+      "lon": -87.6316845,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "3554719291",
+        "name": "Emanuel Swedenborg Monument",
+        "url": "https://www.openstreetmap.org/node/3554719291",
+        "bbox": [
+          -87.6316845,
+          41.9314708,
+          -87.6316845,
+          41.9314708
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/emanuel-swedenborg-monument"
+      ],
+      "verifiedFact": "The original monument was installed in 1924; its missing bust was recreated in 2012.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "jose-rizal-monument",
+      "name": "Dr. José Rizal Monument",
+      "lat": 41.9671409,
+      "lon": -87.6482031,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "3554723291",
+        "name": "Doctor José Rizal Monument",
+        "url": "https://www.openstreetmap.org/node/3554723291",
+        "bbox": [
+          -87.6482031,
+          41.9671409,
+          -87.6482031,
+          41.9671409
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/dr-jose-rizal-monument"
+      ],
+      "verifiedFact": "Antonio T. Mondejar’s Chicago sculpture was unveiled in 1999 as a replica of his monument in Dapitan, Philippines.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "the-alarm",
+      "name": "The Alarm",
+      "lat": 41.9362619,
+      "lon": -87.6325293,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "3554716802",
+        "name": "The Alarm",
+        "url": "https://www.openstreetmap.org/node/3554716802",
+        "bbox": [
+          -87.6325293,
+          41.9362619,
+          -87.6325293,
+          41.9362619
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/alarm-artwork"
+      ],
+      "verifiedFact": "John J. Boyle created the sculpture, and it was moved to its current lakefront setting in 1974.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "signal-of-peace",
+      "name": "A Signal of Peace",
+      "lat": 41.9331913,
+      "lon": -87.6314027,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "667225235",
+        "name": "A Signal of Peace",
+        "url": "https://www.openstreetmap.org/node/667225235",
+        "bbox": [
+          -87.6314027,
+          41.9331913,
+          -87.6314027,
+          41.9331913
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/signal-peace-artwork"
+      ],
+      "verifiedFact": "Cyrus Edwin Dallin’s sculpture appeared at the 1893 World’s Columbian Exposition before moving to Lincoln Park.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "diversey-natural-area",
+      "name": "Diversey Natural Area",
+      "lat": 41.9371841,
+      "lon": -87.6353075,
+      "pointKind": "area label point inside mapped boundary",
+      "osmFeature": {
+        "type": "way",
+        "id": "1159730456",
+        "name": "Diversey Natural Area",
+        "url": "https://www.openstreetmap.org/way/1159730456",
+        "bbox": [
+          -87.6365031,
+          41.9364503,
+          -87.634018,
+          41.9382062
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-diversey-natural-area"
+      ],
+      "verifiedFact": "The Park District converted this often-flooded lawn into prairie, savanna and wetland habitat that also retains stormwater.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "Area markers identify the destination and are not turn-by-turn entrances.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "bill-jarvis-sanctuary",
+      "name": "Bill Jarvis Migratory Bird Sanctuary",
+      "lat": 41.9489063,
+      "lon": -87.640682,
+      "pointKind": "interior label point in assembled sanctuary polygon",
+      "osmFeature": {
+        "type": "relation",
+        "id": "19825133",
+        "name": "Bill Jarvis Migratory Bird Sanctuary",
+        "url": "https://www.openstreetmap.org/relation/19825133",
+        "bbox": [
+          -87.6422423,
+          41.9477831,
+          -87.6392044,
+          41.9499801
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/natural-areas-community-stewardship-days",
+        "https://www.chicagoparkdistrict.com/community-science",
+        "https://assets.chicagoparkdistrict.com/s3fs-public/documents/stewardship/map-NAStewardship-11x17-20240618.pdf"
+      ],
+      "verifiedFact": "The sanctuary is one of the Park District sites where volunteers monitor purple martin nesting towers.",
+      "reviewedAt": "2026-11-18",
+      "method": "Joined member ways by node IDs into closed outer rings; selected a polygon centroid and verified that the rounded point lies inside the mapped polygon.",
+      "note": "Area label, not a public entrance or an instruction to enter protected habitat.",
+      "geometryValidation": {
+        "closedOuterRings": 1,
+        "insideMappedBoundary": true,
+        "previousAggregateMeanInsideBoundary": true,
+        "memberWayUrls": [
+          "https://www.openstreetmap.org/way/1449927083",
+          "https://www.openstreetmap.org/way/1448085125",
+          "https://www.openstreetmap.org/way/1449927088",
+          "https://www.openstreetmap.org/way/1449927082",
+          "https://www.openstreetmap.org/way/1449927085",
+          "https://www.openstreetmap.org/way/1449927087"
+        ]
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "waveland-clock-tower",
+      "name": "Waveland Clock Tower",
+      "lat": 41.9518818,
+      "lon": -87.6411055,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "53582240",
+        "name": "Waveland Clock Tower",
+        "url": "https://www.openstreetmap.org/way/53582240",
+        "bbox": [
+          -87.6413198,
+          41.9516403,
+          -87.6409219,
+          41.9521116
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/media/35311/download?inline="
+      ],
+      "verifiedFact": "The Park District’s Lincoln Park map locates the tower beside Sydney R. Marovitz Golf Course.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "peace-garden",
+      "name": "Lincoln Park Peace Garden",
+      "lat": 41.9586588,
+      "lon": -87.6455393,
+      "pointKind": "area label point inside mapped boundary",
+      "osmFeature": {
+        "type": "way",
+        "id": "1387134566",
+        "name": "Peace Garden",
+        "url": "https://www.openstreetmap.org/way/1387134566",
+        "bbox": [
+          -87.6458595,
+          41.9582402,
+          -87.6452581,
+          41.9591078
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-peace-garden"
+      ],
+      "verifiedFact": "The Park District, Greenpeace Great Lakes and Uptown residents renovated this former rock garden in the mid-1980s.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "Area markers identify the destination and are not turn-by-turn entrances.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "montrose-beach-dunes",
+      "name": "Montrose Beach Dunes",
+      "lat": 41.9656122,
+      "lon": -87.6333271,
+      "pointKind": "area label point inside mapped boundary",
+      "osmFeature": {
+        "type": "way",
+        "id": "238689193",
+        "name": "Montrose Beach Dunes Natural Area",
+        "url": "https://www.openstreetmap.org/way/238689193",
+        "bbox": [
+          -87.6351968,
+          41.963659,
+          -87.6316495,
+          41.96724
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area"
+      ],
+      "verifiedFact": "The Park District stopped grooming this area in 2001, allowing dune and rare panne habitat to develop.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "Area markers identify the destination and are not turn-by-turn entrances.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "chess-pavilion",
+      "name": "Chess Pavilion",
+      "lat": 41.911312,
+      "lon": -87.6250015,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "210686258",
+        "name": "Chess Pavilion",
+        "url": "https://www.openstreetmap.org/way/210686258",
+        "bbox": [
+          -87.6250491,
+          41.91123,
+          -87.6249597,
+          41.9114003
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/chess-pavilion-artwork"
+      ],
+      "verifiedFact": "The 1957 pavilion combines architect Maurice Webster’s design with sculptural work by Boris Gilbertson.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "eli-bates-fountain",
+      "name": "Eli Bates Fountain",
+      "lat": 41.9227619,
+      "lon": -87.6352143,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "210686594",
+        "name": "Eli Bates Fountain (Storks at Play)",
+        "url": "https://www.openstreetmap.org/way/210686594",
+        "bbox": [
+          -87.6352849,
+          41.9227093,
+          -87.6351444,
+          41.9228145
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/eli-bates-fountain"
+      ],
+      "verifiedFact": "Augustus Saint-Gaudens and Frederick MacMonnies collaborated on this 1887 fountain, also called Storks at Play.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "fountain-girl",
+      "name": "Fountain Girl",
+      "lat": 41.912163,
+      "lon": -87.6294241,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "3554705512",
+        "name": "Fountain Girl",
+        "url": "https://www.openstreetmap.org/node/3554705512",
+        "bbox": [
+          -87.6294241,
+          41.912163,
+          -87.6294241,
+          41.912163
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/fountain-girl-artwork"
+      ],
+      "verifiedFact": "George Wade designed the figure for a temperance fountain displayed at the 1893 World’s Columbian Exposition.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "grandmothers-garden",
+      "name": "Grandmother’s Garden",
+      "lat": 41.922954,
+      "lon": -87.6362668,
+      "pointKind": "interior label point in largest garden polygon",
+      "osmFeature": {
+        "type": "relation",
+        "id": "19585859",
+        "name": "Grandmother's Garden",
+        "url": "https://www.openstreetmap.org/relation/19585859",
+        "bbox": [
+          -87.6363993,
+          41.922086,
+          -87.635897,
+          41.9250341
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/grandmothers-garden"
+      ],
+      "verifiedFact": "The Park District identifies this garden at Stockton Drive and Webster Avenue, extending across three blocks.",
+      "reviewedAt": "2026-11-18",
+      "method": "Joined member ways by node IDs into closed outer rings; selected a polygon centroid and verified that the rounded point lies inside the mapped polygon.",
+      "note": "Area label, not a public entrance or instruction to enter planting or protected habitat. Grandmother’s Garden consists of seven distinct mapped garden polygons.",
+      "geometryValidation": {
+        "closedOuterRings": 7,
+        "insideMappedBoundary": true,
+        "previousAggregateMeanInsideBoundary": false,
+        "memberWayUrls": [
+          "https://www.openstreetmap.org/way/1428454728",
+          "https://www.openstreetmap.org/way/1428454729",
+          "https://www.openstreetmap.org/way/1428454730",
+          "https://www.openstreetmap.org/way/1428454731",
+          "https://www.openstreetmap.org/way/1428454740",
+          "https://www.openstreetmap.org/way/1428454742",
+          "https://www.openstreetmap.org/way/1428454743"
+        ]
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "aids-garden",
+      "name": "AIDS Garden Chicago",
+      "lat": 41.9389641,
+      "lon": -87.6347622,
+      "pointKind": "mapped feature point",
+      "osmFeature": {
+        "type": "node",
+        "id": "11948584298",
+        "name": "AIDS Garden Chicago",
+        "url": "https://www.openstreetmap.org/node/11948584298",
+        "bbox": [
+          -87.6347622,
+          41.9389641,
+          -87.6347622,
+          41.9389641
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-aids-garden-chicago",
+        "https://www.chicagoparkdistrict.com/parks-facilities/self-portrait-artwork"
+      ],
+      "verifiedFact": "The garden occupies the former Belmont Rocks gathering place and honors those affected by Chicago’s HIV epidemic.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway. CPD garden page contains an unrelated copied Lily Pool hours line, which was excluded. Sculpture and garden facts come from the dedicated Self-Portrait artwork page.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "chicago-fire-relic",
+      "name": "Chicago Fire Relic",
+      "lat": 41.9129422,
+      "lon": -87.6323251,
+      "pointKind": "artwork footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "1398715857",
+        "name": "Chicago Fire Relic",
+        "url": "https://www.openstreetmap.org/way/1398715857",
+        "bbox": [
+          -87.6323446,
+          41.9129275,
+          -87.6323055,
+          41.9129568
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/chicago-fire-relic",
+        "https://www.chicagohistory.org/exhibition/jaffee-history-trail/"
+      ],
+      "verifiedFact": "Workers found the relic in 1890 while excavating the site of a new Masonic Temple at State and Randolph.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "peoples-gas-pavilion",
+      "name": "Peoples Gas Education Pavilion",
+      "lat": 41.9178353,
+      "lon": -87.6323666,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "186667195",
+        "name": "People's Gas Educational Pavilion",
+        "url": "https://www.openstreetmap.org/way/186667195",
+        "bbox": [
+          -87.6324467,
+          41.9177643,
+          -87.6322864,
+          41.9179064
+        ]
+      },
+      "primarySources": [
+        "https://www.lpzoo.org/pressroom/nature-boardwalk/",
+        "https://www.lpzoo.org/private-events/"
+      ],
+      "verifiedFact": "Studio Gang designed the pavilion as part of Lincoln Park Zoo’s Nature Boardwalk.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "olive-park",
+      "name": "Milton Lee Olive Park",
+      "lat": 41.8943773,
+      "lon": -87.6104169,
+      "pointKind": "area label point inside mapped boundary",
+      "osmFeature": {
+        "type": "way",
+        "id": "211039472",
+        "name": "Milton Lee Olive Park",
+        "url": "https://www.openstreetmap.org/way/211039472",
+        "bbox": [
+          -87.6122724,
+          41.8926989,
+          -87.6091228,
+          41.8962177
+        ]
+      },
+      "primarySources": [
+        "https://www.choosechicago.com/listing/olive-park/"
+      ],
+      "verifiedFact": "The park is named in honor of Milton Lee Olive, a Chicago-born Medal of Honor recipient.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "Area markers identify the destination and are not turn-by-turn entrances.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "polk-bros-park",
+      "name": "Polk Bros Park",
+      "lat": 41.8910077,
+      "lon": -87.6110143,
+      "pointKind": "area label point inside mapped boundary",
+      "osmFeature": {
+        "type": "way",
+        "id": "273203457",
+        "name": "Polk Bros Park",
+        "url": "https://www.openstreetmap.org/way/273203457",
+        "bbox": [
+          -87.6137956,
+          41.8896584,
+          -87.6095205,
+          41.892966
+        ]
+      },
+      "primarySources": [
+        "https://navypier.org/pier-locations/polk-bros-park/"
+      ],
+      "verifiedFact": "This 13-acre public space includes outdoor performance lawns and was transformed through the Polk family’s 2014 gift.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "Area markers identify the destination and are not turn-by-turn entrances.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "chicago-shakespeare-theater",
+      "name": "Chicago Shakespeare Theater",
+      "lat": 41.8913149,
+      "lon": -87.6057335,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "753474606",
+        "name": "Chicago Shakespeare Theater",
+        "url": "https://www.openstreetmap.org/way/753474606",
+        "bbox": [
+          -87.6062504,
+          41.8911946,
+          -87.6052406,
+          41.8914413
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoshakes.com/"
+      ],
+      "verifiedFact": "The company’s Navy Pier address is 800 East Grand Avenue, with Shakespeare and other productions on its stages.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "chicago-history-museum",
+      "name": "Chicago History Museum",
+      "lat": 41.9120055,
+      "lon": -87.6315215,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "23987046",
+        "name": "Chicago History Museum",
+        "url": "https://www.openstreetmap.org/way/23987046",
+        "bbox": [
+          -87.6320688,
+          41.9115242,
+          -87.6309729,
+          41.9124573
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagohistory.org/about-us/museum-history/",
+        "https://www.chicagohistory.org/contact/",
+        "https://www.chicagohistory.org/exhibition/jaffee-history-trail/"
+      ],
+      "verifiedFact": "The museum’s building at Clark Street and North Avenue opened in 1932.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway. Used museum building way23987046; explicitly excluded similarly named underground parking geometry north of the museum.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": true
+      }
+    },
+    {
+      "id": "north-avenue-beach-house",
+      "name": "North Avenue Beach House",
+      "lat": 41.9134844,
+      "lon": -87.6241902,
+      "pointKind": "building footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "417380833",
+        "name": "North Avenue Beach House",
+        "url": "https://www.openstreetmap.org/way/417380833",
+        "bbox": [
+          -87.6247368,
+          41.9131825,
+          -87.6236846,
+          41.9137855
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach-house",
+        "https://www.chicagoparkdistrict.com/parks-facilities/north-avenue-beach"
+      ],
+      "verifiedFact": "The present beach house was dedicated in 2000 and echoes the ship-like design of the earlier 1940 building.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM feature matched to official facility or operator description; polygon centers checked to lie inside the mapped footprint.",
+      "note": "The pin identifies the feature, not a guaranteed public doorway.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": false,
+        "culture": false
+      }
+    },
+    {
+      "id": "kwa-ma-rolas",
+      "name": "Kwa-Ma-Rolas · Kwanusila",
+      "lat": 41.9489802,
+      "lon": -87.6424356,
+      "pointKind": "mapped sculpture point",
+      "osmFeature": {
+        "type": "node",
+        "id": "589512469",
+        "name": "Kwa-Ma-Rolas",
+        "url": "https://www.openstreetmap.org/node/589512469",
+        "bbox": [
+          -87.6424356,
+          41.9489802,
+          -87.6424356,
+          41.9489802
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/kwa-ma-rolas-artwork"
+      ],
+      "verifiedFact": "Tony Hunt carved the replica after the original pole was returned to British Columbia.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM sculpture matched to Park District artwork history and location notes. Closed sculpture footprint centroid checked inside the polygon where applicable.",
+      "note": "Exact named OSM artwork node. CPD location notes place it east of Lake Shore Drive on the Addison axis. The CPD year summary and narrative differ, so no installation year is asserted.",
+      "geometryValidation": {
+        "matchesNamedNode": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    },
+    {
+      "id": "eugene-field-memorial",
+      "name": "Eugene Field Memorial",
+      "lat": 41.9211449,
+      "lon": -87.6321326,
+      "pointKind": "sculpture footprint center",
+      "osmFeature": {
+        "type": "way",
+        "id": "210686593",
+        "name": "Eugene Field Memorial",
+        "url": "https://www.openstreetmap.org/way/210686593",
+        "bbox": [
+          -87.6321386,
+          41.9211282,
+          -87.6321266,
+          41.9211616
+        ]
+      },
+      "primarySources": [
+        "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-eugene-field-memorial"
+      ],
+      "verifiedFact": "Edward McCartan’s memorial was installed in 1922; scenes and lines from Field’s writing appear on its stone base.",
+      "reviewedAt": "2026-11-18",
+      "method": "Named OSM sculpture matched to Park District artwork history and location notes. Closed sculpture footprint centroid checked inside the polygon where applicable.",
+      "note": "Uses the named sculpture footprint northeast of Helen Brach Primate House, matching CPD’s location note rather than its generic park mailing address.",
+      "geometryValidation": {
+        "insideMappedFootprint": true,
+        "closedRing": true
+      },
+      "practicalReview": "Reviewed 2026-11-18: location guidance follows named geometry or primary location notes; current hours, tickets, reservations, programs and facility operation are deferred to the linked operator.",
+      "filterReview": {
+        "art": true,
+        "culture": false
+      }
+    }
+  ],
+  "qaSummary": {
+    "reviewedAt": "2026-11-18",
+    "namedNodesAndClosedFootprintsChecked": true,
+    "multipolygonRingsReconstructed": true,
+    "boardwalkAnchorVerifiedOnBridge": true,
+    "filterMappingsReviewed": true,
+    "unsupportedOperatingClaimsRemoved": true,
+    "corrections": [
+      "Grandmother’s Garden aggregate vertex mean fell outside its seven mapped garden polygons; replaced with an interior point in its largest garden polygon.",
+      "Jarvis sanctuary now uses a verified centroid of its assembled polygon; former mean also fell inside.",
+      "Conservatory, two event venues, Chess Pavilion artwork and AIDS Garden public art now match their intended filters.",
+      "Removed assumptions about seasonal fountain operation and physical interpretive signage."
+    ],
+    "newOmissionsAdded": [
+      "kwa-ma-rolas",
+      "eugene-field-memorial"
+    ]
+  }
+}
